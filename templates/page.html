@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="intro">
+    <div class="column_intro">
+        {% if page.slug == "home" %}
+        <div class="imageblock">
+            <!-- TODO: update image -->
+            <img src="/img/header-home-2015.jpg" alt="PyCon UK 2016">
+        </div>
+        {% else %}
+        <div class="textblock">
+            <h1 class="huge">{{ page.title }}</h1>
+        </div>
+        {% endif %}
+    </div>
+</div>
+
+<article class="main-article">
+    <div class="content">
+        <div class="column_content">
+            <div class="textblock">
+                {{ page.content }}
+            </div>
+        </div>
+    </div>
+</article>
+{% endblock %}

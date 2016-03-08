@@ -1,0 +1,5 @@
+.venv
+output
+.sass-cache
+*.swp
+*.pyc
