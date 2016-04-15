@@ -9,9 +9,8 @@ for work.
 
 We couldn&rsquo;t run the conference without the generous support of our
 sponsors.  In return, we will ensure that our your company is given exposure
-before, during, and after the conference, and we will work with you to
-ensure that you get exactly you&rsquo;re looking for out of sponsoring the
-conference.
+before, during, and after the conference, and we will work with you so that you
+get exactly you&rsquo;re looking for out of sponsoring the conference.
 
 
 ## Benefits
@@ -39,10 +38,10 @@ the programme to give a presentation about a topic of your choice.
 There are three available levels of sponsorship:
 
 * Gold sponsorship costs &pound;9,995.  You will be eligible for ten free
-tickets, and will be invited to give a fifteen minute sponsored keynote on any
+tickets, and will be invited to give a fifteen-minute sponsored keynote on any
 appropriate topic during the conference.
 * Silver sponsorship costs &pound;4,995.  You will be eligible for five
-free tickets, and will be invited to give a five minute sponsored lightning
+free tickets, and will be invited to give a five-minute sponsored lightning
 talk during the conference.
 * Bronze sponsorship costs &pound;1,995.  You will be eligible for two
 free tickets.
