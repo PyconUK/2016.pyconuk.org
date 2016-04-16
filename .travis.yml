@@ -11,5 +11,4 @@ install:
 
 script: make test
 
-# TODO: reinstate this
-# after_success: make deploy
+after_success: make deploy
