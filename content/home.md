@@ -23,7 +23,7 @@ speakers.
 
 Through the generosity of our sponsors, we&rsquo;re able to make the conference
 more affordable than in recent years, with individual [tickets](/tickets/) only
-&pound;99.  For the first time, we&rsquo;re also offering a [Financial Aid
+&pound;96.  For the first time, we&rsquo;re also offering a [Financial Aid
 Programme](/financial-aid/).
 
 PyCon UK cannot happen without sponsors.  If you or your company are interested
