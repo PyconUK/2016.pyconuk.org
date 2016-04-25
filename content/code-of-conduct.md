@@ -1,6 +1,6 @@
 type: page
-title: Code Of Conduct
 slug: code-of-conduct
+title: Code Of Conduct
 ---
 
 We value the participation of each member of the Python community and want all

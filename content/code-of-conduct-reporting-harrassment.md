@@ -1,5 +1,6 @@
 type: page
 url: code-of-conduct/reporting-harrassment/index.html
+title: Reporting harrassment
 ---
 
 ## How to report harrassment

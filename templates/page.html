@@ -1,28 +1,32 @@
 {% extends "base.html" %}
 
 {% block content %}
-<div class="intro">
-    <div class="column_intro">
-        {% if page.slug == "home" %}
-        <div class="imageblock">
-            <!-- TODO: update image -->
-            <img src="/img/header-home-2015.jpg" alt="PyCon UK 2016">
-        </div>
-        {% else %}
-        <div class="textblock">
-            <h1 class="huge">{{ page.title }}</h1>
-        </div>
+<div class="jumbotron">
+  <div id="glitter_column_billboard_top">
+    <div class="glitter_page_blocktype_poster glitter_page_block_first glitter_page_block glitter_page_block_odd glitter_page_block_last">
+      <div class="image-holder">
+        <img src="/img/home.png" class="bg-img">
+      </div>
+      <div class="poster-callout">
+        <h1>{{ page.callout_big_1 }}</h1>
+        {% if page.callout_big_2 %}
+        <br/><h1>{{ page.callout_big_2 }}</h1>
         {% endif %}
+        {% if page.callout_small %}
+        <br/><h4>{{ page.callout_small }}</h4>
+        {% endif %}
+      </div>
     </div>
+  </div>
 </div>
 
 <article class="main-article">
-    <div class="content">
-        <div class="column_content">
-            <div class="textblock">
-                {{ page.content }}
-            </div>
-        </div>
+  <div class="content">
+    <div class="column_content">
+      <div class="textblock">
+        {{ page.content }}
+      </div>
     </div>
+  </div>
 </article>
 {% endblock %}

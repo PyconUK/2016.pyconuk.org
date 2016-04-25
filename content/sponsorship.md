@@ -1,6 +1,8 @@
 type: page
-title: Sponsorship
 slug: sponsorship
+title: Sponsorship
+callout_big_1: The conference wouldn’t happen without
+callout_big_2: the support of our sponsors
 ---
 
 Sponsoring PyCon UK is a great way for your company to support the Python
