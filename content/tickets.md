@@ -6,7 +6,7 @@ slug: tickets
 Tickets cost:
 
  * &pound;96 if you are paying for your own ticket;
- * &pound;144 if your company is paying for your ticket.
+ * &pound;144 if your employer is paying for your ticket.
 
 Additionally, day tickets are available for &pound;36.
 
