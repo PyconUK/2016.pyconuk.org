@@ -1,14 +1,14 @@
 type: page
-url: code-of-conduct/reporting-harrassment/index.html
+url: code-of-conduct/reporting-harassment/index.html
 title: Reporting harrassment
 ---
 
-## How to report harrassment
+## How to report harassment
 
-Contact details for committee members who will handle reports of harrassment
+Contact details for committee members who will handle reports of harassment
 will be made available shortly before the conference.
 
-Should a harrassment incident occur, please report it, preferably in writing.
+Should a harassment incident occur, please report it, preferably in writing.
 All reports will be confidential.
 
 When reporting the incident, try to gather as much information as available.  A

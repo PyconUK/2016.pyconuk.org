@@ -3,7 +3,7 @@ url: code-of-conduct/handling-reports/index.html
 title: Handling reports of harrassment
 ---
 
-## Guidelines for responding to reports of harrassment
+## Guidelines for responding to reports of harassment
 
 All committee members should read this document and be familiar with its
 contents.
@@ -11,7 +11,7 @@ contents.
 Be sure to have a good understanding of our [Code of
 Conduct](/code-of-conduct/). Also have a good understanding of what is expected
 from an attendee who reports a harassment incident. These guidelines can be
-found [here](/code-of-conduct/reporting-harrassment).
+found [here](/code-of-conduct/reporting-harassment).
 
 ### First steps on receiving a report
 
