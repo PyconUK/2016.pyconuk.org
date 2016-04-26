@@ -11,8 +11,8 @@ centre of Cardiff.
 
 ### Getting to the venue
 
-TODO
+There is information on the [venue website](http://www.cardiffcityhall.com/find-us)
+about getting to Cardiff, getting to the venue, and parking.
 
-### Hotels
-
-TODO
+For those travelling from overseas, there is a small airport at Cardiff, and a
+larger airport at Bristol.
