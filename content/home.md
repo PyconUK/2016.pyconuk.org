@@ -13,9 +13,10 @@ September.
 
 We&rsquo;ll be putting on a programme of talks, workshops, and other events
 aimed at the whole Python community, from web developers to hardware engineers,
-from professionals to hobbyists.  There will be an education programme for
-teachers, and an expanded research programme aimed at researchers from the
-humanities, arts and scientists.
+from professionals to hobbyists.  There will be an [education
+programme](/teachers/) for teachers, and an [expanded research
+programme](/research/) aimed at researchers from the humanities, arts and
+scientists.
 
 We&rsquo;re a community&hyphen;led, volunteer&hyphen;run conference, and this
 means we want you to be involved.  If you&rsquo;d like to give a talk or run a
