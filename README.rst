@@ -41,6 +41,8 @@ The site is hosted as a Project Page on GitHub Pages, and so it is the ``gh-page
 
 This should be done automatically by Travis after it has built the ``master`` branch, but in case this does not happen, somebody with commit access to the repository can run ``make deploy``.
 
+When setting up Travis to run this initially you must provide an OAuth token for authentication in the ``GH_TOKEN`` env var.  To do this create a `Personal Access Token on GitHub <https://github.com/settings/tokens>`_ then create the ``GH_TOKEN`` key pair on the `Travis settings page <https://travis-ci.org/PyconUK/2016.pyconuk.org/settings>`_.
+
 .. _wok: http://wok.mythmon.com/
 .. _Markdown: https://pythonhosted.org/Markdown/
 .. _reStructuredText: http://docutils.sourceforge.net/rst.html
