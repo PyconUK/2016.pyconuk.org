@@ -16,4 +16,4 @@ those who would otherwise not be able to afford to attend the conference.
 
 Choose your ticket below:
 
-<tito-widget event="pyconuk/2016">Click [here](https://ti.to/pyconuk/2016) if you don’t see a ticket form</tito-widget>
+<tito-widget event="pyconuk/2016">Visit [our ticket page on Tito](https://ti.to/pyconuk/2016) if you don’t see a ticket form</tito-widget>
