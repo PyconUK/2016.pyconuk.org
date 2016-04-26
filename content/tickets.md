@@ -1,6 +1,7 @@
 type: page
 title: Tickets
 slug: tickets
+tito_required: yes
 ---
 
 Tickets cost:
@@ -13,4 +14,6 @@ Additionally, day tickets are available for &pound;36.
 [Financial aid](/financial-aid/) is available to help cover ticket costs for
 those who would otherwise not be able to afford to attend the conference.
 
-TODO: Embed ti.to form
+Choose your ticket below:
+
+<tito-widget event="pyconuk/2016"></tito-widget>
