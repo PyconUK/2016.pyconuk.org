@@ -11,14 +11,14 @@ from around the world.  This year, the conference is held at [Cardiff City
 Hall](http://www.cardiffcityhall.com/), from Thursday 15th to Monday 19th
 September.
 
-We&rsquo;ll be putting on a programme of talks, workshops, and other events
+We&rsquo;ll be putting on a programme of talks, workshops and other events
 aimed at the whole Python community, from web developers to hardware engineers,
 from professionals to hobbyists.  There will be an [education
-programme](/teachers/) for teachers, and an [expanded research
+programme](/teachers/) for teachers and an [expanded research
 programme](/research/) aimed at researchers from the humanities, arts and
 scientists.
 
-We&rsquo;re a community&hyphen;led, volunteer&hyphen;run conference, and this
+We&rsquo;re a community&hyphen;led, volunteer&hyphen;run conference and this
 means we want you to be involved.  If you&rsquo;d like to give a talk or run a
 workshop, please see our [Call For Proposals](/cfp/).  We&rsquo;re particularly
 keen to hear from under&hyphen;represented groups and first&hyphen;time
@@ -34,8 +34,8 @@ in supporting the conference &mdash; perhaps you&rsquo;re recruiting, or sell
 to developers, or want to give something back to the community &mdash; take a
 look at our [sponsorship options](/sponsorship/).
 
-We&rsquo;re committed to ensuring the conference is welcoming, enjoyable, and
-safe for everyone, and so we expect all attendees to agree to our [Code of
+We&rsquo;re committed to ensuring the conference is welcoming, enjoyable and
+safe for everyone, so we expect all attendees to agree to our [Code of
 Conduct](/code-of-conduct/).
 
 If you&rsquo;ve got any questions, [get in touch](/contact/).
