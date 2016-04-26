@@ -32,7 +32,8 @@ conference, where there will be sessions and activities aimed at all Python
 programmers of all backgrounds and abilities.  Day tickets are available for
 those who are only able to come for one day.
 
-TODO: embed ticket form here.
+[Click here](/tickets/) to buy your ticket.  Applications for bursaries will
+open by 1st May.
 
 More:
 
