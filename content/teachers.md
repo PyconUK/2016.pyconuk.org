@@ -1,9 +1,10 @@
 type: page
-title: Teachers at PyCon UK
 slug: teachers
+title: Teachers at PyCon UK
+callout_big_1: A one-day mini-conference about
+callout_big_2: Python in the classroom
+callout_small: Friday 16th September
 ---
-
-## Friday 16th September
 
 We&rsquo;re pleased to welcome teachers back to PyCon UK for a day of training,
 collaboration, and networking, in partnership with the Raspberry Pi Foundation.

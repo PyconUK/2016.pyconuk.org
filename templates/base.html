@@ -1,45 +1,61 @@
 <!DOCTYPE html>
 <html>
-
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta http-equiv="X-Clacks-Overhead" content="GNU John Pinner">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <title>{{ page.title }}</title>
 
-        <meta http-equiv="X-Clacks-Overhead" content="GNU John Pinner">
-        <link rel="stylesheet" href="/css/main.css">
+        <link href="/css/styles.css" rel="stylesheet" />
+        <script src="https://use.typekit.net/kla0hed.js"></script>
+        <script>try{Typekit.load({ async: true });}catch(e){}</script>
+        <!--[if lt IE 9]>
+        <script src="/js/modernizr.js"></script>
+        <![endif]-->
     </head>
 
-    <body class="{{ page.slug }}">
+    <body class="home">
+        <header class="head">
+            <h1><a href="/"><span>PYCON UK</span></a></h1>
 
-        <header class="page-head">
-            <div class="wrap">
-                <h1><a href="/">PyCon UK 2016</a></h1>
-                <label class="menu-icon" for="toggle-nav">Menu</label>
-                <input type="checkbox" id="toggle-nav" class="hidden" />
-                <nav class="nav">
-                    <ul>
-                        <li><a {% if page.title == "Programme" %} class="active"{% endif %}href="/programme/">Programme</a></li>
-                        <li><a {% if page.title == "Venue" %} class="active"{% endif %}href="/venue/">Venue</a></li>
-                        <li><a {% if page.title == "Code Of Conduct" %} class="active"{% endif %}href="/code-of-conduct/">Code of Conduct</a></li>
-                        <li class="halfway"><a {% if page.title == "Contact" %} class="active"{% endif %}href="/contact/">Contact</a></li>
-                        <li><a {% if page.title == "Sponsorship" %} class="active"{% endif %}href="/sponsorship/">Sponsor</a></li>
-                        <li><a {% if page.title == "Tickets" %} class="active"{% endif %}href="/tickets/">Tickets</a></li>
-                    </ul>
-                </nav>
-            </div>
+            <input type="checkbox" name="primary-nav" class="hidden" id="primary-nav" />
+            <label for="primary-nav"></label>
+            <a href="/tickets" class="btn small">Tickets</a>
+            <nav>
+                <ul class="primary pull-right">
+                    <li><a href="/cfp">Call for Proposals</a></li>
+                    <li><a href="/sponsorship">Sponsorship</a></li>
+                    <li><a href="/venue">Venue</a></li>
+                    <li><a href="/code-of-conduct">Code of Conduct</a></li>
+                    <li><a href="/contact">Contact</a></li>
+                </ul>
+            </nav>
         </header>
 
         {% block content %}{% endblock %}
 
-        <footer class="page-foot">
-            <div class="wrap">
-                &copy; PyCon UK Society 2016. All rights reserved.
+        <footer class="foot">
+            <div class="company-information">
+                <ul class="social-icons">
+                    <li>
+                        <a href="https://twitter.com/PyConUK" class="twitter"></a>
+                    </li>
+                    <li>
+                        <a href="https://www.youtube.com/channel/UChA9XP_feY1-1oSy2L7acog" class="youtube"></a>
+                    </li>
+                </ul>
+                <div class="foot-nav pull-right">
+                    <ul>
+                        <li><a href="https://www.blanc.ltd.uk/">Design by Blanc</a></li>
+                    </ul>
+                </div>
+                <div class="legal pull-left">
+                    <p>&copy; 2016 PyCon UK. All rights reserved.</p>
+                </div>
             </div>
         </footer>
-
     </body>
 
     <!-- Python Powered! -->

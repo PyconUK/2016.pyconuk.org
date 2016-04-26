@@ -1,6 +1,6 @@
 type: page
-title: Contact
 slug: contact
+title: Contact
 ---
 
 The conference committee can be contacted by email at pyconuk-enquiries@python.org.

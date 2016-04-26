@@ -1,5 +1,6 @@
 type: page
 url: code-of-conduct/handling-reports/index.html
+title: Handling reports of harrassment
 ---
 
 ## Guidelines for responding to reports of harrassment
