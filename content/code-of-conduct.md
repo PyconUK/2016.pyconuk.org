@@ -60,11 +60,11 @@ warning the offender or expulsion from the conference with no refund.
 
 If you are being harassed, notice that someone else is being harassed, or have
 any other concerns, you should contact a member of the conference committee.
-Please see these [reporting guidelines](/code-of-conduct/reporting-harrassment/).
+Please see these [reporting guidelines](/code-of-conduct/reporting-harassment/).
 
 Contact details will be made available shortly before the conference.
 
-Reports of harrassment will be dealt with according to [these
+Reports of harassment will be dealt with according to [these
 guidelines](/code-of-conduct/handling-reports/).
 
 - - -
