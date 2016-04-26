@@ -16,7 +16,7 @@ Code4Research will run from Saturday 17th September -- Monday 19th:
 [Book now](/tickets/), [propose a session](/cfp/) or learn about [sponsorship opportunities](/sponsorship/).
 We are very keen to attract early career researchers, including MSc and PhD students, who should apply for [financial aid](/financial-aid/).
 
-TODO: embed ticket form here.
+[Click here](/tickets/) to buy your ticket.
 
 More:
 
