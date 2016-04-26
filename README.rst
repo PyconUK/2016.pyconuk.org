@@ -43,6 +43,8 @@ This should be done automatically by Travis after it has built the ``master`` br
 
 When setting up Travis to run this initially you must provide an OAuth token for authentication in the ``GH_TOKEN`` env var.  To do this create a `Personal Access Token on GitHub <https://github.com/settings/tokens>`_ then create the ``GH_TOKEN`` key pair on the `Travis settings page <https://travis-ci.org/PyconUK/2016.pyconuk.org/settings>`_.
 
+Note: this is tied to a single user on GitHub, however any other GitHub user with valid permissions can replace the key on Travis.
+
 .. _wok: http://wok.mythmon.com/
 .. _Markdown: https://pythonhosted.org/Markdown/
 .. _reStructuredText: http://docutils.sourceforge.net/rst.html
