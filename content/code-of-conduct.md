@@ -37,7 +37,7 @@ refund at the sole discretion of the conference organisers.
 Harassment includes offensive communication related to gender, sexual
 orientation, gender identity and expression, disability, physical appearance,
 body size, race, or religion; sexual images in public spaces; deliberate
-intimidation, stalking, following, harassing photography or recordin;,
+intimidation, stalking, following, harassing photography or recording;
 sustained disruption of talks or other events; inappropriate physical contact;
 and unwelcome sexual attention.
 
