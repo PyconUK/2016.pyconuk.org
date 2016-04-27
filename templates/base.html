@@ -18,6 +18,14 @@
         {% if page.tito_required %}
         <link rel="stylesheet" type="text/css" href='https://css.tito.io/v1' />
         <script src='https://js.tito.io/v1' async></script>
+        
+        <!-- Quick fix for CSS leak -->
+        <style>
+            .tito-ticket-quantity-field {
+                font-size: 14px !important;
+                padding: 6px 12px !important;
+            }
+        </style>
         {% endif %}
     </head>
 
