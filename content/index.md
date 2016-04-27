@@ -1,5 +1,6 @@
 type: page
-slug: home
+slug: index
+url: index.html
 title: Home
 callout_big_1: PyCon UK is your community-led
 callout_big_2: volunteer-run conference
