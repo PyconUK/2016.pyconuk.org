@@ -4,12 +4,12 @@ slug: tickets
 tito_required: yes
 ---
 
-Tickets cost:
+The main conference runs from Friday 16th to Monday 19th September, with tickets costing:
 
  * £96 if you are paying for your own ticket;
  * £144 if your employer is paying for your ticket.
 
-Entrance to the Thursday is free of charge.
+Entrance to the day of introductory workshops on Thursday is free of charge.
 
 There are cheaper tickets if you can only come for some days, but we hope that you'll come for the whole conference!
 
