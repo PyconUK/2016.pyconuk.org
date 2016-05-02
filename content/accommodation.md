@@ -8,6 +8,22 @@ callout_big_1: Where to stay in Cardiff
 
 ### Recommended partner hotels
 
+#### Royal Hotel
+
+The [Royal Hotel](http://www.royalhotelcardiff.com) is perfectly-placed, mid-way between City Hall (about 10 minutes'
+walk) and Cardiff Central Railway station.
+
+Please use the code *PyCon* when booking, using the [Royal Hotel booking
+form](http://fe.avvio.com/convert/site/The%20Royal%20Hotel%20Cardiff/en/index.php). The negotiated PyCon UK rates
+include breakfast, in a double or twin room.
+
+* Example rate: five nights for two people, including breakfast: £182.50 each
+* Tel. 029 20550755
+* [email Royal Hotel reservations](mailto:reservations@theroyalhotel.uk.com)
+
+
+#### Other recommended hotels
+
 We're negotiating with several local hotels to provide preferential rates for attendees. As we make these arrangements,
 we'll list them here, along with codes you might need to secure a discount. **We hope to have a complete list by Friday
 6th May.**
