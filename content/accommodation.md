@@ -45,4 +45,3 @@ the vicinity, courtesy of
 Google](https://www.google.co.uk/maps/place/Cardiff+City+Hall/@51.4813123,-3.1780703,16z/data=!4m9!1m6!2m5!1shotel!3m3!1
 shotel!2sCardiff+City+Hall,+Gorsedd+Gardens+Road,+Cardiff+CF10+3ND!3s0x486e1cba4df70b67:0x6c4de08828721b10!3m1!1s0x00000
 00000000000:0x6c4de08828721b10?hl=en).
-
