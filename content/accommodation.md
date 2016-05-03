@@ -10,16 +10,18 @@ callout_big_1: Where to stay in Cardiff
 
 #### Royal Hotel
 
-The [Royal Hotel](http://www.royalhotelcardiff.com) is perfectly-placed, mid-way between City Hall (about 10 minutes'
-walk) and Cardiff Central Railway station.
+The [Royal Hotel](http://www.royalhotelcardiff.com) (tel +44 29 20550755; [email Royal Hotel
+reservations](mailto:reservations@theroyalhotel.uk.com)) is perfectly-placed, mid-way between City Hall (about 10
+minutes' walk) and Cardiff Central Railway station.
 
 Please use the code *PyCon* when booking, using the [Royal Hotel booking
 form](http://fe.avvio.com/convert/site/The%20Royal%20Hotel%20Cardiff/en/index.php). The negotiated PyCon UK rates
 include breakfast, in a double or twin room.
 
-* Example rate: five nights for two people, including breakfast: £182.50 each
-* Tel. 029 20550755
-* [email Royal Hotel reservations](mailto:reservations@theroyalhotel.uk.com)
+Five nights bed & breakfast for two people (per person):
+
+*   **PyCon rate**: £182.50
+*   **standard rate**: £227.36
 
 
 #### Other recommended hotels
