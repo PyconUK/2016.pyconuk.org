@@ -13,8 +13,11 @@ Entrance to the day of introductory workshops on Thursday is free of charge.
 
 There are cheaper tickets if you can only come for some days, but we hope that you'll come for the whole conference!
 
-[Financial aid](/financial-aid/) is available to help cover ticket costs for
+[Financial assistance](/financial-aid/) is available to help cover ticket costs for
 those who would otherwise not be able to afford to attend the conference.
+
+When buying a ticket, you can make a donation towards our financial assistance budget.
+Every penny donated will be used to support the attendance of somebody who would otherwise find it hard to afford to come to the conference.
 
 Choose your ticket below:
 
