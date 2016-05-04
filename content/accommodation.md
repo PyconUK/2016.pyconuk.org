@@ -23,6 +23,19 @@ Five nights bed & breakfast for two people (per person):
 *   **PyCon rate**: £182.50
 *   **standard rate**: £227.36
 
+#### Sleeperz Hotel
+
+[Sleeperz Hotel](http://www.sleeperz.com) (tel +44 29 2047 8747); [email Sleeperz Hotel
+reservations](reservations@sleeperzcardiff.com)) is comfortable budget hotel, a minute's walk from the station and 15
+minutes' walk from City Hall.
+
+Please use the code *PYCON2016* when booking (phone or email). The negotiated PyCon UK rates include breakfast, in a
+double or twin room.
+
+Five nights bed & breakfast for two people (per person) with a *flexible cancellation policy (14.00 on day of arrival)*:
+
+*  **PyCon rate**: £192.50
+*  **standard rate**: £211.13
 
 #### Other recommended hotels
 
