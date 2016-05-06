@@ -14,9 +14,9 @@ September.
 
 ## Overview of the programme
 
-* **Thursday**: a day of [introductory workshops, talks and more](/introduction)
+* **Thursday**: [introductory workshops, talks and more](/introduction)
 * **Friday to Sunday**: a packed programme of talks and other sessions
-* **Monday**: sprints and more advanced workshops
+* **Monday**: [sprints and more advanced workshops](/code)
 
 We'll be putting on a programme of talks, workshops, and other events aimed at
 the whole Python community, from web developers to hardware engineers, from
