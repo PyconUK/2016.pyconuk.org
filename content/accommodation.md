@@ -18,7 +18,7 @@ Please use the code *PyCon* when booking, using the [Royal Hotel booking
 form](http://fe.avvio.com/convert/site/The%20Royal%20Hotel%20Cardiff/en/index.php). The negotiated PyCon UK rates
 include breakfast, in a double or twin room.
 
-Five nights bed & breakfast for two people (per person):
+Five nights bed & breakfast for two people, *per person*:
 
 *   **PyCon rate**: £182.50
 *   **standard rate**: £227.36
@@ -26,16 +26,35 @@ Five nights bed & breakfast for two people (per person):
 #### Sleeperz Hotel
 
 [Sleeperz Hotel](http://www.sleeperz.com) (tel +44 29 2047 8747); [email Sleeperz Hotel
-reservations](reservations@sleeperzcardiff.com)) is comfortable budget hotel, a minute's walk from the station and 15
+reservations](mailto:reservations@sleeperzcardiff.com)) is a comfortable budget hotel, a minute's walk from the station and 15
 minutes' walk from City Hall.
 
 Please use the code *PYCON2016* when booking (phone or email). The negotiated PyCon UK rates include breakfast, in a
 double or twin room.
 
-Five nights bed & breakfast for two people (per person) with a *flexible cancellation policy (14.00 on day of arrival)*:
+Five nights bed & breakfast for two people with a *flexible cancellation policy* (14.00 on day of arrival), *per
+person*:
 
 *  **PyCon rate**: £192.50
 *  **standard rate**: £211.13
+
+#### Sandringham Hotel
+
+[Sandringham Hotel](http://sandringham-hotel.com) (tel +44 29 2023 2161); [email Sandringham Hotel
+reservations](mailto:mm@sandringham-hotel.com)) is mid-way between City Hall (about 10
+minutes' walk) and Cardiff Central Railway station.
+
+Please note that the hotel has five floors **but does not have a lift**. It's **not** suitable for people with reduced
+mobility.
+
+Please use the code *trip1* when booking (phone or email). The negotiated PyCon UK rate is a 10% discount on whatever
+the standard rate would be for your stay).
+
+Five nights bed & breakfast for two people, *per person*:
+
+*  **PyCon rate**: £166.50
+*  **standard rate**: £185.00
+
 
 #### Other recommended hotels
 
