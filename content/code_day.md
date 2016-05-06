@@ -1,5 +1,5 @@
 type: page
-slug: code
+slug: code-day
 title: Code day
 callout_big_1: Our day of workshops, sprints and collaboration
 callout_small: Monday 19th September
@@ -20,9 +20,9 @@ Would you like to run a workshop? [Tell us about it!](/cfp)
 
 ## Sprints
 
-Code sprints provide members of an open-source software community to collaborate in person to tackle outstanding issues
-or developments in a project’s code-base, or even to get a fledgling project started. They are huge fun, and a
-fantastic way to become involved in a new project.
+Code sprints provide members of an open-source software community opportunities to collaborate in person to tackle
+outstanding issues or developments in a project’s code-base, or even to get a fledgling project started. They are huge
+fun, and a fantastic way to become involved in a new project.
 
 Newcomers are welcome at sprints - so don't think they're only for so-called 'experts'.
 
@@ -33,9 +33,10 @@ If you've got this far but still aren't sure what a sprint is, you should read [
 
 ## Clinics
 
-Take your sickly code to the friendly PyCon code doctor. Take your CV to a recruitment expert.
+Take your sickly code to the friendly PyCon UK code doctor. Take your CV to a recruitment expert.
 
-Would you like to perform a valuable PyCon service by running or taking part in a clinic? [Tell us what you'd like to do.](/cfp)
+Would you like to perform a valuable PyCon UK service by running or taking part in a clinic? [Tell us what you'd like
+to do.](/cfp)
 
 ## Other collaboration
 

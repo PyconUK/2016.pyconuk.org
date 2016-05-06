@@ -18,7 +18,7 @@ Absolutely. Everyone’s welcome. It’s not an elite club, or for experts only.
 That’s no problem. There’ll be an introduction to explain how it works, and other people will be only too pleased to help you get started or to work with you.
 
 ## What do I need?
-You'll need to know the basics of using the appropriate version control system (it'll probably be Git/GitHub) to checkout code and make pull requests, to know how to use the issue tracker, and so on. You’ll also need your own computer with a suitable Python environment set up on it - but there'll be people to help with that too.
+You'll need to know the basics of using the appropriate version control system (it'll probably be Git/GitHub) to check out code and make pull requests, to know how to use the issue tracker, and so on. You’ll also need your own computer with a suitable Python environment set up on it - but there'll be people to help with that too.
 
 ## But I’m not actually a very good Python programmer.
 That’s OK too, neither am I and neither is everyone else. You truly don’t need to be very good Python programmer. In fact, you barely need to be a programmer at all, because even the most novice sprinter can make a very valuable contribution by helping improve documentation, for example.
@@ -27,7 +27,7 @@ That’s OK too, neither am I and neither is everyone else. You truly don’t ne
 It simply doesn’t work like that. For one thing, one of the main points of a sprint is to encourage and help new people. You’ll be able to work at your own pace, learning the things you need to learn as you go along, and you’ll be supported by other people.
 
 ## Do I have to stay for a whole sprint?
-Not at all. Drop in just for a bit, if you just want to see what’s like. There'll be plenty of other things on the code day too, such as [clinics and workshops](/code), so don’t miss them. Other people will be dropping in and out of sprints as well.
+Not at all. Drop in just for a bit, if you just want to see what it’s like. There'll be plenty of other things on the code day too, such as [clinics and workshops](/code-day), so don’t miss them. Other people will be dropping in and out of sprints as well.
 
 ## Can I just come along to see what it’s like?
 Yes! The curious are very welcome too.
