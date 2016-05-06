@@ -20,7 +20,7 @@ include breakfast, in a double or twin room.
 
 Five nights bed & breakfast for two people, *per person*:
 
-*   **PyCon rate**: £182.50
+*   **PyCon UK rate**: £182.50
 *   **standard rate**: £227.36
 
 #### Sleeperz Hotel
@@ -35,7 +35,7 @@ double or twin room.
 Five nights bed & breakfast for two people with a *flexible cancellation policy* (14.00 on day of arrival), *per
 person*:
 
-*  **PyCon rate**: £192.50
+*  **PyCon UK rate**: £192.50
 *  **standard rate**: £211.13
 
 #### Sandringham Hotel
@@ -52,7 +52,7 @@ the standard rate would be for your stay).
 
 Five nights bed & breakfast for two people, *per person*:
 
-*  **PyCon rate**: £166.50
+*  **PyCon UK rate**: £166.50
 *  **standard rate**: £185.00
 
 
@@ -90,7 +90,7 @@ Consult [Wimdu](http://www.wimdu.com/) and [Airbnb](https://www.airbnb.co.uk/).
 
 ## Get the location right
 
-You’ll have most fun at PyCon if you’re staying somewhere a short walk from City Hall. Here's a [handy map of hotels in
+You’ll have most fun at PyCon UK if you’re staying somewhere a short walk from City Hall. Here's a [handy map of hotels in
 the vicinity, courtesy of
 Google](https://www.google.co.uk/maps/place/Cardiff+City+Hall/@51.4813123,-3.1780703,16z/data=!4m9!1m6!2m5!1shotel!3m3!1
 shotel!2sCardiff+City+Hall,+Gorsedd+Gardens+Road,+Cardiff+CF10+3ND!3s0x486e1cba4df70b67:0x6c4de08828721b10!3m1!1s0x00000
