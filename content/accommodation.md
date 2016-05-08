@@ -18,7 +18,7 @@ Please use the code *PyCon* when booking, using the [Royal Hotel booking
 form](http://fe.avvio.com/convert/site/The%20Royal%20Hotel%20Cardiff/en/index.php). The negotiated PyCon UK rates
 include breakfast, in a double or twin room.
 
-Five nights bed & breakfast for two people, *per person*:
+Five nights' bed & breakfast for two people, *per person*:
 
 *   **PyCon UK rate**: £182.50
 *   **standard rate**: £227.36
@@ -32,7 +32,7 @@ minutes' walk from City Hall.
 Please use the code *PYCON2016* when booking (phone or email). The negotiated PyCon UK rates include breakfast, in a
 double or twin room.
 
-Five nights bed & breakfast for two people with a *flexible cancellation policy* (14.00 on day of arrival), *per
+Five nights' bed & breakfast for two people with a *flexible cancellation policy* (14.00 on day of arrival), *per
 person*:
 
 *  **PyCon UK rate**: £192.50
@@ -50,34 +50,45 @@ mobility.
 Please use the code *trip1* when booking (phone or email). The negotiated PyCon UK rate is a 10% discount on whatever
 the standard rate would be for your stay).
 
-Five nights bed & breakfast for two people, *per person*:
+Five nights' bed & breakfast for two people, *per person*:
 
 *  **PyCon UK rate**: £166.50
 *  **standard rate**: £185.00
 
 
-#### Other recommended hotels
-
-We're negotiating with several local hotels to provide preferential rates for attendees. As we make these arrangements,
-we'll list them here, along with codes you might need to secure a discount. **We hope to have a complete list by Friday
-6th May.**
-
-In the meantime...
-
 ### Other hotels
+
+These hotels haven't given us special rates, but are conveniently located and inexpensive.
+
+#### Ibis
+
+There is an [Ibis Hotel](http://www.ibishotel.com/) on Churchill Way about 10 minutes' walk from
+City Hall.
+
+* Typical rate for five nights' bed & breakfast for two people, *per person*: £215
+
+#### Clayton
+
+[Clayton Hotel](http://www.claytonhotelcardiff.com) is very close to the station, and about 15 minutes' walk from City
+Hall.
+
+* Typical rate for five nights' bed & breakfast for two people, *per person*: £242 (select *Stay 3 Nights & Save 30%*
+  tariff)
+
+### Use booking sites
 
 Check sites such as [Hotels.com](http://hotels.com) and [Booking.com](http://booking.com) for other hotels. (Apparently
 if you put your browser into private or incognito mode, you can sometimes get different, better, prices. Who knows?)
 
 Some hotels don’t even appear on those sites, never mind offer discounts to Pythonistas; you need to go to their
-websites directly and pay the same as everyone else.
+websites directly and pay the same as everyone else:
 
-#### Travelodge Hotels
+### Travelodge Hotels
 
 There are several [Travelodge hotels](https://www.travelodge.co.uk) in Cardiff, including one very close to City Hall
 and one very close to Cardiff Central Railway station.
 
-#### Premier Inn
+### Premier Inn
 
 There's a [Premier Inn](http://www.premierinn.com/) on Churchill Way, about ten minutes' walk from City Hall.
 
