@@ -8,6 +8,17 @@ callout_big_1: Where to stay in Cardiff
 
 ### Recommended partner hotels
 
+The hotels listed in this section have given us preferential rates or terms or both. Their allocation of rooms for
+PyCon UK attendees is likely to be exhausted well before the conference, so **you are stongly advised to book as early
+as you can**.
+
+Note that depending upon availability you may well be able to find cheaper rates than these, but on
+less flexible terms (changes and cancellation not permitted).
+
+Other hotels are listed after these.
+
+**Important**: Cardiff is a small city, and the weekend of PyCon UK will be busy. The longer you leave it to book your accommodation, the more difficult it will be to get it at a good price.
+
 #### Royal Hotel
 
 The [Royal Hotel](http://www.royalhotelcardiff.com) (tel +44 29 20550755; [email Royal Hotel
@@ -47,13 +58,26 @@ minutes' walk) and Cardiff Central Railway station.
 Please note that the hotel has five floors **but does not have a lift**. It's **not** suitable for people with reduced
 mobility.
 
-Please use the code *trip1* when booking (phone or email). The negotiated PyCon UK rate is a 10% discount on whatever
-the standard rate would be for your stay).
+Please use the code *trip1* when booking (phone or email). The negotiated PyCon UK rates include breakfast, in a
+double or twin room.
 
 Five nights' bed & breakfast for two people, *per person*:
 
 *  **PyCon UK rate**: £166.50
 *  **standard rate**: £185.00
+
+#### Angel Hotel
+
+The [Angel Hotel](https://www.thehotelcollection.co.uk/hotels/cardiff-angel-hotel) (tel +44 29 2167 2322); [email Angel
+Hotel reservations](mailto:angel@thehotelcollection.co.uk)) is close to City Hall (about 10 minutes' walk) and Cardiff
+Central Railway station (about 15 minutes' walk).
+
+Please use the code *block reference PYCO150916* when booking (phone or email).
+
+Five nights' bed & breakfast for two people with a *flexible cancellation policy*, *per person*:
+
+*  **PyCon UK rate**: £250.50 (available until Friday 15th July)
+*  **standard rate**: £282.50
 
 
 ### Other hotels
