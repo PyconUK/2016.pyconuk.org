@@ -13,8 +13,8 @@ Now in its fifth year, PyCon UK's day for teachers gives teachers the chance to
 meet with and learn from developers, and developers the chance to share their
 expertise and contribute to the development of resources for the classroom.
 
-Once again, we're able to offer bursaries of **£200 per teacher**, towards the
-cost of supply cover at school.
+Once again, we're able to offer [bursaries](/teachers/bursaries/) of **£200 per
+teacher**, towards the cost of supply cover at school.
 
 Activities will include:
 
