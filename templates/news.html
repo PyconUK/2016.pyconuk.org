@@ -1,0 +1,39 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="jumbotron">
+  <div id="glitter_column_billboard_top">
+    <div class="glitter_page_blocktype_poster glitter_page_block_first glitter_page_block glitter_page_block_odd glitter_page_block_last">
+      <div class="image-holder">
+        <img src="/img/home.png" class="bg-img">
+      </div>
+      <div class="poster-callout">
+      </div>
+    </div>
+  </div>
+</div>
+
+<article class="main-article">
+  <div class="content">
+    <div class="column_content">
+      <div class="textblock">
+        {{ page.content }}
+
+        {% for subpage in page.subpages|sort(attribute='datestamp', reverse=True) %}
+        <div class="news-article">
+          <div class="column_content">
+            <h2>{{ subpage.title }}</h2>
+
+            <a href="{{ subpage.url }}">{{ subpage.humandate }}</a>
+            <div class="textblock">
+              {{ subpage.content }}
+            </div>
+
+            <hr />
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</article>
+{% endblock %}
