@@ -17,4 +17,6 @@ You should calculate the difference between the price of your original ticket an
 Once you've purchased your upgrade, you'll be asked for your original ticket reference number.
 We'll then be able to upgrade your ticket for you.
 
+[Get in touch](/contact/) if you have any questions!
+
 <tito-widget event="pyconuk/2016" releases="k3yfbsozt4">Visit [our ticket page on Tito](https://ti.to/pyconuk/2016/with/k3yfbsozt4) if you don’t see a ticket form</tito-widget>
