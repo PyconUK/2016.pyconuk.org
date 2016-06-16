@@ -35,7 +35,7 @@ when they're users; she'll share these and discuss the challenge of creating too
 
 ### Gusztav Belteki, *Python in Medicine: ventilator data*
 
-[Gustav](http://www.belteki.co.uk) is a consultant neonatologist, with expertise in the computer-controlled ventilators
+[Gusztav](http://www.belteki.co.uk) is a consultant neonatologist, with expertise in the computer-controlled ventilators
 that assist the breathing of very ill new-born babies. He's a self-described Python hobbyist, with no programming
 background, but has been using Python to explore and analyse the vast amounts of useful data these machines produce to
 improve patient outcomes.
