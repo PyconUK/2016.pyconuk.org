@@ -40,7 +40,7 @@ that assist the breathing of very ill new-born babies. He's a self-described Pyt
 background, but has been using Python to explore and analyse the vast amounts of useful data these machines produce to
 improve patient outcomes.
 
-### Zara Siddique, *Addition: It can actually get quite complicated*
+### Zara Siddique, *Addition - well, that escalated quickly*
 
 Zara is a mathematician, and she uses Python as a computing tool of choice to tackle mathematical problems. Maths is
 filled with apparently simple problems that rapidly turn out to be not simple at all. Addition is one of them. Zara
