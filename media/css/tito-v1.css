@@ -1,6 +1,7 @@
 /* This is adapted from https://css.tito.io/v1 */
+/* The only non-whitespace change is to the first rule, which is now scoped to the .tito-wrapper class */
 
-* {
+.tito-wrapper * {
   box-sizing:border-box
 }
 .tito-wrapper {
