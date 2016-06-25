@@ -1,6 +1,6 @@
 type: page
-slug: introduction
-title: Welcome day
+slug: open-day
+title: Open day
 callout_big_1: Our day of introductory talks and workshops
 callout_small: Thursday 15th September
 ---
