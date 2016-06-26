@@ -22,10 +22,8 @@ We'll be putting on a programme of talks, workshops, and other events aimed at
 the whole Python community, from web developers to hardware engineers, from
 professionals to hobbyists.  There will be an [education programme](/teachers/)
 for teachers, and an [expanded research programme](/research/) aimed at
-researchers from the humanities, arts and scientists.  The children's day
-returns too.
-
-Expect more details of all of this soon.
+researchers from the humanities, arts and scientists.  The [children's
+day](/children/) returns too.
 
 ## Get involved
 
