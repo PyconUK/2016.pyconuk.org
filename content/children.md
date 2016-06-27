@@ -1,5 +1,5 @@
 type: page
-slug: kids
+slug: children
 title: Kids at PyCon UK
 callout_big_1: Micro:bits, machines, Minecraft...
 callout_big_2: ...and Python
@@ -7,7 +7,7 @@ callout_small: Saturday 17th September
 tito_required: yes
 ---
 
-Our day for kids is back!
+Our day for children is back!
 
 We're hosting a fun-packed day of activities and workshops for children to
 learn all about getting the most out of the world with Python.
