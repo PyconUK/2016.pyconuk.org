@@ -1,12 +1,12 @@
 type: news-article
 category: news
-title: Our call for proposals - an update
+title: Our Call for Proposals - an update
 url: /news/20160616-proposals/
 datestamp: 20160616
 humandate: 16th June 2016
 ---
 
-Our [Call for proposals](/cfp) will be closing soon - on the 28th June.
+Our [Call for Proposals](/cfp) will be closing soon - on the 28th June.
 
 If you're thinking about submitting a proposal for a talk, workshop or other activity - please do! And do please get
 in touch with us to discuss your proposal if you think that would help.
