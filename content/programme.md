@@ -19,6 +19,7 @@ We'll be contacting *everybody* who sent in a proposal, so don't worry if you ha
 * Gusztav Belteki, *Python in Medicine: ventilator data*
 * Zara Siddique, *Addition - well, that escalated quickly*
 * Chloe Parkes, *Chat bots: What is AI?*
+* Gail Ollis, *Folklore and fantasy in the information age*
 
 
 ## Confirmed workshops/tutorials
@@ -27,4 +28,4 @@ We'll be contacting *everybody* who sent in a proposal, so don't worry if you ha
 
 ## Confirmed activities
 
-* Help build a supercomputer in a briefcase with Raspberry Pi (let by Russel Winder)
+* Help build a supercomputer in a briefcase with Raspberry Pi (led by Russel Winder)
