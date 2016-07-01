@@ -1,17 +1,22 @@
 type: page
 slug: open-day
-title: Open day
+title: Open Day
 callout_big_1: Our day of introductory talks and workshops
 callout_small: Thursday 15th September
+tito_required: yes
 ---
 
-For the first time, PyCon UK will open with a whole day of activities with the theme of *Introduction* , especially for
-the benefit of newcomers to Python or to PyCons.
+For the first time, PyCon UK will begin with an Open Day: a whole day of of activities especially for the benefit of
+newcomers to Python.
+
+Entrance is free and open to everyone, but you'll need to tell us you're coming, even if you've already got a ticket for the main conferece.
+
+<tito-widget event="pyconuk/2016" releases="k4gmkzn7djq">Visit [our ticket page on Tito](https://ti.to/pyconuk/2016/with/k4gmkzn7djq) if you don’t see a ticket form</tito-widget>.
+
 
 ## It's for...
 
 ### Beginners
-
 
 We'll have workshops on a variety of topics, and talks suitable for those new to programming. The day will help give
 newcomers a head start, and make the following days' talks and activities more useful and accessible to them.
@@ -27,7 +32,7 @@ to experienced programmers, and opportunities for those who want to get new init
 ## Sessions
 
 We have some plans already, but of course we need your suggestions too. If you have a proposal for an activity that
-you think would be suitable for the Introduction day, please [tell us all about it](/cfp). Be imaginative!
+you think would be suitable for the Open Day, please [tell us all about it](/cfp). Be imaginative!
 
 If you have a sprint or advanced workshop planned for Monday, a session on Thursday could be a good way of getting
 newcomers started and ready.
@@ -55,8 +60,10 @@ excellent opportunity to propose your new idea. All you need to do is [tell us a
 
 ## Help out!
 
-Your experience, insight, patience, empathy and hard-won successes will be of enormous value at the Introduction day.
+Your experience, insight, patience, empathy and hard-won successes will be of enormous value at the Open Day.
 Please share them - as a helper in a workshop, by giving a talk, by running a clinic, or something else entirely. We
 don't always get the chance to enjoy helping new people take some of the most rewarding and exciting steps in
 programming - so here's an opportunity to be reminded of just how much fun it can to be a part of it. [How would you
 like to help?](/cfp)
+
+<h3 id="tickets">Tickets</h3>
