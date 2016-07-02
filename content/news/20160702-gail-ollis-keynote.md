@@ -1,6 +1,6 @@
 type: news-article
 category: news
-title: Out keynote speaker, Gail Ollis
+title: Our keynote speaker, Gail Ollis
 url: /news/20160702-gail/
 datestamp: 20160702
 humandate: 2nd July 2016
