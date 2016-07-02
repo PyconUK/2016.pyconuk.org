@@ -9,9 +9,9 @@ The main conference runs from Friday 16th to Monday 19th September, with tickets
  * £96 if you are paying for your own ticket;
  * £144 if your employer is paying for your ticket.
 
-Entrance to the day of introductory workshops on Thursday is free of charge.
-
 There are cheaper tickets if you can only come for some days, but we hope that you'll come for the whole conference!
+
+Entrance to the [Open Day](/open-day/) on Thursday is free of charge, but you'll still need to register for an Open Day ticket.
 
 [Financial assistance](/financial-aid/) is available to help cover ticket costs for
 those who would otherwise not be able to afford to attend the conference.
