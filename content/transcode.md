@@ -8,7 +8,7 @@ tito_required: yes
 
 [Trans*Code](http://trans-code.org/) returns to PyCon UK for a day-long
 hackathon to address issues facing the trans\* and nonbinary community.  The
-day is open to all trans\* and nonbinary people, and allies, and we welcome
+day is open to all trans\* and nonbinary people and allies, and we welcome
 participants from all skill levels and backgrounds.
 
 The day will begin with participants suggesting apps and projects that are of
