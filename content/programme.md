@@ -21,11 +21,5 @@ We'll be contacting *everybody* who sent in a proposal, so don't worry if you ha
 * Chloe Parkes, *Chat bots: What is AI?*
 * Gail Ollis, *Folklore and fantasy in the information age*
 
-
-## Confirmed workshops/tutorials
-
-* *django CMS applications - a comprehensive approach* (led by Iacopo Spalletti)
-
-## Confirmed activities
-
-* Help build a supercomputer in a briefcase with Raspberry Pi (led by Russel Winder)
+See the [Code Day](/code-day) page for information about workshops, and other activities that will take place on Monday
+19th September.
