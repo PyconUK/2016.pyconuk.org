@@ -29,7 +29,7 @@ to show why that's not the case.
 It's not just for beginners to programming; we'll also have sessions aimed at introducing new packages and techniques
 to experienced programmers, and opportunities for those who want to get new initiatives started.
 
-## Sessions
+## Open Day talks
 
 We have some plans already, but of course we need your suggestions too. If you have a proposal for an activity that
 you think would be suitable for the Open Day, please [tell us all about it](/cfp). Be imaginative!
@@ -37,19 +37,29 @@ you think would be suitable for the Open Day, please [tell us all about it](/cfp
 If you have a sprint or advanced workshop planned for Monday, a session on Thursday could be a good way of getting
 newcomers started and ready.
 
+## Confirmed sessions
+
+We've started to announce talks and workshops we've selected for the Open Day. We'll keep updating the page as we
+finalise details of the programme.
+
+### Talks
+
+* Thomas Campbell, *Using Python for the National Cipher Challenge*
+* Russel Winder, *How to build a supercomputer - in a briefcase*
+* Kirk Northrop, *Micro Python, the Internet of Things and the £3 device*
+* Ana Paula Martins, *1001 ways of Python*
+
 ### Workshops
 
-We plan to run:
+* [Django Girls workshop](https://djangogirls.org/pyconuk2016/)
 
-* a Django Girls workshop
+## Also planned
+
 * introductory Python tutorials
 * installation clinics
 * a CV clinic with a friendly recruiter
 * ... and no doubt, [some brilliant ideas that haven't even been suggested to us yet](/cfp)
 
-### Talks
-
-We'll have talks on a variety of subjects - [perhaps yours too?](/cfp)
 
 ### And also...
 

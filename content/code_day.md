@@ -11,6 +11,7 @@ The final day of PyCon UK, Monday 19th September, will be dedicated to *Code and
 
 * *django CMS applications - a comprehensive approach* (led by Iacopo Spalletti)
 * *Building a single page application with Django and EmberJS* (led by Emmanuelle Delescolle)
+
 ## Other confirmed activities
 
 * *Help build a supercomputer in a briefcase with Raspberry Pi* (led by Russel Winder)
