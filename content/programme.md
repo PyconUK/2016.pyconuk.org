@@ -14,12 +14,25 @@ We'll be contacting *everybody* who sent in a proposal, so don't worry if you ha
 
 * Iacopo Spalletti, *django CMS in the real-time web*
 * Cat Lamin, *Why do kids need to code and how can we help?*
-* Thomas Campbell, *Using Python for National Cipher Challenge*
 * Yulia Zozulya, *From QA to UX - Learning how to accommodate developers*
 * Gusztav Belteki, *Python in Medicine: ventilator data*
 * Zara Siddique, *Addition - well, that escalated quickly*
 * Chloe Parkes, *Chat bots: What is AI?*
 * Gail Ollis, *Folklore and fantasy in the information age*
+* Emmanuelle Delescolle, *Behind the scenes: writing tutorials*
+* Emma Gordon, *Is my robot butler going to steal my job?*
+* Jim Hague, *Rewriting without rewriting - porting an ATC radar display to Python/Qt without starting from scratch*
+* Nick Radcliffe, *Test-Driven Data Analysis*
+* Eva Gonzalez, *Life as the Sourcerer's Apprentice*
+* Busra Koken, *I love being Pythonic, you?*
+* Jessica Upani, *High School Pythonistas: What PyNam did next*
+* Rae Knowler, *Python, Locales and Writing Systems*
+* Nikoleta Evdokia Glynatsi, *Prisoners, Cooperation and Spatial Structure*
+* Sarah Mount, *Simulating a CPU with Python or: surprising programs you might have thought were better written in C*
 
-See the [Code Day](/code-day) page for information about workshops, and other activities that will take place on Monday
-19th September.
+See also:
+
+* [Open Day (Thursday 15th September)](/open-day)
+* [Code Day (Monday 19th September)](/code-day)
+
+for information about talks, workshops and other activities that will take place on those days.
