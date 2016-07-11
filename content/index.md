@@ -15,7 +15,7 @@ September.
 ## Overview of the programme
 
 * **Thursday**: [Open Day, with introductory workshops, talks and more](/open-day)
-* **Friday to Sunday**: [a packed programme of talks and other sessions](/programme)
+* **Friday to Sunday**: a packed programme of talks and other sessions
 * **Monday**: [sprints and more advanced workshops](/code-day)
 
 We'll be putting on a programme of talks, workshops, and other events aimed at
