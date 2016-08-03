@@ -14,6 +14,73 @@ In return, we will ensure that our your company is given exposure before,
 during, and after the conference, and we will work with you so that you get
 exactly you're looking for out of sponsoring the conference.
 
+## Sponsors Hall of Fame
+
+<!--- Run sponsorinsert.py and paste output here. --->
+We would like to thank all our sponsors whose generosity makes the conference possible.
+
+### Gold
+
+<table><tr><td>
+                      <a href="http://www.bankofamerica.com">
+                      <img src="/img/logos/baml.gif" alt="Bank Of America">
+                      </a>
+                      </td><td>
+                      <a href="http://www.jpmorgan.com">
+                      <img src="/img/logos/placeholder.png" alt="JP Morgan">
+                      </a>
+                      </td></tr></table>
+
+### Silver
+
+<table><tr><td>
+                      <a href="">
+                      <img src="/img/logos/placeholder.png" alt="Lyst">
+                      </a>
+                      </td><td>
+                      <a href="">
+                      <img src="/img/logos/placeholder.png" alt="One">
+                      </a>
+                      </td></tr><tr><td>
+                      <a href="">
+                      <img src="/img/logos/placeholder.png" alt="Two">
+                      </a>
+                      </td><td>
+                      <a href="">
+                      <img src="/img/logos/placeholder.png" alt="Three">
+                      </a>
+                      </td></tr><tr><td>
+                      <a href="">
+                      <img src="/img/logos/placeholder.png" alt="Four">
+                      </a>
+                      </td><td>
+                      <a href="">
+                      <img src="/img/logos/placeholder.png" alt="Five">
+                      </a>
+                      </td></tr></table>
+
+### Bronze
+
+<table><tr><td>
+                      <a href="">
+                      <img src="/img/logos/placeholder.png" alt="Six">
+                      </a>
+                      </td><td>
+                      <a href="">
+                      <img src="/img/logos/placeholder.png" alt="Seven">
+                      </a>
+                      </td></tr><tr><td>
+                      <a href="">
+                      <img src="/img/logos/placeholder.png" alt="Eight">
+                      </a>
+                      </td><td>
+                      <a href="">
+                      <img src="/img/logos/placeholder.png" alt="Nine">
+                      </a>
+                      </td></tr></table>
+
+
+<!--- End sponsorinsert.py --->
 
 ## Benefits
 
