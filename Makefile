@@ -11,10 +11,10 @@ help:
 	@echo ''
 
 build:
-	wok
+	python manage.py buildsite
 
 serve:
-	wok --serve
+	python manage.py serve
 
 test:
 	./pre-flight-checks.sh
