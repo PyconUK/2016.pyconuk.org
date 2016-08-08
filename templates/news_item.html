@@ -10,13 +10,6 @@
         <img src="/static/img/home.png" class="bg-img">
       </div>
       <div class="poster-callout">
-        <h1>{{ callout_big_1 }}</h1>
-        {% if callout_big_2 %}
-        <br/><h1>{{ callout_big_2 }}</h1>
-        {% endif %}
-        {% if callout_small %}
-        <br/><h4>{{ callout_small }}</h4>
-        {% endif %}
       </div>
     </div>
   </div>
@@ -25,6 +18,10 @@
 <article class="main-article">
   <div class="content">
     <div class="column_content">
+      <h1>{{ title }}</h1>
+
+      {{ news_item.date|date }}
+
       <div class="textblock">
         {% if content_format == 'md' %}
         {{ content|markdown }}
