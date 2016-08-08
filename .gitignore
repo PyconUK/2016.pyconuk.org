@@ -4,5 +4,6 @@ output
 *.swp
 *.pyc
 db.sqlite3
+media/CACHE
 
 .DS_Store
