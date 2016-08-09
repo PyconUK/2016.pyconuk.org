@@ -24,18 +24,19 @@ fi
 
 echo "Deploying!"
 
-# Remove output directory and replace it with the current tip of the gh-pages branch.
-rm -rf output
-git clone $REPO_URL --branch gh-pages --single-branch output
-
-# Update the output directory with recent changes.
+# Build the site into the output directory
 make build
 
+# Remove gh-pages directory and replace it with the current tip of the gh-pages branch.
+rm -rf gh-pages
+git clone $REPO_URL --branch gh-pages --single-branch gh-pages
+
+# Replace the contents of the gh-pages directory with the newly-built site
+rm -rf gh-pages/*
+cp -r output/* gh-pages
+
 # Add, commit, and push any changes.
-cd output
+cd gh-pages
 git add .
 git commit -m "[skip ci]  Auto-commit.  Built latest changes."
 git push $REPO_URL gh-pages
-
-# Clean up.
-rm -rf .git
