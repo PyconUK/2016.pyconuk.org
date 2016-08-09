@@ -29,17 +29,17 @@ DEBUG = True
 # Application definition
 
 INSTALLED_APPS = [
+    'pyconuk',
+
+    'django_amber',
+    'markdown_deux',
+
     # These two apps are required for Django to work properly, even though we
     # don't use them directly.
     'django.contrib.auth',
     'django.contrib.contenttypes',
 
     'django.contrib.staticfiles',
-    
-    'django_amber',
-    'markdown_deux',
-
-    'pyconuk',
 ]
 
 MIDDLEWARE_CLASSES = [
