@@ -8,8 +8,8 @@ ERRORS=()
 
 echo " *** Checking that site can be built."
 
-wok --serve >/dev/null 2>&1 &
-WOK_PID=$!
+python manage.py serve >/dev/null 2>&1 &
+SERVER_PID=$!
 
 if [[ $? -eq 0 ]]; then
 	echo " *** Site built ok."
@@ -56,7 +56,7 @@ if [[ $? -eq 0 ]]; then
 	ERRORS+=("Conference name is not spelt correctly")
 fi
 
-kill $WOK_PID
+kill $SERVER_PID
 
 if [[ ${#ERRORS[@]} -eq 0 ]]; then
 	echo " *** All pre-flight checks passed!"

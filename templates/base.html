@@ -6,17 +6,17 @@
         <meta http-equiv="X-Clacks-Overhead" content="GNU John Pinner">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>{{ page.title }}</title>
+        <title>{{ title }}</title>
 
-        <link href="/css/styles.css" rel="stylesheet" />
+        <link href="/static/css/styles.css" rel="stylesheet" />
         <script src="https://use.typekit.net/kla0hed.js"></script>
         <script>try{Typekit.load({ async: true });}catch(e){}</script>
         <!--[if lt IE 9]>
         <script src="/js/modernizr.js"></script>
         <![endif]-->
 
-        {% if page.tito_required %}
-        <link rel="stylesheet" type="text/css" href='/css/tito-v1.css' />
+        {% if tito_required %}
+        <link rel="stylesheet" type="text/css" href='/static/css/tito-v1.css' />
         <script src='https://js.tito.io/v1' async></script>
 
         <!-- Quick fix for CSS leak -->
@@ -35,16 +35,16 @@
 
             <input type="checkbox" name="primary-nav" class="hidden" id="primary-nav" />
             <label for="primary-nav"></label>
-            <a href="/tickets" class="btn small">Tickets</a>
+            <a href="/tickets/" class="btn small">Tickets</a>
             <nav>
                 <ul class="primary pull-right">
-                    <li><a href="/programme">Programme</a></li>
-                    <li><a href="/news">News</a></li>
-                    <li><a href="/cfp">Proposals</a></li>
-                    <li><a href="/sponsorship">Sponsor</a></li>
-                    <li><a href="/venue">Venue</a></li>
-                    <li><a href="/code-of-conduct">Code of Conduct</a></li>
-                    <li><a href="/contact">Contact</a></li>
+                    <li><a href="/programme/">Programme</a></li>
+                    <li><a href="/news/">News</a></li>
+                    <li><a href="/cfp/">Proposals</a></li>
+                    <li><a href="/sponsorship/">Sponsor</a></li>
+                    <li><a href="/venue/">Venue</a></li>
+                    <li><a href="/code-of-conduct/">Code of Conduct</a></li>
+                    <li><a href="/contact/">Contact</a></li>
                 </ul>
             </nav>
         </header>

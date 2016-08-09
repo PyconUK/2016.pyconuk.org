@@ -3,5 +3,6 @@ output
 .sass-cache
 *.swp
 *.pyc
+db.sqlite3
 
 .DS_Store
