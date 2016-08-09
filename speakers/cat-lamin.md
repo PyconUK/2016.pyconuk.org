@@ -1,0 +1,3 @@
+name: Cat Lamin
+---
+Former primary school teacher, computing coordinator, maths teacher and real-life geek girl, Cat is enthusiastic about getting teachers and children interesting in coding and computing any way she can. She is a Raspberry Pi Certified Educator, Apple Distinguished Educator and Google Certified Educator and in her spare time performs in her local amateur theatre group. Cat also founded Coding Evening for teachers, a network of social events to encourage teachers and community members to get together and share best practice for computing teaching.

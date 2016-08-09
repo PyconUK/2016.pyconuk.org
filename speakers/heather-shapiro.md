@@ -1,0 +1,3 @@
+name: Heather Shapiro
+---
+Heather Shapiro is a Technical Evangelist in Microsoft's Developer Experience group, where she educates developers on Microsoft's new technologies. In this role, Heather works closely with students and developer communities across the North East to understand the newest technologies and architectures. Prior to becoming a Technical Evangelist, Heather completed her undergraduate degree at Duke University and graduated in the Class of 2015. She received Bachelors of Science in Computer Science and Statistical Science, and completed an Honors Thesis about employing Bayesian Approaches to Understanding Music Popularity. Heather blogs at http://microheather.com and tweets at http://twitter.com/microheather.

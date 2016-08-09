@@ -1,0 +1,3 @@
+name: Peter Goldsborough
+---
+I'm a first year computer science student at Technical University of Munich, fascinated by a wide range of topics in computer science. Lately, I've had the pleasure of diving deep into artificial intelligence and machine (especially deep) learning. I'm still awestruck by the ocean of fascinating possibilities that it has opened to me, and would more than love to share my passion and knowledge about it. Good thing is I'll not be in Munich but London this fall, interning with Google and Bloomberg.

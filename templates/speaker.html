@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+
+{% load markdown_deux_tags %}
+
+{% block content %}
+<article class="main-article">
+  <div class="content">
+    <div class="column_content">
+      <h1>{{ name }}</h1>
+
+      <div>
+        <ul>
+          {% for session in sessions %}
+          <li><a href="{% url 'session' session.session_type session.slug %}">{{ session.title }}</a></li>
+          {% endfor %}
+        </ul>
+    </div>
+
+      <div class="textblock">
+        {% if content_format == 'md' %}
+        {{ content|markdown }}
+        {% else %}
+        {{ content|safe }}
+        {% endif %}
+      </div>
+  </div>
+</article>
+{% endblock %}

@@ -1,0 +1,5 @@
+name: Daniel F Moisset
+---
+I'm a long time software developer, and I've been using Python for more than 15 years. I'm from Argentina where I've been for a long time in both the open source and python communities, mostly on advocacy, event organization, and education sides. On my entrepreneurial side, I founded Machinalis, a company that provides application development for both start-up and larger companies that need our Python expertise and development capability. I've relocated recently to London to represent Machinalis in Europe, and I find this also an opportunity to meet more fun and exciting people in the global python community.
+
+Regarding the presentation topic, I'm currently just a mypy user that has used it on a couple of small commercial and open source projects. I'm also getting involved in helping with mypy development and adding some support for some popular open source python libraries including Django.

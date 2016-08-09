@@ -1,0 +1,3 @@
+name: Gusztav Belteki
+---
+I am a consultant neonatologist (doctor looking after sick newborn infants) who is interested in mechanical ventilation of sick babies. I am also an amateur Python enthusiast and in the last year I have been using Python and its libraries (IPython notebook, numpy, pandas, matplotlib and scipy) to analyse the "big data" I am downloading from the mechanical ventilators. I have only started to learn about Python ~3 years ago as a hobby while working full time as a doctor and now I am at an intermediate level. I find programming fascinating. With the help of the above data analysis tools I can now analyse, manipulate and and visualise huge datasets, e.g. tabular data consisting of millions of rows.

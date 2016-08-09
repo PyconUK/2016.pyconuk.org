@@ -1,0 +1,3 @@
+name: Ian Ozsvald
+---
+Ian co-chairs the annual PyDataLondon conference hosting 300+ attendees along with the associated 3,500+ member monthly meetup. He runs the established ModelInsight.io Data Science consultancy in London, gives conference talks internationally including as opening keynote speaker and is the author of the bestselling O'Reilly book High Performance Python. He has 16 years of experience as a senior technical leader, data scientist and coach.

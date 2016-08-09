@@ -1,0 +1,3 @@
+name: Stewart Adcock
+---
+Stewart has worked in scientific software development for several years, chiefly on products related to molecular structure and chemoinformatics. He is now a software developer within the Life Sciences team at the Cambridge Crystallographic Data Centre. This team focuses on the needs of medicinal chemists, delivering tools and services that derive value from the Cambridge Structural Database (CSD) - the world’s only comprehensive and up-to-date knowledge base of crystal structure data. Stewart was Product Owner for version 1.0 of the CSD Python API.

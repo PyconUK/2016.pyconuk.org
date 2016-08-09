@@ -1,0 +1,3 @@
+name: Stephen Simmons
+---
+Stephen has been a Python programmer since 2000. He trained as a mathematician and electrical engineer, with a PhD in signal processing for radar target detection. After a period as a management consultant, he worked for credit card companies in Australia and The Netherlands, running areas like marketing, risk, operations and strategy. Six years ago, he moved back into technology and joined JPMorgan in London, where his team uses Python to build trading, risk management and analytics systems.
