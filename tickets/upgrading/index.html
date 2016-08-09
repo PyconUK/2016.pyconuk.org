@@ -8,7 +8,7 @@
 
         <title>Upgrading your ticket</title>
 
-        <link href="/css/styles.css" rel="stylesheet" />
+        <link href="/static/css/styles.css" rel="stylesheet" />
         <script src="https://use.typekit.net/kla0hed.js"></script>
         <script>try{Typekit.load({ async: true });}catch(e){}</script>
         <!--[if lt IE 9]>
@@ -16,7 +16,7 @@
         <![endif]-->
 
         
-        <link rel="stylesheet" type="text/css" href='/css/tito-v1.css' />
+        <link rel="stylesheet" type="text/css" href='/static/css/tito-v1.css' />
         <script src='https://js.tito.io/v1' async></script>
 
         <!-- Quick fix for CSS leak -->
@@ -35,16 +35,16 @@
 
             <input type="checkbox" name="primary-nav" class="hidden" id="primary-nav" />
             <label for="primary-nav"></label>
-            <a href="/tickets" class="btn small">Tickets</a>
+            <a href="/tickets/" class="btn small">Tickets</a>
             <nav>
                 <ul class="primary pull-right">
-                    <li><a href="/programme">Programme</a></li>
-                    <li><a href="/news">News</a></li>
-                    <li><a href="/cfp">Proposals</a></li>
-                    <li><a href="/sponsorship">Sponsor</a></li>
-                    <li><a href="/venue">Venue</a></li>
-                    <li><a href="/code-of-conduct">Code of Conduct</a></li>
-                    <li><a href="/contact">Contact</a></li>
+                    <li><a href="/programme/">Programme</a></li>
+                    <li><a href="/news/">News</a></li>
+                    <li><a href="/cfp/">Proposals</a></li>
+                    <li><a href="/sponsorship/">Sponsor</a></li>
+                    <li><a href="/venue/">Venue</a></li>
+                    <li><a href="/code-of-conduct/">Code of Conduct</a></li>
+                    <li><a href="/contact/">Contact</a></li>
                 </ul>
             </nav>
         </header>
@@ -54,7 +54,7 @@
   <div id="glitter_column_billboard_top">
     <div class="glitter_page_blocktype_poster glitter_page_block_first glitter_page_block glitter_page_block_odd glitter_page_block_last">
       <div class="image-holder">
-        <img src="/img/home.png" class="bg-img">
+        <img src="/static/img/home.png" class="bg-img">
       </div>
       <div class="poster-callout">
         <h1></h1>
@@ -69,18 +69,25 @@
   <div class="content">
     <div class="column_content">
       <div class="textblock">
+        
         <p>If you have already bought a ticket,
 but would like to upgrade it (perhaps from a 3-day ticket to a 4-day ticket,
 or from a self-funded ticket to an employer-funded ticket),
 you can purchase an upgrade.</p>
+
 <p>Within the limits of our ticketing system,
 the simplest way for us to allow you to do this has been to create a special ticket with a "pay what you want" price field.
 Of course, you shoudn't actually pay us what you want!
 You should calculate the difference between the price of your original ticket and the price of your new ticket.</p>
+
 <p>Once you've purchased your upgrade, you'll be asked for your original ticket reference number.
 We'll then be able to upgrade your ticket for you.</p>
+
 <p><a href="/contact/">Get in touch</a> if you have any questions!</p>
+
 <p><tito-widget event="pyconuk/2016" releases="k3yfbsozt4">Visit <a href="https://ti.to/pyconuk/2016/with/k3yfbsozt4">our ticket page on Tito</a> if you don’t see a ticket form</tito-widget></p>
+
+        
       </div>
     </div>
   </div>
