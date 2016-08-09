@@ -4,5 +4,6 @@ output
 *.swp
 *.pyc
 db.sqlite3
+git-credentials
 
 .DS_Store
