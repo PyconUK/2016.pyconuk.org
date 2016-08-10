@@ -1,0 +1,3 @@
+name: Nikoleta Evdokia Glynatsi
+---
+I am Nikoleta and I come from a small island of Greece. I was introduced to programming during my undergraduate years where I was taught C and Java. It was until this year, during my postgraduate in the University of Cardiff that I had my first encounter with python at a two day Hackathon that took place in the university. As from now on I will be working intensively with python for my summer dissertation and the 3.5 years to come during my PhD.

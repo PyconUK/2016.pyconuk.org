@@ -1,0 +1,3 @@
+name: Helen Sherwood-Taylor
+---
+Helen is an experienced freelance programmer from the UK and has been using Python for many years, first as a pet language but now as a day job. She loves all things Pythonic (although is trying to learn some other languages too) and is involved with Django Girls as a core committer, organiser and coach. Away from the computer she loves travel, photography, cycling and trail running.

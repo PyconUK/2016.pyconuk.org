@@ -1,0 +1,3 @@
+name: Kerstin Kollmann
+---
+Kerstin Kollmann a.k.a. Kay lives and creates in Vienna, Austria. Her range of interests is extensive; two to which she keeps coming back more often than others are analogue photography and programming (particularly with Python). Once she is done with her BSc in Computer Science (soon), she would like to work at the intersection of art & technology by day, in film by night – or the other way around. Kay is always looking to collaborate on art and art & tech projects, especially ones involving photography, film, music video, music and/or feminism. Get in touch @kkvie (https://twitter.com/kkvie) or via http://www.kerstinkollmann.com/

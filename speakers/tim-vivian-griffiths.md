@@ -1,0 +1,3 @@
+name: Tim Vivian-Griffiths
+---
+I am currently in my final year of a PhD programme at the Institute of Psychological Medicine and Clinical Neuroscience at Cardiff University, funded by the Wellcome Trust. My project involves using machine learning algorithms, implemented in Python, to examine any possible patterns of association between genotyped genetic data and treatment-resistant diagnoses of schizophrenia.

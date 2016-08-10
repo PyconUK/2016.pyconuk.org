@@ -1,0 +1,3 @@
+name: Julie MacDonell
+---
+Julie is a Python developer at Stylight, a fashion ecommerce startup in Munich.  She has experienced the transformation of Stylight over the past two years grow from a small startup with a centralized engineering team into a mature 200-employee team, organized in autonomous cross-functional teams, of which she is a member of the SEO team.  She is originally from New York and studied computer science at Harvard College.  In her free time, she likes taking film photos, running for a really long time, playing piano, and convincing Germans that peanut butter and chocolate chips are, indeed, missing from their culinary culture (the latter proving easier).

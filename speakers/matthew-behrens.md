@@ -1,0 +1,3 @@
+name: Matthew Behrens
+---
+Matt Behrens is a software engineer working on the Yelp For Business Owners team, which develops mobile apps that lets business owners manage their Yelp business page. Previously, he was an early web engineer at SeatMe, a restaurant reservations system which Yelp acquired in 2013 and scaled to tens of thousands of restaurants. He currently lives in Hamburg, Germany where he’s trying really hard to learn German.
