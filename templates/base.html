@@ -1,3 +1,5 @@
+{% load compress %}
+
 <!DOCTYPE html>
 <html>
     <head>
@@ -8,7 +10,10 @@
 
         <title>{{ title }}</title>
 
-        <link href="/static/css/styles.css" rel="stylesheet" />
+        {% compress css %}
+        <link href="/static/less/styles.less" rel="stylesheet" type="text/less" />
+        {% endcompress %}
+
         <script src="https://use.typekit.net/kla0hed.js"></script>
         <script>try{Typekit.load({ async: true });}catch(e){}</script>
         <!--[if lt IE 9]>

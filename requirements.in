@@ -1,2 +1,3 @@
 django-amber==0.4.0
 django-markdown-deux
+django_compressor
