@@ -39,6 +39,21 @@ class Session(ModelWithContent):
         return self.key.split('/', 1)[1]
 
 
+class Sponsor(ModelWithContent):
+    TIERS = (
+        ('gold', 'gold'),
+        ('silver', 'silver'),
+        ('bronze', 'bronze'),
+    )
+    name = models.CharField(max_length=255)
+    tier = models.CharField(max_length=255, choices=TIERS)
+    website = models.CharField(max_length=255)
+    twitter_handle = models.CharField(max_length=255)
+    logo_filename = models.CharField(max_length=255)
+
+    dump_dir_path = 'sponsors'
+
+
 class Redirection(ModelWithoutContent):
     new_url = models.CharField(max_length=255)
 

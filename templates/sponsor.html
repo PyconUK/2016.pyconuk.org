@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+
+{% load markdown_deux_tags %}
+
+{% block content %}
+<article class="main-article">
+  <div class="content">
+    <div class="column_content">
+      <h1>{{ name }}</h1>
+
+      <div class="textblock">
+        {% if content_format == 'md' %}
+        {{ content|markdown }}
+        {% else %}
+        {{ content|safe }}
+        {% endif %}
+      </div>
+
+      <img src="/static/img/logos/{{ logo_filename }}" alt="{{ name }} Logo" />
+
+      <p>
+        <a href="{{ website }}">{{ website }}</a> |
+        <a href="https://twitter.com/{{ twitter_handle }}">@{{ twitter_handle }}</a>
+      </p>
+  </div>
+</article>
+{% endblock %}

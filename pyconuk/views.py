@@ -1,6 +1,6 @@
 from django.shortcuts import get_object_or_404, render
 
-from .models import Page, NewsItem, Redirection, Session, Speaker
+from .models import Page, NewsItem, Redirection, Session, Speaker, Sponsor
 
 
 def page_view(request, key='index'):
@@ -90,6 +90,26 @@ def speaker_view(request, key):
         'content_format': speaker.content_format,
         'name': speaker.name,
         'sessions': sessions,
+    }
+
+    return render(request, template, context)
+
+
+def sponsor_view(request, key):
+    sponsor = get_object_or_404(Sponsor, key=key)
+
+    assert sponsor.content_format in ['html', 'md'], 'Speaker content must use HTML or Markdown'
+
+    template = 'sponsor.html'
+
+    context = {
+        'content': sponsor.content,
+        'content_format': sponsor.content_format,
+        'name': sponsor.name,
+        'tier': sponsor.tier,
+        'website': sponsor.website,
+        'twitter_handle': sponsor.twitter_handle,
+        'logo_filename': sponsor.logo_filename,
     }
 
     return render(request, template, context)
