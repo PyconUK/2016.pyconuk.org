@@ -14,56 +14,55 @@ SPONSORGOLD = [[{'logo': '/img/logos/baml.gif',
                     'alt':  'Bank Of America',
                     'link': 'http://www.bankofamerica.com'},
 
-                   {'logo': None,
+                   {'logo': '/img/logos/jpmc_logo.png',
                     'alt':  'JP Morgan',
                     'link': 'http://www.jpmorgan.com'},
                  ],]
 
 SPONSORSILVER = [[{'logo': None,
                     'alt':  'Lyst',
-                    'link': ''},
-
-                  {'logo': None,
-                    'alt':  'One',
-                    'link': ''},
+                    'link': 'http://www.lyst.com'},
+                  
+                  {'logo': '/img/logos/gov.uk_logotype_crown.png',
+                    'alt':  'Government Digital Service',
+                    'link': 'https://gds.blog.gov.uk/'},
                   ],
-                 [{'logo': None,
-                    'alt':  'Two',
-                    'link': ''},
-
-                  {'logo': None,
-                    'alt':  'Three',
-                    'link': ''},
+                 [{'logo': '/img/logos/psf-logo.png',
+                    'alt':  'Python Software Foundation',
+                    'link': 'https://www.python.org/psf/'},
                   ],
-                 [{'logo': None,
-                    'alt':  'Four',
-                    'link': ''},
-
-                  {'logo': None,
-                    'alt':  'Five',
-                    'link': ''},
-                  ]
                   ]
 
 
 SPONSORBRONZE = [
-                 [{'logo': None,
-                    'alt':  'Six',
-                    'link': ''},
+                 [{'logo': '/img/logos/HPE_log_left_wht.png',
+                    'alt':  'Hewlett Packard',
+                    'link': 'https://www.hpe.com'},
 
-                  {'logo': None,
-                    'alt':  'Seven',
-                    'link': ''},
+                  {'logo': '/img/logos/potatoLogo.png',
+                    'alt':  'Potato',
+                    'link': 'http://www.potatolondon.com'},
                   ],
-                 [{'logo': None,
-                    'alt':  'Eight',
-                    'link': ''},
+    
+                 [{'logo': '/img/logos/logo_jetbrains.png',
+                    'alt':  'JetBrains',
+                    'link': 'http://www.jetbrains.com'},
 
                   {'logo': None,
-                    'alt':  'Nine',
-                    'link': ''},
+                    'alt':  'Mosaic FM',
+                    'link': 'http://www.mosaicfm.com'},
+                  ],
+                 [{'logo': '/img/logos/pythonanywherelogo-234x35.png',
+                    'alt':  'PythonAnywhere',
+                    'link': 'http://www.pythonanywhere.com'},
+
+                  {'logo': None,
+                    'alt':  'STX Next',
+                    'link': 'www.stxnext.pl'},
                   ]
+
     
+
 ]
 
 outertmpl = """<table>{0}</table>"""

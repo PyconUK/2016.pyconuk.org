@@ -27,58 +27,53 @@ We would like to thank all our sponsors whose generosity makes the conference po
                       </a>
                       </td><td>
                       <a href="http://www.jpmorgan.com">
-                      <img src="/img/logos/placeholder.png" alt="JP Morgan">
+                      <img src="/img/logos/jpmc_logo.png" alt="JP Morgan">
                       </a>
                       </td></tr></table>
 
 ### Silver
 
 <table><tr><td>
-                      <a href="">
+                      <a href="http://www.lyst.com">
                       <img src="/img/logos/placeholder.png" alt="Lyst">
                       </a>
                       </td><td>
-                      <a href="">
-                      <img src="/img/logos/placeholder.png" alt="One">
+                      <a href="https://gds.blog.gov.uk/">
+                      <img src="/img/logos/gov.uk_logotype_crown.png" alt="Government Digital Service">
                       </a>
                       </td></tr><tr><td>
-                      <a href="">
-                      <img src="/img/logos/placeholder.png" alt="Two">
-                      </a>
-                      </td><td>
-                      <a href="">
-                      <img src="/img/logos/placeholder.png" alt="Three">
-                      </a>
-                      </td></tr><tr><td>
-                      <a href="">
-                      <img src="/img/logos/placeholder.png" alt="Four">
-                      </a>
-                      </td><td>
-                      <a href="">
-                      <img src="/img/logos/placeholder.png" alt="Five">
+                      <a href="https://www.python.org/psf/">
+                      <img src="/img/logos/psf-logo.png" alt="Python Software Foundation">
                       </a>
                       </td></tr></table>
 
 ### Bronze
 
 <table><tr><td>
-                      <a href="">
-                      <img src="/img/logos/placeholder.png" alt="Six">
+                      <a href="https://www.hpe.com">
+                      <img src="/img/logos/HPE_log_left_wht.png" alt="Hewlett Packard">
                       </a>
                       </td><td>
-                      <a href="">
-                      <img src="/img/logos/placeholder.png" alt="Seven">
+                      <a href="http://www.potatolondon.com">
+                      <img src="/img/logos/potatoLogo.png" alt="Potato">
                       </a>
                       </td></tr><tr><td>
-                      <a href="">
-                      <img src="/img/logos/placeholder.png" alt="Eight">
+                      <a href="http://www.jetbrains.com">
+                      <img src="/img/logos/logo_jetbrains.png" alt="JetBrains">
                       </a>
                       </td><td>
-                      <a href="">
-                      <img src="/img/logos/placeholder.png" alt="Nine">
+                      <a href="http://www.mosaicfm.com">
+                      <img src="/img/logos/placeholder.png" alt="Mosaic FM">
+                      </a>
+                      </td></tr><tr><td>
+                      <a href="http://www.pythonanywhere.com">
+                      <img src="/img/logos/pythonanywherelogo-234x35.png" alt="PythonAnywhere">
+                      </a>
+                      </td><td>
+                      <a href="www.stxnext.pl">
+                      <img src="/img/logos/placeholder.png" alt="STX Next">
                       </a>
                       </td></tr></table>
-
 
 <!--- End sponsorinsert.py --->
 
