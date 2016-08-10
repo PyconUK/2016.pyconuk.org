@@ -16,10 +16,10 @@ exactly you're looking for out of sponsoring the conference.
 
 ## Sponsors Hall of Fame
 
-<!--- Run sponsorinsert.py and paste output here. --->
+<!--- sponsorinsert.py --->
 We would like to thank all our sponsors whose generosity makes the conference possible.
 
-### Gold
+## Gold
 
 <table><tr><td>
                       <a href="http://www.bankofamerica.com">
@@ -31,15 +31,15 @@ We would like to thank all our sponsors whose generosity makes the conference po
                       </a>
                       </td></tr></table>
 
-### Silver
+## Silver
 
 <table><tr><td>
                       <a href="http://www.lyst.com">
-                      <img src="/img/logos/placeholder.png" alt="Lyst">
+                      <img src="/img/logos/lyst.png" alt="Lyst">
                       </a>
                       </td><td>
                       <a href="https://gds.blog.gov.uk/">
-                      <img src="/img/logos/gov.uk_logotype_crown.png" alt="Government Digital Service">
+                      <img src="/img/logos/gds.png" alt="Government Digital Service">
                       </a>
                       </td></tr><tr><td>
                       <a href="https://www.python.org/psf/">
@@ -47,11 +47,11 @@ We would like to thank all our sponsors whose generosity makes the conference po
                       </a>
                       </td></tr></table>
 
-### Bronze
+## Bronze
 
 <table><tr><td>
                       <a href="https://www.hpe.com">
-                      <img src="/img/logos/HPE_log_left_wht.png" alt="Hewlett Packard">
+                      <img src="/img/logos/hpe.png" alt="Hewlett Packard">
                       </a>
                       </td><td>
                       <a href="http://www.potatolondon.com">
@@ -63,7 +63,7 @@ We would like to thank all our sponsors whose generosity makes the conference po
                       </a>
                       </td><td>
                       <a href="http://www.mosaicfm.com">
-                      <img src="/img/logos/placeholder.png" alt="Mosaic FM">
+                      <img src="/img/logos/mosaicfm.png" alt="Mosaic FM">
                       </a>
                       </td></tr><tr><td>
                       <a href="http://www.pythonanywhere.com">
@@ -71,11 +71,11 @@ We would like to thank all our sponsors whose generosity makes the conference po
                       </a>
                       </td><td>
                       <a href="www.stxnext.pl">
-                      <img src="/img/logos/placeholder.png" alt="STX Next">
+                      <img src="/img/logos/stxnext.png" alt="STX Next">
                       </a>
                       </td></tr></table>
 
-<!--- End sponsorinsert.py --->
+<!--- sponsorinsert.py --->
 
 ## Benefits
 
