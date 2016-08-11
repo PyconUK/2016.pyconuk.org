@@ -1,6 +1,7 @@
 from django.shortcuts import get_object_or_404, render
 
-from .models import Page, NewsItem, Redirection, Session, Speaker, Sponsor
+from .models import Page, NewsItem, Redirection, Session, Speaker, Sponsor, ScheduleSlot
+from .utils import compute_html_table_dimensions
 
 
 def page_view(request, key='index'):
@@ -24,6 +25,48 @@ def page_view(request, key='index'):
         'callout_big_2': page.callout_big_2,
         'callout_small': page.callout_small,
         'tito_required': page.tito_required,
+    }
+
+    return render(request, template, context)
+
+
+def schedule_view(request):
+    template = 'schedule.html'
+
+    dates = ['Friday 16th', 'Saturday 17th', 'Sunday 18th']
+
+    schedules = []
+
+    for date in dates:
+        slots = ScheduleSlot.objects.filter(date=date)
+
+        all_rooms = ['Assembly Room', 'Room D', 'Ferrier Hall', 'Room C']
+        rooms_in_use_on_day = {slot.room for slot in slots}
+        rooms = [room for room in all_rooms if room in rooms_in_use_on_day]
+
+        times = sorted({slot.time for slot in slots})
+
+        slots_by_room_and_time = {
+            (slot.room, slot.time): slot.session.title if slot.session else slot.title
+            for slot in slots
+        }
+
+        slots_table = [
+            [time] + [slots_by_room_and_time.get((room, time)) for room in rooms]         
+            for time in times
+        ]
+
+        slots_table_with_dimensions = compute_html_table_dimensions(slots_table)
+
+        schedules.append({
+            'date': date,
+            'day': date.split()[0].lower(),
+            'rooms': rooms,
+            'table': slots_table_with_dimensions
+        })
+
+    context = {
+        'schedules': schedules,
     }
 
     return render(request, template, context)

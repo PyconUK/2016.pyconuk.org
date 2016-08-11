@@ -58,3 +58,13 @@ class Redirection(ModelWithoutContent):
     new_url = models.CharField(max_length=255)
 
     dump_dir_path = 'redirections'
+
+
+class ScheduleSlot(ModelWithoutContent):
+    session = models.ForeignKey(Session, null=True)
+    title = models.CharField(max_length=255)
+    date = models.CharField(max_length=40)
+    room = models.CharField(max_length=40)
+    time = models.CharField(max_length=40)
+
+    dump_dir_path = 'schedule'
