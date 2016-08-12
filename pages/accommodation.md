@@ -27,10 +27,10 @@ Please use the code *PyCon* when booking, using the [Royal Hotel booking
 form](http://fe.avvio.com/convert/site/The%20Royal%20Hotel%20Cardiff/en/index.php). The negotiated PyCon UK rates
 include breakfast, in a double or twin room.
 
-Five nights' bed & breakfast for two people, *per person*:
+Five nights' bed & breakfast for two people (rates for a single room may be higher):
 
-*   **PyCon UK rate**: £182.50
-*   **standard rate**: £227.36
+*   **PyCon UK rate**: £182.50 *per person*
+*   **standard rate**: £227.36 *per person*
 
 #### Sleeperz Hotel
 
@@ -41,11 +41,10 @@ minutes' walk from City Hall.
 Please use the code *PYCON2016* when booking (phone or email). The negotiated PyCon UK rates include breakfast, in a
 double or twin room.
 
-Five nights' bed & breakfast for two people with a *flexible cancellation policy* (14.00 on day of arrival), *per
-person*:
+Five nights' bed & breakfast for two people (rates for a single room may be higher) with a *flexible cancellation policy* (14.00 on day of arrival):
 
-*  **PyCon UK rate**: £192.50
-*  **standard rate**: £211.13
+*  **PyCon UK rate**: £192.50 *per person*
+*  **standard rate**: £211.13 *per person*
 
 #### Sandringham Hotel
 
@@ -57,12 +56,12 @@ Please note that the hotel has five floors **but does not have a lift**. It's **
 mobility.
 
 Please use the code *trip1* when booking (phone or email). The negotiated PyCon UK rates include breakfast, in a
-double or twin room.
+double or twin room (rates for a single room may be higher).
 
-Five nights' bed & breakfast for two people, *per person*:
+Five nights' bed & breakfast for two people:
 
-*  **PyCon UK rate**: £166.50
-*  **standard rate**: £185.00
+*  **PyCon UK rate**: £166.50 *per person*
+*  **standard rate**: £185.00 *per person*
 
 #### Angel Hotel
 
@@ -72,10 +71,10 @@ Central Railway station (about 15 minutes' walk).
 
 Please use the code *block reference PYCO150916* when booking (phone or email).
 
-Five nights' bed & breakfast for two people with a *flexible cancellation policy*, *per person*:
+Five nights' bed & breakfast for two people (rates for a single room may be higher) with a *flexible cancellation policy*, *per person*:
 
-*  **PyCon UK rate**: £250.50 (available until Friday 15th July)
-*  **standard rate**: £282.50
+*  **PyCon UK rate**: £250.50  *per person* (available until Friday 15th July)
+*  **standard rate**: £282.50  *per person*
 
 
 ### Other hotels
@@ -87,15 +86,15 @@ These hotels haven't given us special rates, but are conveniently located and in
 There is an [Ibis Hotel](http://www.ibishotel.com/) on Churchill Way about 10 minutes' walk from
 City Hall.
 
-* Typical rate for five nights' bed & breakfast for two people, *per person*: £215
+* Typical rate for five nights' bed & breakfast for two people (rates for a single room may be higher), *per person*: £215
 
 #### Clayton
 
 [Clayton Hotel](http://www.claytonhotelcardiff.com) is very close to the station, and about 15 minutes' walk from City
 Hall.
 
-* Typical rate for five nights' bed & breakfast for two people, *per person*: £242 (select *Stay 3 Nights & Save 30%*
-  tariff)
+* Typical rate for five nights' bed & breakfast for two people (rates for a single room may be higher), *per person*:
+  £242 (select *Stay 3 Nights & Save 30%* tariff)
 
 ### Use booking sites
 
