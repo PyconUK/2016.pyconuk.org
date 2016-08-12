@@ -29,8 +29,8 @@ include breakfast, in a double or twin room.
 
 Five nights' bed & breakfast for two people (rates for a single room may be higher):
 
-*   **PyCon UK rate**: £182.50 *per person*
-*   **standard rate**: £227.36 *per person*
+*   **PyCon UK rate**: £182.50 *per person, for two people*
+*   **standard rate**: £227.36 *per person, for two people*
 
 #### Sleeperz Hotel
 
@@ -43,8 +43,8 @@ double or twin room.
 
 Five nights' bed & breakfast for two people (rates for a single room may be higher) with a *flexible cancellation policy* (14.00 on day of arrival):
 
-*  **PyCon UK rate**: £192.50 *per person*
-*  **standard rate**: £211.13 *per person*
+*  **PyCon UK rate**: £192.50 *per person, for two people*
+*  **standard rate**: £211.13 *per person, for two people*
 
 #### Sandringham Hotel
 
@@ -60,8 +60,8 @@ double or twin room (rates for a single room may be higher).
 
 Five nights' bed & breakfast for two people:
 
-*  **PyCon UK rate**: £166.50 *per person*
-*  **standard rate**: £185.00 *per person*
+*  **PyCon UK rate**: £166.50 *per person, for two people*
+*  **standard rate**: £185.00 *per person, for two people*
 
 #### Angel Hotel
 
@@ -73,8 +73,8 @@ Please use the code *block reference PYCO150916* when booking (phone or email).
 
 Five nights' bed & breakfast for two people (rates for a single room may be higher) with a *flexible cancellation policy*, *per person*:
 
-*  **PyCon UK rate**: £250.50  *per person* (available until Friday 15th July)
-*  **standard rate**: £282.50  *per person*
+*  **PyCon UK rate**: £250.50  *per person, for two people* (available until Friday 15th July)
+*  **standard rate**: £282.50  *per person, for two people*
 
 
 ### Other hotels
@@ -93,7 +93,7 @@ City Hall.
 [Clayton Hotel](http://www.claytonhotelcardiff.com) is very close to the station, and about 15 minutes' walk from City
 Hall.
 
-* Typical rate for five nights' bed & breakfast for two people (rates for a single room may be higher), *per person*:
+* Typical rate for five nights' bed & breakfast for two people (rates for a single room may be higher), *per person, for two people*:
   £242 (select *Stay 3 Nights & Save 30%* tariff)
 
 ### Use booking sites
