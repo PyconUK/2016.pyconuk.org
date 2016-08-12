@@ -15,7 +15,11 @@ less flexible terms (changes and cancellation not permitted).
 
 Other hotels are listed after these.
 
-**Important**: Cardiff is a small city, and the weekend of PyCon UK will be busy. The longer you leave it to book your accommodation, the more difficult it will be to get it at a good price.
+Cardiff is a small city, and the weekend of PyCon UK will be busy. The longer you leave it to book your accommodation, the more difficult it will be to get it at a good price.
+
+**Important**: if you find that the prices your are offered don't match the rates advertised below, that means that
+they are simply no longer available. We don't have a contract with the hotels, and once the room allocations are gone,
+they're gone.
 
 #### Royal Hotel
 
@@ -75,6 +79,17 @@ Five nights' bed & breakfast for two people (rates for a single room may be high
 
 *  **PyCon UK rate**: £250.50  *per person, for two people* (available until Friday 15th July)
 *  **standard rate**: £282.50  *per person, for two people*
+
+#### Park Plaza
+
+The [Park Plaza](www.parkplazacardiff.com) (tel +44 29 2011 1101); [email Park Plaza reservations](mailto:ppcres@parkplazahotels.co.uk)) is close to City Hall (about 5 minutes' walk) and Cardiff
+Central Railway station (about 15 minutes' walk).
+
+Please use the code *Block ID 1888702* when booking (phone or email).
+
+Five nights' bed & breakfast for two people (rates for a single room may be higher) with a *flexible cancellation policy*, *per person*:
+
+*  **PyCon UK rate**: £325  *per person, for two people*
 
 
 ### Other hotels
