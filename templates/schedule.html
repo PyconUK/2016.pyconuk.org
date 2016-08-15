@@ -4,13 +4,13 @@
 <article class="main-article">
   <div id="schedule-content">
     <div id="schedule">
-      <p>This is a draft schedule!</p>
-      <div>
+      <p>
         Jump to:
+        <a href="/open-day/">Open Day</a> |
         {% for schedule in schedules %}
         <a href="#{{ schedule.day }}">{{ schedule.date }}</a> {% if not forloop.last %}|{% endif %}
         {% endfor %}
-      </div>
+      </p>
       {% for schedule in schedules %}
       <div id="{{ schedule.day }}">
         <h1>{{ schedule.date }}</h1>
