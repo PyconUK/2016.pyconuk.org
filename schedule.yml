@@ -24,7 +24,7 @@ Friday 16th:
     '10:45': Break
     '11:15': talks/django-rest-framework-schemas-hypermedia-client-libraries
     '12:00': talks/django-cms-in-the-real-time-web-how-to-mix-cms-websockets-rest-for-a-fully-real-time-experience
-    '12:30': Lessons learned from PHP
+    '12:30': talks/lessons-learned-from-php
     '13:00': Lunch
     '14:30': talks/5-mistakes-you-will-make-building-a-python-software-house
     '15:00': talks/life-as-the-sourcerers-apprentice
@@ -162,7 +162,7 @@ Sunday 18th:
     '12:30': talks/from-qa-to-ux-learning-how-to-accommodate-developers
     '13:00': Lunch
     '14:30': talks/type-checking-whos-responsibility-is-it
-    '15:00': Typing
+    '15:00': talks/typing
     '15:30': talks/python-and-static-types-lets-use-mypy
     '16:00': Break
     '16:30': talks/form-follows-functions
@@ -178,7 +178,7 @@ Sunday 18th:
     '10:45': Break
     '11:15': talks/an-adventure-in-exploitation-with-python
     '12:00': talks/creating-a-reproducible-more-secure-python-application
-    '12:30': Why /dev/random is a horrible idea and other problems you didn't know you had yet
+    '12:30': why-dev-random-is-a-horrible-idea-and-other-problems-you-didnt-know-you-had-yet
     '13:00': Lunch
     '14:30': talks/an-introduction-to-property-based-testing
     '15:00': talks/building-a-python-cake-testing-the-layers-of-your-application
