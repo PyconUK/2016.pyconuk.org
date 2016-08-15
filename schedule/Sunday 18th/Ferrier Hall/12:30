@@ -1,4 +1,5 @@
 date: Sunday 18th
 room: Ferrier Hall
-session: talks/my-journey-from-wxpython-tp-pyqt
 time: '12:30'
+title: Why /dev/random is a horrible idea and other problems you didn't know you had
+  yet
