@@ -30,7 +30,7 @@ Friday 16th:
     '15:00': talks/life-as-the-sourcerers-apprentice
     '15:30': talks/tech-interviews-that-dont-suck
     '16:00': Break
-    '16:30': Timezones
+    '16:30': talks/timezones-a-tale-of-more-than-two-cities
     '17:00': talks/python-locales-and-writing-systems
     '17:30': Lightning talks
     '18:15': Close
@@ -101,7 +101,7 @@ Saturday 17th:
     '10:45': Break
     '11:15': talks/the-state-of-pypy-
     '12:00': talks/lessons-learned-from-organizing-scipy-latin-america-2016
-    '12:30': Using Python for the National Cipher Challenge
+    '12:30': talks/using-python-for-national-cipher-challenge
     '13:00': Lunch
     '14:30': talks/high-school-pythonistas-what-pynam-did-next
     '15:00': talks/python-in-my-science-classroom
@@ -196,7 +196,7 @@ Sunday 18th:
     '10:15': talks/assessing-performance-of-support-vector-machine-kernels-to-detect-interactions-in-genotyped-data
     '10:45': Break
     '11:15': talks/how-to-automate-your-data-cleanup-with-python
-    '12:00': Blackjack
+    '12:00': talks/attempting-to-win-at-blackjack
     '12:30': talks/easy-solutions-to-hard-problems
     '13:00': Lunch
     '14:30': talks/queueing-and-python-pip-install-ciw
