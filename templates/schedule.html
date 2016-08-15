@@ -2,40 +2,42 @@
 
 {% block content %}
 <article class="main-article">
-  <div id="schedule">
-    <p>This is a draft schedule!</p>
-    <div>
-      Jump to:
+  <div id="schedule-content">
+    <div id="schedule">
+      <p>This is a draft schedule!</p>
+      <div>
+        Jump to:
+        {% for schedule in schedules %}
+        <a href="#{{ schedule.day }}">{{ schedule.date }}</a> {% if not forloop.last %}|{% endif %}
+        {% endfor %}
+      </div>
       {% for schedule in schedules %}
-      <a href="#{{ schedule.day }}">{{ schedule.date }}</a> {% if not forloop.last %}|{% endif %}
+      <div id="{{ schedule.day }}">
+        <h1>{{ schedule.date }}</h1>
+        <table>
+          <tr>
+            <th></th>
+            {% for room in schedule.rooms %}
+            <th>{{ room }}</th>
+            {% endfor %}
+          </tr>
+          {% for row in schedule.table %}
+          <tr>
+            {% for cell in row %}
+            {% if cell.value %}
+            <td colspan={{ cell.width }} rowspan={{ cell.height }}>
+              {{ cell.value }}
+            </td>
+            {% else %}
+            <td class="empty-cell"></td>
+            {% endif %}
+            {% endfor %}
+          </tr>
+          {% endfor %}
+        </table>
+      </div>
       {% endfor %}
     </div>
-    {% for schedule in schedules %}
-    <div id="{{ schedule.day }}">
-      <h1>{{ schedule.date }}</h1>
-      <table>
-        <tr>
-          <th></th>
-          {% for room in schedule.rooms %}
-          <th>{{ room }}</th>
-          {% endfor %}
-        </tr>
-        {% for row in schedule.table %}
-        <tr>
-          {% for cell in row %}
-          {% if cell.value %}
-          <td colspan={{ cell.width }} rowspan={{ cell.height }}>
-            {{ cell.value }}
-          </td>
-          {% else %}
-          <td class="empty-cell"></td>
-          {% endif %}
-          {% endfor %}
-        </tr>
-        {% endfor %}
-      </table>
-    </div>
-    {% endfor %}
   </div>
 </article>
 {% endblock %}

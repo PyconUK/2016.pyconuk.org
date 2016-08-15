@@ -1,0 +1,20 @@
+# This YAML file contains a schedule for the talks on the Open Day.  See the
+# notes at the tope of schedule.yml for more information about updating it.
+
+Thursday 15th:
+  Cardiff University:
+    '08:00': Registration
+    '09:15': Introduction
+    '09:30': talks/if-only-everything-was-radioactive-randomness-and-computing
+    '10:00': talks/1001-ways-of-python
+    '10:30': Raspberry Pi
+    '11:00': Break
+    '11:30': talks/micro-python-iot-and-the-3-device
+    '12:00': talks/python-cat-flaps-creating-smart-devices-with-python
+    '12:30': talks/building-a-ui-for-a-braille-e-book-reader
+    '13:00': Lunch
+    '14:00': talks/so-you-want-to-be-a-programmer
+    '14:30': Modern technology is rubbish
+    '15:00': talks/is-my-robot-butler-going-to-steal-my-job
+    '15:30': talks/where-am-i-what-am-i-doing-here-motion-detection-and-sensor-fusion-on-wearables-and-microbit-with-python
+    '16:00': Close

@@ -1,3 +1,34 @@
+from .models import ScheduleSlot
+
+
+def load_schedule_context(date, rooms_in_order):
+    slots = ScheduleSlot.objects.filter(date=date)
+
+    rooms_in_use_on_day = {slot.room for slot in slots}
+    rooms = [room for room in rooms_in_order if room in rooms_in_use_on_day]
+
+    times = sorted({slot.time for slot in slots})
+
+    slots_by_room_and_time = {
+        (slot.room, slot.time): slot.session.title if slot.session else slot.title
+        for slot in slots
+    }
+
+    slots_table = [
+        [time] + [slots_by_room_and_time.get((room, time)) for room in rooms]
+        for time in times
+    ]
+
+    slots_table_with_dimensions = compute_html_table_dimensions(slots_table)
+
+    return {
+        'date': date,
+        'day': date.split()[0].lower(),
+        'rooms': rooms,
+        'table': slots_table_with_dimensions
+    }
+
+
 def compute_html_table_dimensions(table):
     table_with_dimensions = []
 
