@@ -9,11 +9,12 @@ django-appconf==1.0.2     # via django-compressor
 django-compressor==2.1
 django-markdown-deux==1.0.5
 Django==1.9.7             # via django-amber
-http-crawler==0.1.1       # via django-amber
+http-crawler==0.1.2
 lxml==3.6.0               # via http-crawler
 markdown2==2.3.1          # via django-markdown-deux
 PyYAML==3.11              # via django-amber
 rcssmin==1.0.6            # via django-compressor
 requests==2.10.0          # via django-amber, http-crawler
 rjsmin==1.0.12            # via django-compressor
-tinycss==0.3              # via http-crawler
+tinycss2==0.5             # via http-crawler
+webencodings==0.5         # via tinycss2
