@@ -23,10 +23,15 @@
           </tr>
           {% for row in schedule.table %}
           <tr>
-            {% for cell in row %}
+            <td>{{ row.0.value }}</td>
+            {% for cell in row|slice:"1:" %}
             {% if cell.value %}
             <td colspan={{ cell.width }} rowspan={{ cell.height }}>
-              {{ cell.value }}
+              {% if cell.value.url %}
+              <a href="{{ cell.value.url }}">{{ cell.value.text }}</a>
+              {% else %}
+              {{ cell.value.text }}
+              {% endif %}
             </td>
             {% else %}
             <td class="empty-cell"></td>

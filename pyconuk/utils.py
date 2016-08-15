@@ -1,3 +1,5 @@
+from django.core.urlresolvers import reverse
+
 from .models import ScheduleSlot
 
 
@@ -9,10 +11,18 @@ def load_schedule_context(date, rooms_in_order):
 
     times = sorted({slot.time for slot in slots})
 
-    slots_by_room_and_time = {
-        (slot.room, slot.time): slot.session.title if slot.session else slot.title
-        for slot in slots
-    }
+    slots_by_room_and_time = {}
+
+    for slot in slots:
+        if slot.session:
+            session = slot.session
+            text = session.title
+            url = reverse('session', args=[session.session_type(), session.slug()])
+        else:
+            text = slot.title
+            url = None
+
+        slots_by_room_and_time[(slot.room, slot.time)] = {'text': text, 'url': url}
 
     slots_table = [
         [time] + [slots_by_room_and_time.get((room, time)) for room in rooms]
