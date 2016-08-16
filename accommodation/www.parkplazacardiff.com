@@ -33,7 +33,7 @@
       </tr>
       <tr>
         <th>Request URL:</th>
-        <td>http://localhost:37206/accommodation/www.parkplazacardiff.com</td>
+        <td>http://localhost:53324/accommodation/www.parkplazacardiff.com</td>
       </tr>
       
     </table>
@@ -45,6 +45,20 @@
       Django tried these URL patterns, in this order:
       </p>
       <ol>
+        
+          <li>
+            
+                ^schedule/$
+                [name='schedule']
+            
+          </li>
+        
+          <li>
+            
+                ^open-day/$
+                [name='open_day']
+            
+          </li>
         
           <li>
             
