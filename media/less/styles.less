@@ -1215,3 +1215,29 @@ body.two-col & {
         a { font-weight: bold; }
     }
 }
+
+//////////////////////    SCHEDULE    /////////////////////
+
+#schedule-content {
+    width: 62.5em;
+    margin: auto;
+    font-size: 0.9em;
+    body.single-col & {
+        @media all and (max-width: 63.75em) {
+            width: 100%;
+            box-sizing: border-box;
+            padding: 0 1.25em;
+        }
+    }
+}
+
+#schedule {
+    table, th, td {
+        border: 1px solid black;
+        padding: 0.5em 1em;
+        margin-bottom: 2em;
+        .empty-cell {
+            border: none;
+        }
+    }
+}

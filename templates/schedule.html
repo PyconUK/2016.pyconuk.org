@@ -1,0 +1,48 @@
+{% extends "base.html" %}
+
+{% block content %}
+<article class="main-article">
+  <div id="schedule-content">
+    <div id="schedule">
+      <p>
+        Jump to:
+        <a href="/open-day/">Open Day</a> |
+        {% for schedule in schedules %}
+        <a href="#{{ schedule.day }}">{{ schedule.date }}</a> {% if not forloop.last %}|{% endif %}
+        {% endfor %}
+      </p>
+      {% for schedule in schedules %}
+      <div id="{{ schedule.day }}">
+        <h1>{{ schedule.date }}</h1>
+        <table>
+          <tr>
+            <th></th>
+            {% for room in schedule.rooms %}
+            <th>{{ room }}</th>
+            {% endfor %}
+          </tr>
+          {% for row in schedule.table %}
+          <tr>
+            <td>{{ row.0.value }}</td>
+            {% for cell in row|slice:"1:" %}
+            {% if cell.value %}
+            <td colspan={{ cell.width }} rowspan={{ cell.height }}>
+              {% if cell.value.url %}
+              <a href="{{ cell.value.url }}">{{ cell.value.text }}</a>
+              {% else %}
+              {{ cell.value.text }}
+              {% endif %}
+            </td>
+            {% else %}
+            <td class="empty-cell"></td>
+            {% endif %}
+            {% endfor %}
+          </tr>
+          {% endfor %}
+        </table>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</article>
+{% endblock %}

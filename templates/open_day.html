@@ -1,0 +1,61 @@
+{% extends "base.html" %}
+
+{% load markdown_deux_tags %}
+
+{% block content %}
+<div class="jumbotron">
+  <div id="glitter_column_billboard_top">
+    <div class="glitter_page_blocktype_poster glitter_page_block_first glitter_page_block glitter_page_block_odd glitter_page_block_last">
+      <div class="image-holder">
+        <img src="/static/img/home.png" class="bg-img">
+      </div>
+      <div class="poster-callout">
+        <h1>Open Day</h1>
+        <br/><h1>Our day of introductory talks and workshops</h1>
+        <br/><h4>Thursday 15th September</h4>
+      </div>
+    </div>
+  </div>
+</div>
+
+<article class="main-article">
+  <div class="content">
+    <div class="column_content">
+      <div class="textblock">
+        <p>For the first time, PyCon UK will begin with an Open Day: a whole day of of activities especially for the benefit of newcomers to Python.</p>
+
+        <p>Entrance is free and open to everyone, but you'll need to tell us you're coming, even if you've already got a ticket for the main conferece.</p>
+
+        <p><tito-widget event="pyconuk/2016" releases="k4gmkzn7djq">Visit <a href="https://ti.to/pyconuk/2016/with/k4gmkzn7djq">our ticket page on Tito</a> if you don’t see a ticket form.</tito-widget></p>
+      </div>
+    </div>
+
+    <div id="schedule">
+      <h2>Timetable</h2>
+      <div id="{{ schedule.day }}">
+        <table>
+          {% for row in schedule.table %}
+          <tr>
+            <td>{{ row.0.value }}</td>
+            {% for cell in row|slice:"1:" %}
+            {% if cell.value %}
+            <td colspan={{ cell.width }} rowspan={{ cell.height }}>
+              {% if cell.value.url %}
+              <a href="{{ cell.value.url }}">{{ cell.value.text }}</a>
+              {% else %}
+              {{ cell.value.text }}
+              {% endif %}
+            </td>
+            {% else %}
+            <td class="empty-cell"></td>
+            {% endif %}
+            {% endfor %}
+          </tr>
+          {% endfor %}
+        </table>
+      </div>
+    </div>
+  </div>
+</article>
+{% endblock %}
+

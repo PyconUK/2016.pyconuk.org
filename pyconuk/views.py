@@ -1,6 +1,7 @@
 from django.shortcuts import get_object_or_404, render
 
 from .models import Page, NewsItem, Redirection, Session, Speaker, Sponsor
+from .utils import load_schedule_context
 
 
 def page_view(request, key='index'):
@@ -24,6 +25,34 @@ def page_view(request, key='index'):
         'callout_big_2': page.callout_big_2,
         'callout_small': page.callout_small,
         'tito_required': page.tito_required,
+    }
+
+    return render(request, template, context)
+
+
+def schedule_view(request):
+    template = 'schedule.html'
+
+    dates = ['Friday 16th', 'Saturday 17th', 'Sunday 18th']
+    rooms_in_order = ['Assembly Room', 'Room D', 'Ferrier Hall', 'Room C']
+    schedules = [load_schedule_context(date, rooms_in_order) for date in dates]
+
+    context = {
+        'schedules': schedules,
+    }
+
+    return render(request, template, context)
+
+
+def open_day_view(request):
+    template = 'open_day.html'
+
+    date = 'Thursday 15th'
+    rooms_in_order = ['Cardiff University']
+
+    context = {
+        'schedule': load_schedule_context(date, rooms_in_order),
+        'tito_required': True,
     }
 
     return render(request, template, context)
