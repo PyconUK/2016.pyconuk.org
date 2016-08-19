@@ -33,7 +33,7 @@
       </tr>
       <tr>
         <th>Request URL:</th>
-        <td>http://localhost:54830/accommodation/www.parkplazacardiff.com</td>
+        <td>http://localhost:36500/accommodation/www.parkplazacardiff.com</td>
       </tr>
       
     </table>
