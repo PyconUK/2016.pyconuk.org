@@ -39,6 +39,7 @@ def schedule_view(request):
 
     context = {
         'schedules': schedules,
+        'title': 'Schedule',
     }
 
     return render(request, template, context)
@@ -53,6 +54,7 @@ def open_day_view(request):
     context = {
         'schedule': load_schedule_context(date, rooms_in_order),
         'tito_required': True,
+        'title': 'Open Day',
     }
 
     return render(request, template, context)
@@ -65,6 +67,7 @@ def news_items_view(request):
 
     context = {
         'news_items': news_items,
+        'title': 'News',
     }
 
     return render(request, template, context)
@@ -119,6 +122,7 @@ def speaker_view(request, key):
         'content_format': speaker.content_format,
         'name': speaker.name,
         'sessions': sessions,
+        'title': speaker.name,
     }
 
     return render(request, template, context)
@@ -139,6 +143,7 @@ def sponsor_view(request, key):
         'website': sponsor.website,
         'twitter_handle': sponsor.twitter_handle,
         'logo_filename': sponsor.logo_filename,
+        'title': sponsor.name,
     }
 
     return render(request, template, context)
