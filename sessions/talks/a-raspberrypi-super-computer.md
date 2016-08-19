@@ -1,5 +1,20 @@
-title: 'A RaspberryPi super computer'
+title: 'A RaspberryPi super computer in a briefcase'
 subtitle:
 speaker: russel-winder
 ---
-The idea is to create from all the Raspberry Pi's that people bring to the sprint a super computer. Yes this has been done already in a number of cases but they were usually specialized system: the idea here is to make an ad hoc cluster on which jobs can be run. Maybe getting MPI to run is Stage 1, there will also be a controller needed that accepts and schedules jobs (probably best run on a controlling laptop). The "hidden" agenda here is to make something that could be recreated in schools and/or colleges so as to give a fun platform for playing with simple ideas of concurrency and parallelism. The hidden agenda is to try and get introduction to concurrency and parallelism moved from final year university options to schools. Obviously not the detailed stuff but just enough to stop people feeling lost. Another "hidden" agenda is to get people working in a polyglot way: Python with other languages.
+[Russel Winder](https://www.russel.org.uk/stories/short-biography.html) will be leading a project at PyCon UK 2016 to
+develop a new open-source supercomputer, based on Raspberry Pis in clusters.
+
+This talk will introduce the project, and explain how you can join in.
+
+Following the talk on our [open day](/introduction/), Russel wil hold a planning and introduction
+session that day. On [Monday](/code-day/) work on the project will begin in earnest during the sprints.
+
+**Everyone's welcome**. You don't need to be an expert or an advanced programmer to join in. It's meant to be a fun
+project and an opportunity to learn. However, if you have an *actual briefcase* and some skills that would help make
+the finished project look impressive, you'll be especially warmly welcomed...
+
+You can just turn up and join in, but you can also [contact Russel](https://www.russel.org.uk/stories/contact.html) if
+you'd like to help plan the project.
+
+Don't forget to bring your Rasberry Pis with you.

@@ -12,7 +12,7 @@ We'll be contacting *everybody* who sent in a proposal, so don't worry if you ha
 
 * Russel Winder, *How to build a supercomputer - in a briefcase*
 * Kirk Northrop, *Micro Python, the Internet of Things and the £3 device*
-* Ana Paula Martins, *1001 ways of Python*
+* Ana Paula Carvalho, *1001 ways of Python*
 * Cory Benfield, *If only everything was radioactive: randomness and computing*
 * Emma Gordon, *Is my robot butler going to steal my job?*
 * Kaspar Emanuel, *Building a user interface for a Braille ebook reader*
