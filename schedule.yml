@@ -1,5 +1,5 @@
-# This YAML file contains a schedule for the Friday, Saturday, and Sunday of
-# the conference, excluding the childrens' day activities.
+# This YAML file contains a schedule for the Thursday, Friday, Saturday, and
+# Sunday of the conference, excluding the childrens' day activities.
 #
 # The parseschedule management command turns the data in this schedule into
 # serialized ScheduleSlot objects in the schedule directory.  You will need to
@@ -15,10 +15,10 @@
 # Take a look at pycon.views.schedule_view to see how this data is used.
 
 Thursday 15th:
-  Cardiff University:
+  Open Day at Cardiff University:
     '08:00': Registration
     '09:15': Introduction
-    '09:30': talks/if-only-everything-were-radioactive-randomness-and-computing
+    '09:30': talks/if-only-everything-was-radioactive-randomness-and-computing
     '10:00': talks/1001-ways-of-python
     '10:30': talks/a-raspberrypi-super-computer
     '11:00': Break

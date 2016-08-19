@@ -6,7 +6,7 @@ from django.core.management.base import BaseCommand
 
 class Command(BaseCommand):
     def handle(self, *args, **kwargs):
-        for fn in ['schedule.yml', 'open-day-schedule.yml']:
+        for fn in ['schedule.yml']:
             with open(fn) as f:
                 schedule = yaml.load(f.read())
 
