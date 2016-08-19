@@ -33,8 +33,8 @@ def page_view(request, key='index'):
 def schedule_view(request):
     template = 'schedule.html'
 
-    dates = ['Friday 16th', 'Saturday 17th', 'Sunday 18th']
-    rooms_in_order = ['Assembly Room', 'Room D', 'Ferrier Hall', 'Room C']
+    dates = ['Thursday 15th', 'Friday 16th', 'Saturday 17th', 'Sunday 18th']
+    rooms_in_order = ['Cardiff University', 'Assembly Room', 'Room D', 'Ferrier Hall', 'Room C']
     schedules = [load_schedule_context(date, rooms_in_order) for date in dates]
 
     context = {
@@ -48,7 +48,7 @@ def open_day_view(request):
     template = 'open_day.html'
 
     date = 'Thursday 15th'
-    rooms_in_order = ['Cardiff University']
+    rooms_in_order = ['Open Day at Cardiff University']
 
     context = {
         'schedule': load_schedule_context(date, rooms_in_order),

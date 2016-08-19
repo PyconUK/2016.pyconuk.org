@@ -14,6 +14,23 @@
 #
 # Take a look at pycon.views.schedule_view to see how this data is used.
 
+Thursday 15th:
+  Cardiff University:
+    '08:00': Registration
+    '09:15': Introduction
+    '09:30': talks/if-only-everything-were-radioactive-randomness-and-computing
+    '10:00': talks/1001-ways-of-python
+    '10:30': talks/a-raspberrypi-super-computer
+    '11:00': Break
+    '11:30': talks/micro-python-iot-and-the-3-device
+    '12:00': talks/python-cat-flaps-creating-smart-devices-with-python
+    '12:30': talks/building-a-ui-for-a-braille-e-book-reader
+    '13:00': Lunch
+    '14:00': talks/so-you-want-to-be-a-programmer
+    '14:30': Technology - what's the problem?
+    '15:00': talks/is-my-robot-butler-going-to-steal-my-job
+    '15:30': talks/where-am-i-what-am-i-doing-here-motion-detection-and-sensor-fusion-on-wearables-and-microbit-with-python
+    '16:00': Close
 Friday 16th:
   Assembly Room:
     '08:00': Registration
@@ -161,8 +178,8 @@ Sunday 18th:
     '12:00': talks/pinet-a-project-that-was-never-intended-to-be
     '12:30': talks/from-qa-to-ux-learning-how-to-accommodate-developers
     '13:00': Lunch
-    '14:30': talks/type-checking-whose-responsibility-is-it
-    '15:00': talks/typing
+    '14:30': talks/typing
+    '15:00': talks/type-checking-whose-responsibility-is-it
     '15:30': talks/python-and-static-types-lets-use-mypy
     '16:00': Break
     '16:30': talks/form-follows-functions

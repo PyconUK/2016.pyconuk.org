@@ -1,4 +1,4 @@
-title: 'Micro Python, IoT and the £3 device'
+title: 'Micro Python, the Internet of Things and the £3 device'
 subtitle:
 speaker: kirk-northrop
 ---
