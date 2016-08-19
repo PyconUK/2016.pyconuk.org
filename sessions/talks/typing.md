@@ -1,4 +1,4 @@
-title: 'Introducing typing - challengs and lessons'
+title: 'Introducing typing - challenges and lessons'
 subtitle:
 speaker: angela-santin
 ---

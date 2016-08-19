@@ -34,7 +34,7 @@ def schedule_view(request):
     template = 'schedule.html'
 
     dates = ['Thursday 15th', 'Friday 16th', 'Saturday 17th', 'Sunday 18th']
-    rooms_in_order = ['Cardiff University', 'Assembly Room', 'Room D', 'Ferrier Hall', 'Room C']
+    rooms_in_order = ['Open Day at Cardiff University', 'Assembly Room', 'Room D', 'Ferrier Hall', 'Room C']
     schedules = [load_schedule_context(date, rooms_in_order) for date in dates]
 
     context = {
