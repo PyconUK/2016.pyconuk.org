@@ -155,7 +155,7 @@ Saturday 17th:
     '10:15': talks/a-data-processing-toolbox-for-agile-scientific-research
     '10:45': Break
     '11:15': talks/an-introduction-to-deep-learning-with-tensorflow
-    '12:00': ''
+    '12:00': talks/building-a-python-cake-testing-the-layers-of-your-application
     '12:30': talks/test-driven-data-analysis
     '13:00': Lunch
     '14:30': talks/using-machine-learning-to-solve-a-classifiation-problem-with-scikit-learn-a-practical-walkthrough
@@ -198,7 +198,7 @@ Sunday 18th:
     '12:30': talks/why-dev-random-is-a-horrible-idea-and-other-problems-you-didnt-know-you-had-yet
     '13:00': Lunch
     '14:30': talks/an-introduction-to-property-based-testing
-    '15:00': talks/building-a-python-cake-testing-the-layers-of-your-application
+    '15:00': ''
     '15:30': talks/cleaner-unit-testing-with-the-arrange-act-assert-pattern
     '16:00': Break
     '16:30': talks/build-your-microservices-with-zeromq
