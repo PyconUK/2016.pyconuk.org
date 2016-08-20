@@ -82,7 +82,7 @@ Five nights' bed & breakfast for two people (rates for a single room may be high
 
 #### Park Plaza
 
-The [Park Plaza](www.parkplazacardiff.com) (tel +44 29 2011 1101); [email Park Plaza reservations](mailto:ppcres@parkplazahotels.co.uk)) is close to City Hall (about 5 minutes' walk) and Cardiff
+The [Park Plaza](http://www.parkplazacardiff.com) (tel +44 29 2011 1101); [email Park Plaza reservations](mailto:ppcres@parkplazahotels.co.uk)) is close to City Hall (about 5 minutes' walk) and Cardiff
 Central Railway station (about 15 minutes' walk).
 
 Please use the code *Block ID 1888702* when booking (phone or email).
