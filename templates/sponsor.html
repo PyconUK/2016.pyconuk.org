@@ -6,22 +6,29 @@
 <article class="main-article">
   <div class="content">
     <div class="column_content">
-      <h1>{{ name }}</h1>
+      <div class="sponsor-detail">
+        <h1>{{ name }}</h1>
 
-      <div class="textblock">
-        {% if content_format == 'md' %}
-        {{ content|markdown }}
-        {% else %}
-        {{ content|safe }}
-        {% endif %}
+        <div class="textblock">
+          {% if content_format == 'md' %}
+          {{ content|markdown }}
+          {% else %}
+          {{ content|safe }}
+          {% endif %}
+        </div>
+
+        <img src="/static/img/logos/{{ logo_filename }}" alt="{{ name }} Logo" class="logo" />
+
+        <p>
+          {% if website %}
+          <a href="{{ website }}">{{ website }}</a>
+          {% endif %}
+          {% if website and twitter_handle %}|{% endif %}
+          {% if twitter_handle %}
+          <a href="https://twitter.com/{{ twitter_handle }}">@{{ twitter_handle }}</a>
+          {% endif %}
+        </p>
       </div>
-
-      <img src="/static/img/logos/{{ logo_filename }}" alt="{{ name }} Logo" />
-
-      <p>
-        <a href="{{ website }}">{{ website }}</a> |
-        <a href="https://twitter.com/{{ twitter_handle }}">@{{ twitter_handle }}</a>
-      </p>
   </div>
 </article>
 {% endblock %}
