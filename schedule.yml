@@ -172,7 +172,7 @@ Sunday 18th:
     '09:00': Introduction
     '09:10': 'Keynote: Bashar Al-Abdulhadi'
     '10:00': Sponsored talk
-    '10:15': talks/cpython-internals-review-through-pep-implementation
+    '10:15': talks/cpython-internals-review-hacking-into-the-interpreter
     '10:45': Break
     '11:15': talks/developing-a-zero-boilerplate-library-for-raspberry-pi-gpio
     '12:00': talks/pinet-a-project-that-was-never-intended-to-be
