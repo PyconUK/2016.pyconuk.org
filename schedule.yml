@@ -163,7 +163,7 @@ Saturday 17th:
     '15:30': talks/recipy-completely-effortless-provenance-for-python
     '16:00': Break
     '16:30': talks/my-journey-from-wxpython-tp-pyqt
-    '17:00': talks/rewriting-without-rewriting-porting-an-atc-radar-display-to-pythonqt-without-starting-from-scratch
+    '17:00': talks/the-breakup-monolith-to-microservices
     '17:30': ''
     '18:15': Close
 Sunday 18th:
@@ -202,7 +202,7 @@ Sunday 18th:
     '15:30': talks/cleaner-unit-testing-with-the-arrange-act-assert-pattern
     '16:00': Break
     '16:30': talks/build-your-microservices-with-zeromq
-    '17:00': talks/the-breakup-monolith-to-microservices
+    '17:00': talks/rewriting-without-rewriting-porting-an-atc-radar-display-to-pythonqt-without-starting-from-scratch
     '17:30': ''
     '18:15': Close
   Room D:
