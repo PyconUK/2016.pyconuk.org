@@ -1,6 +1,6 @@
 name: Lyst
-tier: Silver
+tier: silver
 website:
 twitter_handle:
-logo_filename:
+logo_filename: lyst.png
 ---

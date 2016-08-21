@@ -1,6 +1,6 @@
 name: O'Reilly
 tier: bronze
-website:
+website: http://www.oreilly.com.
 twitter_handle:
-logo_filename:
+logo_filename: oreilly.png
 ---

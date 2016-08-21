@@ -1,6 +1,6 @@
 name: J. P. Morgan
-tier: Gold
+tier: gold
 website:
 twitter_handle:
-logo_filename:
+logo_filename: jpmc.png
 ---
