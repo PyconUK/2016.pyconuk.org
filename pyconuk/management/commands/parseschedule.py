@@ -1,4 +1,5 @@
 import os
+import shutil
 import yaml
 
 from django.core.management.base import BaseCommand
@@ -6,6 +7,8 @@ from django.core.management.base import BaseCommand
 
 class Command(BaseCommand):
     def handle(self, *args, **kwargs):
+        shutil.rmtree('schedule')
+
         for fn in ['schedule.yml']:
             with open(fn) as f:
                 schedule = yaml.load(f.read())
