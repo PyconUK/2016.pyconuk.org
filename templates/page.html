@@ -32,6 +32,26 @@
         {{ content|safe }}
         {% endif %}
       </div>
+
+      <hr />
+
+      <div class="sponsors-list">
+        <h3>The conference wouldn't happen without the support of our sponsors:<h3>
+        <table>
+          {% for row in sponsor_table %}
+          <tr>
+            {% for sponsor in row %}
+            <td colspan="{% if row|length == 1 %}2{% else %}1{% endif %}">
+              <a href="{% if sponsor.content %}/sponsors/{{ sponsor.key }}/{% else %}#{% endif %}">
+                <img src="/static/img/logos/{{ sponsor.logo_filename }}" class="{% if row|length == 1 %}wide-logo{% else %}logo{% endif %}" />
+              </a>
+            </td>
+            {% endfor %}
+          </tr>
+          {% endfor %}
+        </table>
+      </div>
+
     </div>
   </div>
 </article>

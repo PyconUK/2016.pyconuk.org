@@ -15,6 +15,21 @@ def page_view(request, key='index'):
 
     assert page.content_format in ['html', 'md'], 'Page content must use HTML or Markdown'
 
+    sponsor_table_keys = [
+        ['bank-of-america'],
+        ['jp-morgan'],
+        ['psf', 'government-digital-service'],
+        ['pythonanywhere', 'mosaic'],
+        ['oreilly', 'hpe'],
+        ['potato', 'jetbrains'],
+        ['smarkets', 'stx-next'],
+    ]
+
+    sponsor_table = [
+        [Sponsor.objects.get(key=key) for key in row]
+        for row in sponsor_table_keys
+    ]
+
     template = 'page.html'
 
     context = {
@@ -25,6 +40,7 @@ def page_view(request, key='index'):
         'callout_big_2': page.callout_big_2,
         'callout_small': page.callout_small,
         'tito_required': page.tito_required,
+        'sponsor_table': sponsor_table,
     }
 
     return render(request, template, context)
