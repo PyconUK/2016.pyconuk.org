@@ -1,7 +1,7 @@
-title: 'Introducing typing - challenges and lessons'
+title: 'Introducing type hints - challenges and lessons'
 subtitle:
 speaker: angela-santin
 ---
-We have recently introduced typing into our Python codebase at Smarkets.
+A large proportion of our codebase at Smarkets is written in Python, and we recently decided to introduce type hints in both Python 2 and Python 3 components.
 
-Typing can be useful, but also presents some challenges. I'll discuss these, and what we learned from the experience.
+In this talk I will discuss the motivation behind this decision as well as the benefits and challenges we've encountered along the way.
