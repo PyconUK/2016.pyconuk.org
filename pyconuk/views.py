@@ -18,12 +18,13 @@ def page_view(request, key='index'):
     sponsor_table_keys = [
         ['bank-of-america'],
         ['jp-morgan'],
-        ['psf', 'government-digital-service'],
+        ['government-digital-service', 'lyst'],
         ['pythonanywhere', 'mosaic'],
         ['oreilly', 'hpe'],
         ['potato', 'jetbrains'],
         ['smarkets', 'stx-next'],
     ]
+    # We include the PSF logo in the template
 
     sponsor_table = [
         [Sponsor.objects.get(key=key) for key in row]
