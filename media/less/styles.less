@@ -561,8 +561,10 @@ label[for='primary-nav'] {
 //////////////////////    TEMPLATE BLOCKS        /////////////////////
 
 .intro, .content {
-    width: 42.5em;
+    max-width: 42.5em;
     margin: auto;
+    padding-left:  15px;
+    padding-right: 15px;
     body.single-col & {
         @media all and (max-width: 43.75em) {
             width: 100%;
@@ -1253,15 +1255,19 @@ body.two-col & {
   td {
     text-align: center;
     vertical-align: middle;
-    padding: 5px;
+    padding: 8px;
   }
 
   .logo {
-    width: 240px;
+    width: 50%;
   }
 
   .wide-logo {
-    width: 480px;
+    width: 100%;
+  }
+
+  .logo img, .wide-logo img {
+    width: 100%;
   }
 }
 
