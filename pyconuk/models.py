@@ -38,6 +38,15 @@ class Session(ModelWithContent):
     def slug(self):
         return self.key.split('/', 1)[1]
 
+    def time(self):
+        return self.scheduleslot.time
+
+    def date(self):
+        return self.scheduleslot.date
+
+    def room(self):
+        return self.scheduleslot.room
+
 
 class Sponsor(ModelWithContent):
     TIERS = (
