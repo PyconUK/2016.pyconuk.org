@@ -44,7 +44,7 @@ game.
 
 ### BBC micro:bit Mayhem
 
-Bring your BBC micro:bit along or play with one of ours to create a TARDIS or
+Bring your BBC micro:bit along or play with one of ours to create a Dalek or
 control Minecraft! Fun for kids and adults.
 
 ### Python for Parents
