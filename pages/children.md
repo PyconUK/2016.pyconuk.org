@@ -44,13 +44,13 @@ game.
 
 ### BBC Micro:bit Mayhem and Dr Who
 
-Bring your BBC micro:bit along or play with one of ours to create a tardis or
+Bring your BBC micro:bit along or play with one of ours to create a TARDIS or
 control Minecraft! Fun for kids and adults.
 
 ### Python for Parents
 
 Because you have no idea what just happened but now your kids are enthusiastic
-and keep asking questions….
+and keep asking questions...
 
 ***
 
