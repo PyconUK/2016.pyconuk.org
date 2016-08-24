@@ -42,7 +42,7 @@ for those new to Python programming.
 Want to be a games developer? Then use your Python skills to make your very own
 game.
 
-### BBC Micro:bit Mayhem and Dr Who
+### BBC micro:bit Mayhem
 
 Bring your BBC micro:bit along or play with one of ours to create a TARDIS or
 control Minecraft! Fun for kids and adults.
