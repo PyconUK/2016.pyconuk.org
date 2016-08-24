@@ -61,6 +61,7 @@ and keep asking questions...
 * Tickets cost £5
 * Adults need not buy tickets if they are not attending the main conference
 * Lunch is provided for children; adults should bring their own
+* The day runs from 9am to 4pm at Cardiff City Hall
 
 ***
 
