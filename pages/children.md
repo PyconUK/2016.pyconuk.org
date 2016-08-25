@@ -21,7 +21,7 @@ lots of volunteers on hand to show you what you need to know.
 
 ## Activities
 
-There is an activity for everyone on our children's day, wether you are learning for the first time or already have experience of programming:
+There is an activity for everyone on our children's day, whether you are learning for the first time or already have experience of programming:
 
 ### Intro to Python with Code Club
 
