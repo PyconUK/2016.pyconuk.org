@@ -8,3 +8,4 @@ db.sqlite3
 media/CACHE
 
 .DS_Store
+node_modules
