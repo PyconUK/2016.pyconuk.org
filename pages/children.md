@@ -1,5 +1,5 @@
 title: Kids at PyCon UK
-callout_big_1: Micro:bits, machines, Minecraft...
+callout_big_1: Micro:bits, making, Minecraft...
 callout_big_2: ...and Python
 callout_small: Saturday 17th September
 tito_required: yes
@@ -10,10 +10,9 @@ Our day for children is back!
 We're hosting a fun-packed day of activities and workshops for children to
 learn all about getting the most out of the world with Python.
 
-We're working with the Raspberry Pi Foundation, and some of the team who
-brought Python to the Micro:bit will be coming along to show you how use Python
-to write games.  There'll be a chance to play with robots, and to learn how to
-program Minecraft with Python!
+This year we're working with the Raspberry Pi Foundation, Code Club and some of the team who
+brought Python to the BBC Micro:bit. They will be coming along to show you how use Python
+to write your first computer program, your very own electronic games and how to hack Minecraft!  There'll be a chance to play with robots, and to learn about physical computing with the Raspberry Pi and BBC Micro:bit. 
 
 It doesn't matter if you've never programmed a computer before!  We'll have
 lots of volunteers on hand to show you what you need to know.
@@ -22,15 +21,17 @@ lots of volunteers on hand to show you what you need to know.
 
 ## Activities
 
-### Intro to Python with Code Club Projects
+There is an activity for everyone on our children's day, wether you are learning for the first time or already have experience of programming:
+
+### Intro to Python with Code Club
 
 Learn how to code Python perhaps for the first time in this session with Code
-Club, before embarking on projects this afternoon!
+Club, before embarking on projects in the afternoon!
 
 ### Do something else in Python...
 
 Take Python programming beyond the screen and control real world physical
-objects. A session for children already comfortable with Python basics.
+objects with experts from the Raspberry Pi Foundation. A session for children already comfortable with Python basics.
 
 ### Hacking Minecraft for Beginners
 
@@ -49,8 +50,8 @@ control Minecraft! Fun for kids and adults.
 
 ### Python for Parents
 
-Because you have no idea what just happened but now your kids are enthusiastic
-and keep asking questions...
+That's right, a session for parent's of young coders because you have no idea what just happened but now your kids are enthusiastic
+and keep asking questions!
 
 ***
 
