@@ -12,7 +12,7 @@ learn all about getting the most out of the world with Python.
 
 This year we're working with the Raspberry Pi Foundation, Code Club and some of the team who
 brought Python to the BBC micro:bit. They will be coming along to show you how use Python
-to write your first computer program, your very own electronic games and how to hack Minecraft!  There'll be a chance to play with robots, and to learn about physical computing with the Raspberry Pi and BBC micro:bit. 
+to write your first Python computer program, your very own electronic games and how to hack Minecraft!  There'll be a chance to play with robots, and to learn about physical computing with the Raspberry Pi and BBC micro:bit. 
 
 It doesn't matter if you've never programmed a computer before!  We'll have
 lots of volunteers on hand to show you what you need to know.
@@ -28,10 +28,9 @@ There is an activity for everyone on our children's day, whether you are learnin
 Learn how to code Python perhaps for the first time in this session with Code
 Club, before embarking on projects in the afternoon!
 
-### Do something else in Python...
+### Snapchat selfies with Python and Raspberry Pi
 
-Take Python programming beyond the screen and control real world physical
-objects with experts from the Raspberry Pi Foundation. A session for children already comfortable with Python basics.
+Take selfies and add fabulous filters and outrageous overlays with the Raspberry Pi camera. A session for those already familiar with Python.
 
 ### Hacking Minecraft for Beginners
 
