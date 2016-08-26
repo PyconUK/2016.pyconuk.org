@@ -8,6 +8,7 @@ class Page(ModelWithContent):
     callout_big_2 = models.CharField(max_length=255)
     callout_small = models.CharField(max_length=255)
     tito_required = models.BooleanField(default=False)
+    show_sponsors = models.BooleanField(default=True)
 
     dump_dir_path = 'pages'
 

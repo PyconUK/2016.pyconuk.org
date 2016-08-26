@@ -41,6 +41,7 @@ def page_view(request, key='index'):
         'callout_big_2': page.callout_big_2,
         'callout_small': page.callout_small,
         'tito_required': page.tito_required,
+        'show_sponsors': page.show_sponsors,
         'sponsor_table': sponsor_table,
     }
 
