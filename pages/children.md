@@ -11,8 +11,8 @@ We're hosting a fun-packed day of activities and workshops for children to
 learn all about getting the most out of the world with Python.
 
 This year we're working with the Raspberry Pi Foundation, Code Club and some of the team who
-brought Python to the BBC Micro:bit. They will be coming along to show you how use Python
-to write your first computer program, your very own electronic games and how to hack Minecraft!  There'll be a chance to play with robots, and to learn about physical computing with the Raspberry Pi and BBC Micro:bit. 
+brought Python to the BBC micro:bit. They will be coming along to show you how use Python
+to write your first computer program, your very own electronic games and how to hack Minecraft!  There'll be a chance to play with robots, and to learn about physical computing with the Raspberry Pi and BBC micro:bit. 
 
 It doesn't matter if you've never programmed a computer before!  We'll have
 lots of volunteers on hand to show you what you need to know.
@@ -50,7 +50,7 @@ control Minecraft! Fun for kids and adults.
 
 ### Python for Parents
 
-That's right, a session for parent's of young coders because you have no idea what just happened but now your kids are enthusiastic
+That's right, a session for parents of young coders because you have no idea what just happened but now your kids are enthusiastic
 and keep asking questions!
 
 ***
