@@ -11,8 +11,8 @@ believe that the AAA pattern can help us all with this quest.
 In this talk I shall:
 
 * Demonstrate the AAA pattern of testing and its benefits.
-* The code smells can arise when using AAA.
-* Pythonic (hopefully), object orientated and organised strategies for
+* Discuss the code smells can arise when using AAA.
+* Present some Pythonic (hopefully), object orientated and organised strategies for
   resolving these smells, refactoring for cleaner, more readable and reliable
   tests.
 
