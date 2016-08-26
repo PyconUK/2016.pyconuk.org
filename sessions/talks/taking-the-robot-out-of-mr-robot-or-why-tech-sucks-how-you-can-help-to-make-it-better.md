@@ -1,4 +1,4 @@
-title: Taking the robot out of Mr. Robot or: Why tech sucks & how you can help to make it better
+title: "Taking the robot out of Mr. Robot or: Why tech sucks & how you can help to make it better"
 subtitle:
 speaker: kerstin-kollmann
 ---
