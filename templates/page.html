@@ -35,6 +35,7 @@
 
       <hr />
 
+      {% if show_sponsors %}
       <div class="sponsors-list">
         <h3>The conference wouldn't happen without the support of our sponsors:</h3>
         <table>
@@ -50,19 +51,8 @@
           </tr>
           {% endfor %}
         </table>
-
-        <table>
-          <tr>
-            <td></td>
-            <td class="logo">
-              <a href="/sponsors/psf/">
-                <img src="/static/img/logos/psf.png" />
-              </a>
-            </td>
-            <td></td>
-          </tr>
-        </table>
       </div>
+      {% endif %}
     </div>
   </div>
 </article>

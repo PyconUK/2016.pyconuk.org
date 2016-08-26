@@ -3,6 +3,7 @@ callout_big_1: Micro:bits, making, Minecraft...
 callout_big_2: ...and Python
 callout_small: Saturday 17th September
 tito_required: yes
+show_sponsors: no
 ---
 
 Our day for children is back!
@@ -76,3 +77,21 @@ Have a look at these videos to see what we got up to in previous years!
 <div><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/u4IMlpmjbYg?rel=0" frameborder="0" allowfullscreen></iframe></div>
 <br/>
 <div><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/yerWCR3mppk?rel=0" frameborder="0" allowfullscreen></iframe></div>
+
+<hr />
+
+<h3>The children's day wouldn't happen without the support of the Raspberry Pi Foundation</h3>
+
+<div class="sponsors-list">
+  <table>
+    <tr>
+      <td></td>
+      <td class="logo">
+        <a href="/sponsors/rpf/">
+          <img src="/static/img/logos/rpf.png" />
+        </a>
+      </td>
+      <td></td>
+    </tr>
+  </table>
+</div>
