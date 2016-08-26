@@ -53,6 +53,7 @@ class Sponsor(ModelWithContent):
         ('gold', 'gold'),
         ('silver', 'silver'),
         ('bronze', 'bronze'),
+        ('partner', 'partner'),
     )
     name = models.CharField(max_length=255)
     tier = models.CharField(max_length=255, choices=TIERS)
