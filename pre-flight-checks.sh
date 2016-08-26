@@ -50,7 +50,8 @@ fi
 
 echo " *** Checking that conference name is spelt correctly"
 
-grep -e "Pycon UK" -e "pycon UK" -e "pyconUK" -e "PyConUK" --line-number --recursive --include "*.html" output | grep -v https://twitter.com/PyConUK
+python manage.py buildsite
+grep -i -e "Pycon UK" -e "PyconUK" --line-number --recursive --include "*.html" output | grep -v https://twitter.com/PyConUK | grep -v "PyCon UK"
 
 if [[ $? -eq 0 ]]; then
 	ERRORS+=("Conference name is not spelt correctly")
