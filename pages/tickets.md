@@ -19,6 +19,8 @@ Every penny donated will be used to support the attendance of somebody who would
 
 If you have already bought a ticket, but would like to upgrade it (perhaps from a 3-day ticket to a 4-day ticket, or from a self-funded ticket to an employer-funded ticket), please [purchase an upgrade](/tickets/upgrading/).
 
+Should you need to cancel a ticket, please [get in touch](/contact/).  We will be able to offer a full refund until 1st September, and a 50% refund after that.
+
 Choose your ticket below:
 
 <tito-widget event="pyconuk/2016">Visit [our ticket page on Tito](https://ti.to/pyconuk/2016) if you don’t see a ticket form</tito-widget>
