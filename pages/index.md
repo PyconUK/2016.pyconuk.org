@@ -12,7 +12,7 @@ September.
 ## Overview of the programme
 
 * **Thursday**: [Open Day, with introductory workshops, talks and more](/open-day/)
-* **Friday to Sunday**: a packed programme of talks and other sessions
+* **Friday to Sunday**: [a packed programme of talks and other sessions](/programme/)
 * **Monday**: [sprints and more advanced workshops](/code-day/)
 
 We'll be putting on a programme of talks, workshops, and other events aimed at
@@ -21,13 +21,6 @@ professionals to hobbyists.  There will be an [education programme](/teachers/)
 for teachers, and an [expanded research programme](/research/) aimed at
 researchers from the humanities, arts and scientists.  The [children's
 day](/children/) returns too.
-
-## Get involved
-
-We're a community-led, volunteer-run conference, and this means we want you to
-be involved.  If you'd like to give a talk or run a workshop, please see our
-[Call For Proposals](/cfp/).  We're particularly keen to hear from
-under-represented groups and first-time speakers.
 
 ## Diversity, accessibility, inclusion
 
@@ -58,6 +51,8 @@ Conduct](/code-of-conduct/).
 
 * [How to get to Cardiff](/venue/)
 * [Accommodation in Cardiff](/accommodation/)
+* [Our day for teachers](/teachers/)
+* [Our day for children](/children/)
 
 
 If you've got any questions, [get in touch](/contact/).
