@@ -6,7 +6,7 @@ I'll talk about how the use of paper systems led to a simplification of the idea
 
 I'll give some simple examples and then describe how, for the first time in human history, we now possess technology that is perfectly capable of implementing a far richer understanding of the world than Aristotle could possibly have imagined - but how we need to change our own mental models to take advantage of that possibility.
 
-# Fair Warning
+## Fair Warning
 There is a little known rule:
 
 > If, during a Python conference, a quotation from Monty Python is appropriate,
