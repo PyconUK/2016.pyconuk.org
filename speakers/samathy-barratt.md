@@ -7,7 +7,7 @@ Currently an High Performance Computer engineer at Rolls-Royce and a
 Coventry University student attending Hackference Birmingham for the
 first time.
 
-They're also Coventry Pride Trustee, Trans-Code and PyConUK volunteer.
+They're also Coventry Pride Trustee, Trans-Code and PyCon UK volunteer.
 
 Come talk to them about anything to do with technology, diversity, LGBT
 issues and especially FOSS.

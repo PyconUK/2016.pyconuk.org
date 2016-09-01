@@ -2,7 +2,7 @@ title: 'Developing a Zero boilerplate library for Raspberry Pi GPIO'
 subtitle:
 speaker: ben-nuttall-and-dave-jones
 ---
-Last September I (Ben) wrote some code which aimed to make GPIO programming much simpler to teach, and a few of us sprinted on it at PyConUK. Dave contributed some excellent features and we published a few betas early on, and a couple of months later v1.0 of the library was released: GPIO Zero.
+Last September I (Ben) wrote some code which aimed to make GPIO programming much simpler to teach, and a few of us sprinted on it at PyCon UK. Dave contributed some excellent features and we published a few betas early on, and a couple of months later v1.0 of the library was released: GPIO Zero.
 
 Like Daniel Pope's PyGame Zero, this library aims for minimal boilerplate code required to get stared, and makes progression from simple scripts to more advanced applications simple.
 

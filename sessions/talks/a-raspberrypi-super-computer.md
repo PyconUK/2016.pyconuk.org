@@ -7,7 +7,7 @@ develop a new open-source supercomputer, based on Raspberry Pis in clusters.
 
 This talk will introduce the project, and explain how you can join in.
 
-Following the talk on our [open day](/introduction/), Russel wil hold a planning and introduction
+Following the talk on our [open day](/introduction/), Russel will hold a planning and introduction
 session that day. On [Monday](/code-day/) work on the project will begin in earnest during the sprints.
 
 **Everyone's welcome**. You don't need to be an expert or an advanced programmer to join in. It's meant to be a fun
