@@ -10,7 +10,7 @@ I'll give some simple examples and then describe how, for the first time in huma
 There is a little known rule:
 
 > If, during a Python conference, a quotation from Monty Python is appropriate,
-> then it must be used, preferably using audience participation.
+> then it must be used, preferably with audience participation.
 
 If you chose to attend my talk, you should probably familiarise yourself with
 [Bruce's Philosophers Song](https://en.wikipedia.org/wiki/Bruces%27_Philosophers_Song)
