@@ -13,7 +13,7 @@ While it is rather common for microservices to choose JSON over HTTP
 to communicate with each other, this is purely an implementation
 choice.  HTTP is a protocol using a strict request-response format,
 this can become a little burdensome when needing to deal with
-asynchronous requests and forces some architectural descisions to be
+asynchronous requests and forces some architectural decisions to be
 not as ideal as they could be.  ZeroMQ has more flexible communication
 patterns allowing for easier mapping of real-life interactions between
 services.  Coupled with an easy to use asynchronous user-level API and
