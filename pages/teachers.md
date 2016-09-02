@@ -29,7 +29,7 @@ teacher**, towards the cost of supply cover at school so that you can attend. Ch
 ### Networking opportunties:
 
  * "Adopt a Developer" because PyCon UK professional development is not just for one day. Building long-term relationships between teachers and developers to support your journey with Python is for life!
- * A TeachMeet. Your chance to share what you've been doing in your classroom with others.
+ * [A TeachMeet](teachmeet.md). Your chance to share what you've been doing in your classroom with others. [Sign up to present here](https://docs.google.com/forms/d/e/1FAIpQLSfGyipZX5spxVQm7wZyGbv4TteLMGYNgEheRpfFxkNThsfqNQ/viewform?c=0&w=1)
  * All aboard the big classroom bus to have some hacking time on a Raspberry Pi with some Python projects.
  * Join a community of educators and developers interested in Python in Education through the [Python Software Foundation's working group](https://wiki.python.org/psf/PythonEduWG)
 
