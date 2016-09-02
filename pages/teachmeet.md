@@ -1,4 +1,8 @@
-
+title: Teach Meet at PyCon UK
+callout_big_1: A Meetup for Teachers
+callout_big_2: at PyConUK
+callout_small: Friday 16th September
+---
 
 If you’ve never been to a Teachmeet before, they are informal events all about creating opportunities for those interested in education to take the lead, share practice, discover new ideas, network and be inspired! Anyone can get involved, share great ideas they've trialled in their classrooms, share their research, ask important questions or come by to take part in learning conversations.
 
