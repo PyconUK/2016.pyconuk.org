@@ -10,4 +10,4 @@ What’s really important about Teachmeets is that all the ideas come from colle
 
 These events only work by people generously agreeing to give up their time to share their ideas and practice and if you’re prepared to do this you can choose between a 3 minute and 8 minute presentation. Presentations are informal, they do not need slides (although if you want slides, that’s ok too!) and can be everything from you sharing class projects, to just talking about a lesson that went really well. The audience are fellow teachers, so it’s a really easy crowd and everyone will be really supportive!
 
-If you do want to present, please let us know so we can sort out a timetable of speakers! [You can do that here](https://goo.gl/forms/NZaQrNGK3DhYqhnD2)
+If you do want to present, please let us know so we can sort out a timetable of speakers! [You can do that here](https://goo.gl/forms/NZaQrNGK3DhYqhnD2).
