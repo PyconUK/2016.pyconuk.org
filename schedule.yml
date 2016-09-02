@@ -31,6 +31,38 @@ Thursday 15th:
     '15:00': talks/is-my-robot-butler-going-to-steal-my-job
     '15:30': talks/where-am-i-what-am-i-doing-here-motion-detection-and-sensor-fusion-on-wearables-and-microbit-with-python
     '16:00': Close
+  CU Room A:
+    '08:00': Registration
+    '09:15': ''
+    '09:30': workshops/django-vs-flask-vs-pyramid-which-to-chose
+    '10:00': workshops/django-vs-flask-vs-pyramid-which-to-chose
+    '10:30': workshops/django-vs-flask-vs-pyramid-which-to-chose
+    '11:00': Break
+    '11:30': workshops/natural-language-processing-in-10-lines-of-code
+    '12:00': workshops/natural-language-processing-in-10-lines-of-code
+    '12:30': workshops/natural-language-processing-in-10-lines-of-code
+    '13:00': Lunch
+    '14:00': Building a Raspberry Pi supercomputer in a suitcase
+    '14:30': Building a Raspberry Pi supercomputer in a suitcase
+    '15:00': Building a Raspberry Pi supercomputer in a suitcase
+    '15:30': Building a Raspberry Pi supercomputer in a suitcase
+    '16:00': Close
+  CU Room B:
+    '08:00': Registration
+    '09:15': ''
+    '09:30': workshops/trolling-on-twitter-with-your-python-bot
+    '10:00': workshops/trolling-on-twitter-with-your-python-bot
+    '10:30': workshops/trolling-on-twitter-with-your-python-bot
+    '11:00': Break
+    '11:30': workshops/how-to-land-the-right-job-for-you
+    '12:00': workshops/how-to-land-the-right-job-for-you
+    '12:30': workshops/how-to-land-the-right-job-for-you
+    '13:00': Lunch
+    '14:00': workshops/getting-started-with-kivy-and-python-for-android
+    '14:30': workshops/getting-started-with-kivy-and-python-for-android
+    '15:00': workshops/getting-started-with-kivy-and-python-for-android
+    '15:30': workshops/getting-started-with-kivy-and-python-for-android
+    '16:00': Close
 Friday 16th:
   Assembly Room:
     '08:00': Registration
@@ -100,9 +132,9 @@ Friday 16th:
     '12:00': Digital Making with Raspberry Pi Foundation
     '12:30': Digital Making with Raspberry Pi Foundation
     '13:00': Lunch
-    '14:30': Education focused sprints - be adopted by a teacher to help solve their problems
-    '15:00': Education focused sprints - be adopted by a teacher to help solve their problems
-    '15:30': Education focused sprints - be adopted by a teacher to help solve their problems
+    '14:30': workshops/creative-learning-and-computational-thinking-across-the-curriculum
+    '15:00': workshops/adventures-in-python-with-send-students
+    '15:30': workshops/adventures-in-python-with-send-students
     '16:00': Break
     '16:30': PyCon UK CS Teachmeet
     '17:00': PyCon UK CS Teachmeet
@@ -224,4 +256,102 @@ Sunday 18th:
     '17:00': talks/symbolic-computation-with-python-using-sympy
     '17:30': ''
     '18:15': Close
-
+  Room C:
+    '08:00': Registration
+    '09:00': ''
+    '09:10': ''
+    '10:00': workshops/users-are-not-the-only-people
+    '10:15': workshops/users-are-not-the-only-people
+    '10:45': Break
+    '11:15': workshops/an-introduction-to-deep-learning
+    '12:00': workshops/an-introduction-to-deep-learning
+    '12:30': workshops/an-introduction-to-deep-learning
+    '13:00': Lunch
+    '14:30': workshops/software-carpentry
+    '15:00': workshops/software-carpentry
+    '15:30': workshops/software-carpentry
+    '16:00': Break
+    '16:30': ''
+    '17:00': ''
+    '17:30': ''
+    '18:15': Close
+  Room A:
+    '08:00': Registration
+    '09:00': ''
+    '09:10': ''
+    '10:00': workshops/small-projects-ideas-with-open-data-using-python
+    '10:15': workshops/small-projects-ideas-with-open-data-using-python
+    '10:45': Break
+    '11:15': workshops/dive-into-object-oriented-python
+    '12:00': workshops/dive-into-object-oriented-python
+    '12:30': workshops/dive-into-object-oriented-python
+    '13:00': Lunch
+    '14:30': workshops/dive-into-object-oriented-python
+    '15:00': workshops/dive-into-object-oriented-python
+    '15:30': workshops/dive-into-object-oriented-python
+    '16:00': Break
+    '16:30': ''
+    '17:00': ''
+    '17:30': ''
+    '18:15': Close
+Monday 19th:
+  Assembly Room:
+    '09:00': Introduction
+    '09:10': Sprints
+    '10:45': Break
+    '11:15': Sprints
+    '13:00': Lunch
+    '14:30': Sprints
+    '16:00': Break
+    '16:30': Sprints
+    '18:00': Close
+  Room D:
+    '09:00': Introduction
+    '09:10': workshops/orchestration-with-tosca
+    '10:45': Break
+    '11:15': workshops/django-cms-application-a-comprehensive-approach
+    '13:00': Lunch
+    '14:30': workshops/introduction-to-graphene-and-relay
+    '16:00': Break
+    '16:30': ''
+    '18:00': Close
+  Room C:
+    '09:00': Introduction
+    '09:10': workshops/getting-started-with-aws-elastic-beanstalk
+    '10:45': Break
+    '11:15': workshops/one-click-deployment-of-jupyter-notebooks-as-web-apps-and-other-cool-jovian-tricks
+    '13:00': Lunch
+    '14:30': workshops/building-a-single-page-application-with-django-and-emberjs
+    '16:00': Break
+    '16:30':
+    '18:00': Close
+  Room A:
+    '09:00': Introduction
+    '09:10': workshops/property-based-testing-with-hypothesis
+    '10:45': Break
+    '11:15': workshops/property-based-testing-with-hypothesis
+    '13:00': Lunch
+    '14:30': workshops/multi-language-approaches-to-high-performance-computing-with-python 
+    '16:00': Break
+    '16:30': ''
+    '18:00': Close
+  Room B:
+    '09:00': Introduction
+    '09:10': workshops/data-wrangling-with-python
+    '10:45': Break
+    '11:15': workshops/data-wrangling-with-python
+    '13:00': Lunch
+    '14:30': workshops/hands-on-kubernetes-management-with-python-using-kube
+    '16:00': Break
+    '16:30': ''
+    '18:00': Close
+  Room I:
+    '09:00': Introduction
+    '09:10': Trans*Code
+    '10:45': Break
+    '11:15': Trans*Code
+    '13:00': Lunch
+    '14:30': Trans*Code
+    '16:00': Break
+    '16:30': Trans*Code
+    '18:00': Close

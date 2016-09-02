@@ -51,8 +51,26 @@ def page_view(request, key='index'):
 def schedule_view(request):
     template = 'schedule.html'
 
-    dates = ['Thursday 15th', 'Friday 16th', 'Saturday 17th', 'Sunday 18th']
-    rooms_in_order = ['Open Day at Cardiff University', 'Assembly Room', 'Room D', 'Ferrier Hall', 'Room C']
+    dates = [
+        'Thursday 15th',
+        'Friday 16th',
+        'Saturday 17th',
+        'Sunday 18th',
+        'Monday 19th',
+    ]
+
+    rooms_in_order = [
+        'Open Day at Cardiff University',
+        'CU Room A',
+        'CU Room B',
+        'Assembly Room',
+        'Room I',
+        'Room D',
+        'Ferrier Hall',
+        'Room C',
+        'Room A',
+        'Room B',
+    ]
     schedules = [load_schedule_context(date, rooms_in_order) for date in dates]
 
     context = {
