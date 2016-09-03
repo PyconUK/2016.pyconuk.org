@@ -4,6 +4,6 @@
 #   python manage.py parseschedule
 
 date: Sunday 18th
-room: Room A
-session: workshops/natural-language-processing-with-python
-time: '14:30'
+room: Room C
+session: workshops/users-are-not-the-only-people
+time: '16:30'

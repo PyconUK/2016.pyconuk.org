@@ -260,8 +260,8 @@ Sunday 18th:
     '08:00': Registration
     '09:00': ''
     '09:10': ''
-    '10:00': workshops/users-are-not-the-only-people
-    '10:15': workshops/users-are-not-the-only-people
+    '10:00': workshops/small-projects-ideas-with-open-data-using-python
+    '10:15': workshops/small-projects-ideas-with-open-data-using-python
     '10:45': Break
     '11:15': workshops/an-introduction-to-deep-learning
     '12:00': workshops/an-introduction-to-deep-learning
@@ -271,27 +271,27 @@ Sunday 18th:
     '15:00': workshops/software-carpentry
     '15:30': workshops/software-carpentry
     '16:00': Break
-    '16:30': ''
-    '17:00': ''
+    '16:30': workshops/users-are-not-the-only-people
+    '17:00': workshops/users-are-not-the-only-people
     '17:30': ''
     '18:15': Close
   Room A:
     '08:00': Registration
     '09:00': ''
     '09:10': ''
-    '10:00': workshops/small-projects-ideas-with-open-data-using-python
-    '10:15': workshops/small-projects-ideas-with-open-data-using-python
+    '10:00': workshops/dive-into-object-oriented-python
+    '10:15': workshops/dive-into-object-oriented-python
     '10:45': Break
     '11:15': workshops/dive-into-object-oriented-python
     '12:00': workshops/dive-into-object-oriented-python
     '12:30': workshops/dive-into-object-oriented-python
     '13:00': Lunch
-    '14:30': workshops/dive-into-object-oriented-python
-    '15:00': workshops/dive-into-object-oriented-python
-    '15:30': workshops/dive-into-object-oriented-python
+    '14:30': workshops/natural-language-processing-with-python
+    '15:00': workshops/natural-language-processing-with-python
+    '15:30': workshops/natural-language-processing-with-python
     '16:00': Break
-    '16:30': ''
-    '17:00': ''
+    '16:30': workshops/natural-language-processing-with-python
+    '17:00': workshops/natural-language-processing-with-python
     '17:30': ''
     '18:15': Close
 Monday 19th:
