@@ -8,6 +8,7 @@ Starting version 3.4, Python standard library provides asynchronous API using ev
 Problem addressing
 
 This talk addressing problems of:
+
  - building complex frameworks asynchronous frameworks and its extensions
  - understanding existing IO-bound API problem on the example of OpenStack SDK and AsyncSSH API
  - building sequenced asynchronous task graph
@@ -16,6 +17,7 @@ This talk addressing problems of:
 What attendees will expect to learn?
 
 Key things that attendees will learn during talk:
+
  - OASIS TOSCA and AIOrchestra as an execution engine implementation
  - key concept of AIOrchestra
  - why IO-bound operations are so important for AIOrchestra underlying concept
