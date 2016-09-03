@@ -2,7 +2,7 @@ title: 'Building a single page application with Django and EmberJS'
 subtitle:
 speaker: emmanuelle-delescolle
 ---
-Are you curious about building REST API's and connecting them to a frontend application?
+Are you curious about building REST APIs and connecting them to a frontend application?
 Does frontend development sound scary or intriguing?
 Would you like to learn about Django and Django REST Framework?
 If you answered yes to any of those questions, come join us for this workshop!

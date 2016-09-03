@@ -9,12 +9,12 @@ This tutorial will introduce beginners to Python’s beautiful but sometimes pec
 
 Please bring your own laptop, as the workshop includes hands-on exercises. The minimum setup is a running Python console (preferably Python 3, but Python 2 is also OK) and your editor of choice.
 
-The recommended setup is a running Jupyter Notebook installation (http://jupyter.org/).
+The recommended setup is a running Jupyter Notebook installation (<http://jupyter.org/>).
 
-There will be no time to install software during the workshop, so please ensure that everything is already working for you. Run this example program from Dive Into Python 3 to check that all’s in order: http://www.diveintopython3.net/your-first-python-program.html
+There will be no time to install software during the workshop, so please ensure that everything is already working for you. Run this example program from Dive Into Python 3 to check that all’s in order: <http://www.diveintopython3.net/your-first-python-program.html>
 
 You can use this code to get a working Jupyter Notebook environment:
 
-virtualenv venv3 -p python3
-source venv3/bin/activate
-pip install jupyter
+    virtualenv venv3 -p python3
+    source venv3/bin/activate
+    pip install jupyter
