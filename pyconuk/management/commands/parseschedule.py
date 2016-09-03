@@ -28,7 +28,7 @@ class Command(BaseCommand):
                             'room': room,
                         }
 
-                        if session[:6] == 'talks/':
+                        if session[:6] == 'talks/' or session[:10] == 'workshops/':
                             fields['session'] = session
                         else:
                             fields['title'] = session

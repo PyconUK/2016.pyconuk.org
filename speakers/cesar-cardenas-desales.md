@@ -1,4 +1,4 @@
-name: César Cardenas Desales
+name: "C\xE9sar Cardenas Desales"
 ---
 I always enjoy a good programming riddle. I work mostly with Python, but have done unspeakable things in Java, Perl and PHP.
 

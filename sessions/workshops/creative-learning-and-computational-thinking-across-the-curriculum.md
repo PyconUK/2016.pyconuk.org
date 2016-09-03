@@ -1,0 +1,4 @@
+speaker: kath-morton-smith
+title: Creative learning and computational thinking across the curriculum
+---
+I would like to do a talk about young digital volunteers helping with creative learning and computational thinking in schools in Wales. I will have case studies telling the journey of a number of different volunteers so far and the benefits of volunteering. I will also have anecdotes of how informal learning in after school coding clubs have developed children's ability to learn creatively and use computational thinking techniques. I have photos (including one club which was mostly girls) and a video of a club in Woodlands Community Primary school in Torfaen which has an interview with the associate head teacher who advocates coding in schools.
