@@ -5,9 +5,11 @@ callout_small: Cardiff City Hall from Thursday 15th to Monday 19th September 201
 ---
 
 PyCon UK is the annual gathering of the UK Python community and its friends
-from around the world.  This year, the conference is held at [Cardiff City
-Hall](http://www.cardiffcityhall.com/), from Thursday 15th to Monday 19th
-September.
+from around the world. This year, the conference is in Cardiff, from Thursday
+15th to Monday 19th September.
+
+* Open Day venue (*Thursday*): Cardiff University Bute Building
+* Main venue (*Friday to Monday*): [Cardiff City Hall](http://www.cardiffcityhall.com/)
 
 ## Overview of the programme
 
