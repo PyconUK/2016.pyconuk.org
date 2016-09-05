@@ -85,7 +85,11 @@ def open_day_view(request):
     template = 'open_day.html'
 
     date = 'Thursday 15th'
-    rooms_in_order = ['Open Day at Cardiff University']
+    rooms_in_order = [
+        'Open Day at Cardiff University',
+        'CU Room A',
+        'CU Room B',
+    ]
 
     context = {
         'schedule': load_schedule_context(date, rooms_in_order),

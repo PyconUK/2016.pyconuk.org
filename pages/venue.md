@@ -3,17 +3,26 @@ callout_big_1: This year we’re going to Cardiff
 callout_small: It’s going to be awesome
 ---
 
-The main conference venue is Cardiff’s beautiful [City
-Hall](http://www.cardiffcityhall.com/), with evening events held around the
-centre of Cardiff.
+## Our venues
+
+### Main conference
+
+*Friday to Monday* [Cardiff City Hall](http://www.cardiffcityhall.com/find-us), Cathays Park, Cardiff CF10 3ND
+
+### Open Day
+
+*Thursday* [Cardiff University Bute Building](http://www.cardiff.ac.uk/estat/accessibilityinformation/cathayscampus/butebuilding/buteaccess.html), King Edward VII Avenue, Cardiff CF10 3NB
+
+
+### Accessibility
+
+Both venues are accessible for people of limited mobility. If you need to
+park near the venue because of mobility issues, please contact us and we'll do
+our best to help.
+
+## Accommodation in Cardiff
 
 See [Accommodation](/accommodation/) for recommended hotels and other places to stay.
-
-## Cardiff City Hall
-
-PyCon UK 2016 will take place at [Cardiff City Hall](http://www.cardiffcityhall.com/find-us), Cathays Park, Cardiff
-CF10 3ND. Cardiff City Halls is accessible for people of limited mobility. If you need to park near the venue because
-of mobility issues, please contact us and we'll do our best to help.
 
 ## Getting to Cardiff
 
