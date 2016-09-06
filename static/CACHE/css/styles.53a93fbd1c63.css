@@ -380,8 +380,8 @@ th {
 
 @font-face {
   font-family: 'icomoon';
-  src: url('/static/fonts/icomoon.eot?173rwh&57c1b1dee355');
-  src: url('/static/fonts/icomoon.eot?173rwh&57c1b1dee355#iefix') format('embedded-opentype'), url('/static/fonts/icomoon.ttf?173rwh&57c1b1dee355') format('truetype'), url('/static/fonts/icomoon.woff?173rwh&57c1b1dee355') format('woff'), url('/static/fonts/icomoon.svg?173rwh&57c1b1dee355#icomoon') format('svg');
+  src: url('/static/fonts/icomoon.eot?173rwh&02c354365df3');
+  src: url('/static/fonts/icomoon.eot?173rwh&02c354365df3#iefix') format('embedded-opentype'), url('/static/fonts/icomoon.ttf?173rwh&02c354365df3') format('truetype'), url('/static/fonts/icomoon.woff?173rwh&02c354365df3') format('woff'), url('/static/fonts/icomoon.svg?173rwh&02c354365df3#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -418,8 +418,17 @@ h2 {
 }
 h3 {
   font-size: 1.75em;
+  color: #888;
 }
-p {
+h2,
+h3,
+h4,
+h5,
+h5 {
+  margin-bottom: 0;
+}
+p,
+li {
   line-height: 1.5;
 }
 .absolute-center {
@@ -712,7 +721,7 @@ h5,
   margin: 0;
   top: 0;
   left: 1em;
-  background: black url('/static/img/crown.svg?57c1b1dee355') center center / 100% no-repeat;
+  background: black url('/static/img/crown.svg?02c354365df3') center center / 100% no-repeat;
   padding: 0 0 .5em 0;
   position: absolute;
   z-index: 1000;
