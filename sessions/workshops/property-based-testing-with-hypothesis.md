@@ -14,5 +14,3 @@ Each example will come with a subtly broken implementation of the problem, and s
 Depending on how people feel and get on, at the end people will either have a bonus example to explore or are welcome to  bring their own code that they'd like to test better.
 
 At the end of this you should feel much more comfortable with the general concepts of property based testing, and be able to use Hypothesis effectively to test your own code.
-
-in on Monday 18 July at 10:15 Se
