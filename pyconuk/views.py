@@ -144,6 +144,9 @@ def session_view(request, session_type, slug):
         'content_format': session.content_format,
         'title': session.title,
         'speaker': speaker,
+        'day': session.day,
+        'time': session.time,
+        'room': session.room,
     }
 
     return render(request, template, context)
