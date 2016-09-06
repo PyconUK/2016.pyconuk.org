@@ -1,7 +1,7 @@
 title: PyCon UK 2016
 callout_big_1: PyCon UK is your community-led
 callout_big_2: volunteer-run conference
-callout_small: Cardiff City Hall from Thursday 15th to Monday 19th September 2016
+callout_small: Cardiff, from Thursday 15th to Monday 19th September 2016
 ---
 
 PyCon UK is the annual gathering of the UK Python community and its friends
