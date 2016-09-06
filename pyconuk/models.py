@@ -39,14 +39,20 @@ class Session(ModelWithContent):
     def slug(self):
         return self.key.split('/', 1)[1]
 
+    def slot(self):
+        return self.scheduleslot_set.all()[0]
+
     def time(self):
-        return self.scheduleslot.time
+        return self.slot().time
 
     def date(self):
-        return self.scheduleslot.date
+        return self.slot().date
+
+    def day(self):
+        return self.date().split()[0]
 
     def room(self):
-        return self.scheduleslot.room
+        return self.slot().room
 
 
 class Sponsor(ModelWithContent):

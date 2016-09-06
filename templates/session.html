@@ -8,7 +8,7 @@
     <div class="column_content">
       <h1>{{ title }}</h1>
 
-      <p><a href="{% url 'speaker' speaker.key %}">{{ speaker.name }}</a></p>
+      <p><a href="{% url 'speaker' speaker.key %}">{{ speaker.name }}</a> | {{ day }} {{ time }} | {{ room }}</p>
 
       <div class="textblock">
         {% if content_format == 'md' %}
