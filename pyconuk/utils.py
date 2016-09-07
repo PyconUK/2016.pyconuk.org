@@ -16,7 +16,10 @@ def load_schedule_context(date, rooms_in_order):
     for slot in slots:
         if slot.session:
             session = slot.session
-            text = session.title
+            if session.session_type() == 'keynotes':  # Yes, it'd be nicer if the session_type was singular, but it's not
+                text = 'Keynote: {}'.format(session.title)
+            else:
+                text = session.title
             url = reverse('session', args=[session.session_type(), session.slug()])
         else:
             text = slot.title

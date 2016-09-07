@@ -28,7 +28,7 @@ class Command(BaseCommand):
                             'room': room,
                         }
 
-                        if session[:6] == 'talks/' or session[:10] == 'workshops/':
+                        if session.startswith('talks/') or session.startswith('workshops/') or session.startswith('keynotes/'):
                             fields['session'] = session
                         else:
                             fields['title'] = session
