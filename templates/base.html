@@ -14,6 +14,8 @@
         <link href="/static/less/styles.less" rel="stylesheet" type="text/less" />
         {% endcompress %}
 
+        <link rel="stylesheet" type="text/css" href="/static/css/print.css" media="print" />
+
         <script src="https://use.typekit.net/kla0hed.js"></script>
         <script>try{Typekit.load({ async: true });}catch(e){}</script>
         <!--[if lt IE 9]>
@@ -35,7 +37,7 @@
     </head>
 
     <body class="home">
-        <header class="head">
+        <header class="head noPrint">
             <h1><a href="/"><span>PYCON UK</span></a></h1>
 
             <input type="checkbox" name="primary-nav" class="hidden" id="primary-nav" />
@@ -56,7 +58,7 @@
 
         {% block content %}{% endblock %}
 
-        <footer class="foot">
+        <footer class="foot noPrint">
             <div class="company-information">
                 <ul class="social-icons">
                     <li>

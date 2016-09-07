@@ -4,14 +4,14 @@
 <article class="main-article">
   <div id="schedule-content">
     <div id="schedule">
-      <p>
+      <p class="noPrint">
         Jump to:
         {% for schedule in schedules %}
         <a href="#{{ schedule.day }}">{{ schedule.date }}</a> {% if not forloop.last %}|{% endif %}
         {% endfor %}
       </p>
       {% for schedule in schedules %}
-      <div id="{{ schedule.day }}">
+      <div id="{{ schedule.day }}" class="pageBreak">
         <h1>{{ schedule.date }}</h1>
         <table>
           <tr>
