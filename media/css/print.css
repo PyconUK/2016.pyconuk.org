@@ -1,9 +1,10 @@
 @media print {
-.noPrint {
-    display:none;
-  }
+    .noPrint {
+        display:none;
+      }
+    .pageBreak {
+        page-break-after: always;
+    }
 }
 
-.pageBreak {
-    page-break-after: always;
-}
+
