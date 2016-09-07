@@ -1,16 +1,40 @@
 title: Dinner at the Clink
+callout_big_1: No plate left unfinished
 tito_required: yes
 show_sponsors: no
 ---
 
 # Dinner at the Clink
 
-On Thursday 15th, Saturday 17th, and Sunday 18th, we have booked the restaurant at [the Clink](http://theclinkcharity.org/the-clink-restaurants/cardiff-wales/).
-The Clink is "a dining experience delivering change, staffed by prisoners...  leading to employment in the UK hospitality industry upon release".
+On Thursday 15th, Saturday 17th, and Sunday 18th, we have booked [the
+Clink](http://theclinkcharity.org/the-clink-restaurants/cardiff-wales/), Her
+Majesty's Prison Cardiff, Knox Road, Cardiff, CF24 0UG.
 
-The restaurant is booked for 7.00pm each evening, but you should aim to arrive at 6.45pm.  Tickets cost £30.
+The Clink is one of the best places to eat in Cardiff. The food is delicious, made from the best locally-grown produce, and prepared imaginatively; it has won numerous awards. Don’t miss it.
+
+The Clink is special for another reason. It’s at Cardiff Prison, and trains and employs serving prisoners, who work in the kitchen and in the restaurant.
+
+About 49% of UK prisoners re-offend within a year of leaving prison. The Clink aims to break the cycles responsible for this, by providing prisoners with skills, qualifications and prospects, and helping them find secure full-time employment in the hospitality sector upon their release.
+
+As well as awards for its food, The Clink has won several for its educational work and its success in the rehabilitation of prisoners.
+
+Note that alcohol is not served, but we’ll take you to a Cardiff pub for a drink afterwards.
+
+**Please arrive at 18.45.** The restaurant is booked for 7.00pm each evening, but you should aim to arrive at 6.45pm.  Tickets are £30 for a three-course dinner that includes an introductory non-alcoholic cocktail and tea/coffee afterwards.
+
+We expect these tickets to sell out completely on each night. We have booked
+the entire restaurant up to its full capacity and we will not be able to
+squeeze more people in - buy your tickets sooner rather than later to avoid
+disappointment.
 
 ## The menu
+
+Special dietary requirements can be catered for, if you let us know in advance
+on the form.
+
+### Welcome
+
+* Non-alcoholic cocktail
 
 ### Starters
 
@@ -30,9 +54,9 @@ The restaurant is booked for 7.00pm each evening, but you should aim to arrive a
 * Blackberry cheesecake, served with honeycomb and elderberry coulis (V)
 * Selection of homemade ice cream (V)
 
+### And finally
 
-No alcohol is available at the venue.
-
+* Tea/coffee
 
 ## Tickets
 
