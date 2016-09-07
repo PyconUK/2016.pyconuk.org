@@ -40,7 +40,7 @@ class Session(ModelWithContent):
         return self.key.split('/', 1)[1]
 
     def slot(self):
-        return self.scheduleslot_set.all()[0]
+        return self.scheduleslot_set.order_by('time')[0]
 
     def time(self):
         return self.slot().time
