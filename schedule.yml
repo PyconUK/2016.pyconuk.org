@@ -286,12 +286,12 @@ Sunday 18th:
     '12:00': workshops/dive-into-object-oriented-python
     '12:30': workshops/dive-into-object-oriented-python
     '13:00': Lunch
-    '14:30': workshops/natural-language-processing-with-python
-    '15:00': workshops/natural-language-processing-with-python
-    '15:30': workshops/natural-language-processing-with-python
+    '14:30': workshops/data-wrangling-with-python
+    '15:00': workshops/data-wrangling-with-python
+    '15:30': workshops/data-wrangling-with-python
     '16:00': Break
-    '16:30': workshops/natural-language-processing-with-python
-    '17:00': workshops/natural-language-processing-with-python
+    '16:30': workshops/data-wrangling-with-python
+    '17:00': workshops/data-wrangling-with-python
     '17:30': ''
     '18:15': Close
 Monday 19th:
@@ -337,9 +337,9 @@ Monday 19th:
     '18:00': Close
   Room B:
     '09:00': Introduction
-    '09:10': workshops/data-wrangling-with-python
+    '09:10': workshops/natural-language-processing-with-python
     '10:45': Break
-    '11:15': workshops/data-wrangling-with-python
+    '11:15': workshops/natural-language-processing-with-python
     '13:00': Lunch
     '14:30': workshops/hands-on-kubernetes-management-with-python-using-kube
     '16:00': Break
