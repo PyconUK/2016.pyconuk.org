@@ -380,8 +380,8 @@ th {
 
 @font-face {
   font-family: 'icomoon';
-  src: url('/static/fonts/icomoon.eot?173rwh&02c354365df3');
-  src: url('/static/fonts/icomoon.eot?173rwh&02c354365df3#iefix') format('embedded-opentype'), url('/static/fonts/icomoon.ttf?173rwh&02c354365df3') format('truetype'), url('/static/fonts/icomoon.woff?173rwh&02c354365df3') format('woff'), url('/static/fonts/icomoon.svg?173rwh&02c354365df3#icomoon') format('svg');
+  src: url('/static/fonts/icomoon.eot?173rwh&ebd4f3e81d05');
+  src: url('/static/fonts/icomoon.eot?173rwh&ebd4f3e81d05#iefix') format('embedded-opentype'), url('/static/fonts/icomoon.ttf?173rwh&ebd4f3e81d05') format('truetype'), url('/static/fonts/icomoon.woff?173rwh&ebd4f3e81d05') format('woff'), url('/static/fonts/icomoon.svg?173rwh&ebd4f3e81d05#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -721,7 +721,7 @@ h5,
   margin: 0;
   top: 0;
   left: 1em;
-  background: black url('/static/img/crown.svg?02c354365df3') center center / 100% no-repeat;
+  background: black url('/static/img/crown.svg?ebd4f3e81d05') center center / 100% no-repeat;
   padding: 0 0 .5em 0;
   position: absolute;
   z-index: 1000;
