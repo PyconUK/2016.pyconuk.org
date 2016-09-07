@@ -1,9 +1,16 @@
 @media print {
+
     .noPrint {
         display:none;
-      }
+    }
+
     .pageBreak {
         page-break-after: always;
+    }
+
+    a {
+        color: black;
+        text-decoration: none;
     }
 }
 
