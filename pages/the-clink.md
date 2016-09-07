@@ -29,6 +29,9 @@ disappointment.
 
 ## The menu
 
+Special dietary requirements can be catered for, if you let us know in advance
+on the form.
+
 ### Welcome
 
 * Non-alcoholic cocktail
