@@ -149,7 +149,7 @@ Saturday 17th:
     '10:15': talks/i-love-being-pythonic-you
     '10:45': Break
     '11:15': talks/the-state-of-pypy-
-    '12:00': talks/lessons-learned-from-organizing-scipy-latin-america-2016
+    '12:00': talks/declarative-user-interfaces-in-python-using-enaml
     '12:30': talks/using-python-for-national-cipher-challenge
     '13:00': Lunch
     '14:30': talks/high-school-pythonistas-what-pynam-did-next
@@ -230,7 +230,7 @@ Sunday 18th:
     '12:30': talks/why-dev-random-is-a-horrible-idea-and-other-problems-you-didnt-know-you-had-yet
     '13:00': Lunch
     '14:30': talks/an-introduction-to-property-based-testing
-    '15:00': ''
+    '15:00': talks/lessons-learned-from-organizing-scipy-latin-america-2016
     '15:30': talks/cleaner-unit-testing-with-the-arrange-act-assert-pattern
     '16:00': Break
     '16:30': talks/build-your-microservices-with-zeromq
