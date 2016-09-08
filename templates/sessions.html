@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+
+{% block content %}
+<article class="main-article">
+  <div class="content">
+    <div class="column_content">
+      <h1>Workshops</h1>
+
+      <ul>
+        {% for session in workshops %}
+        <li><a href="{% url 'session' session.session_type session.slug %}">{{ session.title }}</a></li>
+        {% endfor %}
+      </ul>
+
+      <h1>Talks</h1>
+
+      <ul>
+        {% for session in talks %}
+        <li><a href="{% url 'session' session.session_type session.slug %}">{{ session.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+</article>
+{% endblock %}
+
+

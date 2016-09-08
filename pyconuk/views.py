@@ -152,6 +152,22 @@ def session_view(request, session_type, slug):
     return render(request, template, context)
 
 
+def sessions_view(request):
+    sessions = Session.objects.order_by('title')
+    workshops = [s for s in sessions if s.session_type() == 'workshops']
+    talks = [s for s in sessions if s.session_type() == 'talks']
+
+    template = 'sessions.html'
+
+    context = {
+        'workshops': workshops,
+        'talks': talks,
+        'title': 'Sessions'
+    }
+
+    return render(request, template, context)
+
+
 def speaker_view(request, key):
     speaker = get_object_or_404(Speaker, key=key)
     sessions = speaker.session_set.all()
@@ -166,6 +182,19 @@ def speaker_view(request, key):
         'name': speaker.name,
         'sessions': sessions,
         'title': speaker.name,
+    }
+
+    return render(request, template, context)
+
+
+def speakers_view(request):
+    speakers = Speaker.objects.order_by('name')
+
+    template = 'speakers.html'
+
+    context = {
+        'speakers': speakers,
+        'title': 'Speakers'
     }
 
     return render(request, template, context)
@@ -187,6 +216,19 @@ def sponsor_view(request, key):
         'twitter_handle': sponsor.twitter_handle,
         'logo_filename': sponsor.logo_filename,
         'title': sponsor.name,
+    }
+
+    return render(request, template, context)
+
+
+def sponsors_view(request):
+    sponsors = Sponsor.objects.order_by('name')
+
+    template = 'sponsors.html'
+
+    context = {
+        'sponsors': sponsors,
+        'title': 'Sponsors'
     }
 
     return render(request, template, context)

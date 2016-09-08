@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+
+{% block content %}
+<article class="main-article">
+  <div class="content">
+    <div class="column_content">
+      <h1>Sponsors</h1>
+
+      <ul>
+        {% for sponsor in sponsors %}
+        <li><a href="{% url 'sponsor' sponsor.key %}">{{ sponsor.name }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+</article>
+{% endblock %}
