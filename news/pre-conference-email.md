@@ -10,7 +10,7 @@ With the conference just around the corner, we want to share a few practicalitie
 
 ## Venue
 
-The [Open Day](http://2016.pyconuk.org/open-day/) on Thursday will be held in the [Bute Building](http://www.cardiff.ac.uk/estat/accessibilityinformation/cathayscampus/butebuilding/buteaccess.html) at Cardiff University.  Entrance is free and open to everyone, but you'll a ticket for the Open Day, even if you've already got a ticket for the main conferencee.
+The [Open Day](http://2016.pyconuk.org/open-day/) on Thursday will be held in the [Bute Building](http://www.cardiff.ac.uk/estat/accessibilityinformation/cathayscampus/butebuilding/buteaccess.html) at Cardiff University.  Entrance is free and open to everyone, but you'll need a ticket for the Open Day, even if you've already got a ticket for the main conferencee.
 
 The rest of the conference will be held at [Cardiff City Hall](http://www.cardiffcityhall.com/find-us).
 
@@ -60,7 +60,7 @@ We hope that the WiFi at the venue is up to supporting the number of people at t
 
 ## Volunteering
 
-Would you like to help out at the conference?  We're looking for people to staff the information desk during the morning, and for people to chair sessions.  If you'd like to help, please [get in touch](http://2016.pyconuk.org/contact/).
+Would you like to help out at the conference?  We're looking for people to staff the information desk during the morning, to help with filming, and to chair sessions.  If you'd like to help, please [get in touch](http://2016.pyconuk.org/contact/).
 
 The [Django Girls](https://djangogirls.org/pyconuk2016/) workshop on Thursday is also looking for a couple more coaches.  More information about this is on the [Django Girls website](https://djangogirls.org/pyconuk2016/#coach).
 
