@@ -60,7 +60,7 @@ We hope that the WiFi at the venue is up to supporting the number of people at t
 
 ## Volunteering
 
-Would you like to help out at the conference?  We're looking for people to staff the information desk during the morning, and for people to chair sessions.  If you'd like to help, please [get in touch](http://2016.pyconuk.org/contact/).
+Would you like to help out at the conference?  We're looking for people to staff the information desk during the morning, to help with filming, and to chair sessions.  If you'd like to help, please [get in touch](http://2016.pyconuk.org/contact/).
 
 The [Django Girls](https://djangogirls.org/pyconuk2016/) workshop on Thursday is also looking for a couple more coaches.  More information about this is on the [Django Girls website](https://djangogirls.org/pyconuk2016/#coach).
 
