@@ -10,6 +10,8 @@
         <a href="#{{ schedule.day }}">{{ schedule.date }}</a> {% if not forloop.last %}|{% endif %}
         {% endfor %}
       </p>
+      <label for="show-speakers" class="noPrint">Show Speakers:</label>
+      <input id="show-speakers" class="noPrint" type="checkbox">
       {% for schedule in schedules %}
       <div id="{{ schedule.day }}" class="pageBreak">
         <h1>{{ schedule.date }}</h1>
@@ -30,6 +32,9 @@
               <a href="{{ cell.value.url }}">{{ cell.value.text }}</a>
               {% else %}
               {{ cell.value.text }}
+              {% endif %}
+              {% if cell.value.speaker %}
+              <small class="speaker">{{ cell.value.speaker }}</small>
               {% endif %}
             </td>
             {% else %}
