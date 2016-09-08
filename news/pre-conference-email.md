@@ -67,7 +67,7 @@ The [Django Girls](https://djangogirls.org/pyconuk2016/) workshop on Thursday is
 
 ## Children's Day
 
-There are still some tickets left for our [children's day].  Why not bring your kids along on Saturday for a fun-packed day of activities and workshops where they can learn all about getting the most out of the world with Python?  Tickets cost just £5.
+There are still some tickets left for our [children's day](http://2016.pyconuk.org/children/).  Why not bring your kids along on Saturday for a fun-packed day of activities and workshops where they can learn all about getting the most out of the world with Python?  Tickets cost just £5.
 
 
 ## Sponsors
