@@ -65,6 +65,11 @@ Would you like to help out at the conference?  We're looking for people to staff
 The [Django Girls](https://djangogirls.org/pyconuk2016/) workshop on Thursday is also looking for a couple more coaches.  More information about this is on the [Django Girls website](https://djangogirls.org/pyconuk2016/#coach).
 
 
+## Children's Day
+
+There are still some tickets left for our [children's day].  Why not bring your kids along on Saturday for a fun-packed day of activities and workshops where they can learn all about getting the most out of the world with Python?  Tickets cost just £5.
+
+
 ## Sponsors
 
 Finally, we'd like to thank all our sponsors for their support.  Without them, we wouldn't be able to put on the conference.  They'll be exhibiting during the conference, so please go and say hello.
