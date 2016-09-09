@@ -1,3 +1,7 @@
 name: Alex Chan
 ---
-By day, I write telecoms software for Metaswitch Networks. By night, I write Python and dabble in open-source. I've been programming for about six years, usually as a way of procrastinating from something else.
+Alex is a software engineer at [Metaswitch Networks](http://www.metaswitch.com), writing code for the telecoms industry.
+Among other things, he has worked on [Project Calico](https://www.projectcalico.org/), a pure-Python networking layer for OpenStack and Docker.
+When he’s not programming at work, he relaxes by coming home to do more programming – mostly Python, occasionally bits of open-source.
+
+Programming aside, Alex enjoys studying World War II cryptography, origami, and cooking.
