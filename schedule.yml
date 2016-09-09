@@ -282,16 +282,16 @@ Sunday 18th:
     '10:00': workshops/dive-into-object-oriented-python
     '10:15': workshops/dive-into-object-oriented-python
     '10:45': Break
-    '11:15': workshops/dive-into-object-oriented-python
-    '12:00': workshops/dive-into-object-oriented-python
-    '12:30': workshops/dive-into-object-oriented-python
+    '11:15': Dive Into Object-oriented Python (cont.)
+    '12:00': Dive Into Object-oriented Python (cont.)
+    '12:30': Dive Into Object-oriented Python (cont.)
     '13:00': Lunch (Jobs Fair in Marble Hall)
     '14:30': workshops/data-wrangling-with-python
     '15:00': workshops/data-wrangling-with-python
     '15:30': workshops/data-wrangling-with-python
     '16:00': Break
-    '16:30': workshops/data-wrangling-with-python
-    '17:00': workshops/data-wrangling-with-python
+    '16:30': Data Wrangling with Python (cont.)
+    '17:00': Data Wrangling with Python (cont.)
     '17:30': ''
     '18:15': Close
 Monday 19th:
@@ -311,7 +311,7 @@ Monday 19th:
     '10:45': Break
     '11:15': workshops/introduction-to-graphene-and-relay
     '13:00': Lunch
-    '14:30': workshops/introduction-to-graphene-and-relay
+    '14:30': Introduction to Graphene and Relay (cont.)
     '16:00': Break
     '16:30': ''
     '18:00': Close
@@ -329,7 +329,7 @@ Monday 19th:
     '09:00': Introduction
     '09:10': workshops/property-based-testing-with-hypothesis
     '10:45': Break
-    '11:15': workshops/property-based-testing-with-hypothesis
+    '11:15': Property-based testing with Hypothesis (cont.)
     '13:00': Lunch
     '14:30': workshops/multi-language-approaches-to-high-performance-computing-with-python 
     '16:00': Break
@@ -339,7 +339,7 @@ Monday 19th:
     '09:00': Introduction
     '09:10': workshops/natural-language-processing-with-python
     '10:45': Break
-    '11:15': workshops/natural-language-processing-with-python
+    '11:15': Natural Language Processing with Python (cont.)
     '13:00': Lunch
     '14:30': workshops/hands-on-kubernetes-management-with-python-using-kube
     '16:00': Break
