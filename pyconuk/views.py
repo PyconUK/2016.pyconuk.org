@@ -239,3 +239,23 @@ def sponsors_view(request):
     }
 
     return render(request, template, context)
+
+
+def unlinked_pages_view(request):
+    template = 'unlinked_pages.html'
+
+    urls = [
+        '/sessions/',
+        '/speakers/',
+        '/sponsors/',
+    ]
+
+    for redirection in Redirection.objects.order_by('key'):
+        urls.append(redirection.original_url)
+
+    context = {
+        'urls': urls,
+        'title': 'Unlinked pages'
+    }
+
+    return render(request, template, context)

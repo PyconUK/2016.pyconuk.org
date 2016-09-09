@@ -76,6 +76,9 @@ class Redirection(ModelWithoutContent):
 
     dump_dir_path = 'redirections'
 
+    def original_url(self):
+        return '/{}/'.format(self.key)
+
 
 class ScheduleSlot(ModelWithoutContent):
     session = models.ForeignKey(Session, null=True)
