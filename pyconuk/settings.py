@@ -19,11 +19,18 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/1.9/howto/deployment/checklist/
 
-# SECURITY WARNING: keep the secret key used in production secret!
+# This does not need to be kept secret, since it is not used to protect
+# anything in the static site.
 SECRET_KEY = 'secret'
 
-# SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+# SECURITY WARNING: This should be False when the site is built to ensure we
+# don't accidentally leak information in error pages.  This has the added
+# effect of massively speeding up the build, since LESS compilation no longer
+# happens on every request!
+DEBUG = bool(os.getenv('DEBUG', False))
+
+# This is fine.
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
