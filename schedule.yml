@@ -95,7 +95,7 @@ Friday 16th:
     '12:30': talks/neurodiversity-in-technology
     '13:00': Lunch
     '14:30': talks/chat-bots-what-is-ai
-    '15:00': talks/cltk-bringing-classical-languages-to-the-world-through-nlp
+    '15:00': ''
     '15:30': talks/some-challenges-in-automatic-english-text-correction
     '16:00': Break
     '16:30': talks/taking-control-of-your-bluetooth-devices
@@ -209,7 +209,7 @@ Sunday 18th:
     '11:15': talks/developing-a-zero-boilerplate-library-for-raspberry-pi-gpio
     '12:00': talks/pinet-a-project-that-was-never-intended-to-be
     '12:30': talks/from-qa-to-ux-learning-how-to-accommodate-developers
-    '13:00': Lunch
+    '13:00': Lunch (Jobs Fair in Marble Hall)
     '14:30': talks/typing
     '15:00': talks/type-checking-whose-responsibility-is-it
     '15:30': talks/python-and-static-types-lets-use-mypy
@@ -228,7 +228,7 @@ Sunday 18th:
     '11:15': talks/an-adventure-in-exploitation-with-python
     '12:00': talks/creating-a-reproducible-more-secure-python-application
     '12:30': talks/why-dev-random-is-a-horrible-idea-and-other-problems-you-didnt-know-you-had-yet
-    '13:00': Lunch
+    '13:00': Lunch (Jobs Fair in Marble Hall)
     '14:30': talks/an-introduction-to-property-based-testing
     '15:00': talks/lessons-learned-from-organizing-scipy-latin-america-2016
     '15:30': talks/cleaner-unit-testing-with-the-arrange-act-assert-pattern
@@ -247,7 +247,7 @@ Sunday 18th:
     '11:15': talks/simulating-a-cpu-with-python-or-surprising-programs-you-might-have-thought-were-better-written-in-c
     '12:00': talks/attempting-to-win-at-blackjack
     '12:30': talks/easy-solutions-to-hard-problems
-    '13:00': Lunch
+    '13:00': Lunch (Jobs Fair in Marble Hall)
     '14:30': talks/queueing-and-python-pip-install-ciw
     '15:00': talks/eulers-key-to-cryptography
     '15:30': talks/addition-well-that-escalated-quickly
@@ -266,7 +266,7 @@ Sunday 18th:
     '11:15': workshops/an-introduction-to-deep-learning
     '12:00': workshops/an-introduction-to-deep-learning
     '12:30': workshops/an-introduction-to-deep-learning
-    '13:00': Lunch
+    '13:00': Lunch (Jobs Fair in Marble Hall)
     '14:30': workshops/software-carpentry
     '15:00': workshops/software-carpentry
     '15:30': workshops/software-carpentry
@@ -282,16 +282,16 @@ Sunday 18th:
     '10:00': workshops/dive-into-object-oriented-python
     '10:15': workshops/dive-into-object-oriented-python
     '10:45': Break
-    '11:15': workshops/dive-into-object-oriented-python
-    '12:00': workshops/dive-into-object-oriented-python
-    '12:30': workshops/dive-into-object-oriented-python
-    '13:00': Lunch
+    '11:15': Dive Into Object-oriented Python (cont.)
+    '12:00': Dive Into Object-oriented Python (cont.)
+    '12:30': Dive Into Object-oriented Python (cont.)
+    '13:00': Lunch (Jobs Fair in Marble Hall)
     '14:30': workshops/data-wrangling-with-python
     '15:00': workshops/data-wrangling-with-python
     '15:30': workshops/data-wrangling-with-python
     '16:00': Break
-    '16:30': workshops/data-wrangling-with-python
-    '17:00': workshops/data-wrangling-with-python
+    '16:30': Data Wrangling with Python (cont.)
+    '17:00': Data Wrangling with Python (cont.)
     '17:30': ''
     '18:15': Close
 Monday 19th:
@@ -309,9 +309,9 @@ Monday 19th:
     '09:00': Introduction
     '09:10': workshops/django-cms-application-a-comprehensive-approach
     '10:45': Break
-    '11:15': ''
+    '11:15': workshops/introduction-to-graphene-and-relay
     '13:00': Lunch
-    '14:30': workshops/introduction-to-graphene-and-relay
+    '14:30': Introduction to Graphene and Relay (cont.)
     '16:00': Break
     '16:30': ''
     '18:00': Close
@@ -329,7 +329,7 @@ Monday 19th:
     '09:00': Introduction
     '09:10': workshops/property-based-testing-with-hypothesis
     '10:45': Break
-    '11:15': workshops/property-based-testing-with-hypothesis
+    '11:15': Property-based testing with Hypothesis (cont.)
     '13:00': Lunch
     '14:30': workshops/multi-language-approaches-to-high-performance-computing-with-python 
     '16:00': Break
@@ -339,7 +339,7 @@ Monday 19th:
     '09:00': Introduction
     '09:10': workshops/natural-language-processing-with-python
     '10:45': Break
-    '11:15': workshops/natural-language-processing-with-python
+    '11:15': Natural Language Processing with Python (cont.)
     '13:00': Lunch
     '14:30': workshops/hands-on-kubernetes-management-with-python-using-kube
     '16:00': Break

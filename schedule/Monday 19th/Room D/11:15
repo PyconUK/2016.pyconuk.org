@@ -3,7 +3,7 @@
 #
 #   python manage.py parseschedule
 
-date: Friday 16th
+date: Monday 19th
 room: Room D
-session: talks/cltk-bringing-classical-languages-to-the-world-through-nlp
-time: '15:00'
+session: workshops/introduction-to-graphene-and-relay
+time: '11:15'
