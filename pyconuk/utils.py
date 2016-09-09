@@ -86,7 +86,6 @@ def compute_html_table_dimensions(table):
         if row:
             table_with_dimensions.append(row)
 
-    print(table_with_dimensions)
     return table_with_dimensions
 
 
