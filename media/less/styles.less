@@ -1243,6 +1243,14 @@ body.two-col & {
             border: none;
         }
     }
+
+    .speaker {
+        display: block;
+    }
+
+    #show-speakers:not(:checked) ~* .speaker {
+        display: none;
+    }
 }
 
 
