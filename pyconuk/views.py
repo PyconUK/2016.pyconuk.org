@@ -132,7 +132,14 @@ def news_item_view(request, datestamp, key):
 
 def session_view(request, session_type, slug):
     key = '{}/{}'.format(session_type, slug)
-    session = get_object_or_404(Session, key=key)
+    try:
+        session = Session.objects.get(key=key)
+    except Session.DoesNotExist:
+        redirection = get_object_or_404(Redirection, key=key)
+        template = 'redirection.html'
+        context = {'url': redirection.new_url}
+        return render(request, template, context)
+
     speaker = session.speaker
 
     assert session.content_format in ['html', 'md'], 'Session content must use HTML or Markdown'
