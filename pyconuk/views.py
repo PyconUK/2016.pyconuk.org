@@ -134,7 +134,14 @@ def news_item_view(request, datestamp, key):
 
 def session_view(request, session_type, slug):
     key = '{}/{}'.format(session_type, slug)
-    session = get_object_or_404(Session, key=key)
+    try:
+        session = Session.objects.get(key=key)
+    except Session.DoesNotExist:
+        redirection = get_object_or_404(Redirection, key=key)
+        template = 'redirection.html'
+        context = {'url': redirection.new_url}
+        return render(request, template, context)
+
     speaker = session.speaker
 
     assert session.content_format in ['html', 'md'], 'Session content must use HTML or Markdown'
@@ -231,6 +238,26 @@ def sponsors_view(request):
     context = {
         'sponsors': sponsors,
         'title': 'Sponsors'
+    }
+
+    return render(request, template, context)
+
+
+def unlinked_pages_view(request):
+    template = 'unlinked_pages.html'
+
+    urls = [
+        '/sessions/',
+        '/speakers/',
+        '/sponsors/',
+    ]
+
+    for redirection in Redirection.objects.order_by('key'):
+        urls.append(redirection.original_url)
+
+    context = {
+        'urls': urls,
+        'title': 'Unlinked pages'
     }
 
     return render(request, template, context)
