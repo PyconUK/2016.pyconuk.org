@@ -63,6 +63,7 @@ def schedule_view(request):
         'Open Day at Cardiff University',
         'CU Room A',
         'CU Room B',
+        'CU Room C',
         'Assembly Room',
         'Room I',
         'Room D',
@@ -89,6 +90,7 @@ def open_day_view(request):
         'Open Day at Cardiff University',
         'CU Room A',
         'CU Room B',
+        'CU Room C',
     ]
 
     context = {
