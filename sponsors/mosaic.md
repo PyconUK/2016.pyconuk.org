@@ -16,7 +16,7 @@ solutions.
 Mosaic is delighted to support PyCon UK 2016. The largest (and rapidly growing)
 part of our business is helping clients solve hard technical problems, so we
 welcome PyCon UK’s focus on developing professionalism in programming and
-improving programming skills. Our clients have a significant demand for python
+improving programming skills. Our clients have a significant demand for Python
 development expertise across mission-critical trading, pricing and risk
 management systems. We are always growing our expert consultant network and
 want to hear from exceptional technical professionals whose outstanding track
