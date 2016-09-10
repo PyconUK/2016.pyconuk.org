@@ -281,6 +281,7 @@ def unlinked_pages_view(request):
 
     urls = [
         '/sessions/',
+        '/slack/',
         '/speakers/',
         '/sponsors/',
     ]
