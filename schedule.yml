@@ -63,6 +63,22 @@ Thursday 15th:
     '15:00': workshops/natural-language-processing-in-10-lines-of-code
     '15:30': workshops/natural-language-processing-in-10-lines-of-code
     '16:00': Close
+  CU Room C:
+    '08:00': Registration
+    '09:15': ''
+    '09:30': Django Girls
+    '10:00': Django Girls
+    '10:30': Django Girls
+    '11:00': Break
+    '11:30': Django Girls
+    '12:00': Django Girls
+    '12:30': Django Girls
+    '13:00': Lunch
+    '14:00': Django Girls
+    '14:30': Django Girls
+    '15:00': Django Girls
+    '15:30': Django Girls
+    '16:00': Close
 Friday 16th:
   Assembly Room:
     '08:00': Registration
