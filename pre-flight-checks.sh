@@ -8,25 +8,12 @@ ERRORS=()
 
 echo " *** Checking that site can be built."
 
-python manage.py serve >/dev/null 2>&1 &
-SERVER_PID=$!
+make build
 
 if [[ $? -eq 0 ]]; then
 	echo " *** Site built ok."
 else
 	echo " *** Site could not be built."
-	exit 1
-fi
-
-###
-# Wait for server to start.
-###
-
-sleep 5
-curl "http://localhost:8000" >/dev/null 2>&1
-
-if [[ $? -ne 0 ]]; then
-	echo " *** Server is not running."
 	exit 1
 fi
 
@@ -55,8 +42,6 @@ grep -e "Pycon UK" -e "pycon UK" -e "pyconUK" -e "PyConUK" --line-number --recur
 if [[ $? -eq 0 ]]; then
 	ERRORS+=("Conference name is not spelt correctly")
 fi
-
-kill $SERVER_PID
 
 if [[ ${#ERRORS[@]} -eq 0 ]]; then
 	echo " *** All pre-flight checks passed!"
