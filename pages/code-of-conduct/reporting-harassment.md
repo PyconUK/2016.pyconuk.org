@@ -1,4 +1,4 @@
-title: Reporting harrassment
+title: Reporting harassment
 ---
 
 ## How to report harassment
@@ -10,7 +10,7 @@ Should a harassment incident occur, please report it, preferably in writing.
 All reports will be confidential.
 
 When reporting the incident, try to gather as much information as available.  A
-comittee member can assist you in writing the report or collecting information.
+committee member can assist you in writing the report or collecting information.
 Please do not interview people about the incident, but leave this to a
 committee member.
 

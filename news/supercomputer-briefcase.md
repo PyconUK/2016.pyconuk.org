@@ -26,7 +26,7 @@ the finished project look impressive, you'll be especially warmly welcomed...
 You can just turn up and join in, but you can also [contact Russel](https://www.russel.org.uk/stories/contact.html) if
 you'd like to help plan the project.
 
-Don't forget to bring your Rasberry Pis with you.
+Don't forget to bring your Raspberry Pis with you.
 
 ### Do you have an idea for an activity at PyCon UK?
 

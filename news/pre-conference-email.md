@@ -10,7 +10,7 @@ With the conference just around the corner, we want to share a few practicalitie
 
 ### Venue
 
-The [Open Day](http://2016.pyconuk.org/open-day/) on Thursday will be held in the [Bute Building](http://www.cardiff.ac.uk/estat/accessibilityinformation/cathayscampus/butebuilding/buteaccess.html) at Cardiff University.  Entrance is free and open to everyone, but you'll need a ticket for the Open Day, even if you've already got a ticket for the main conferencee.
+The [Open Day](http://2016.pyconuk.org/open-day/) on Thursday will be held in the [Bute Building](http://www.cardiff.ac.uk/estat/accessibilityinformation/cathayscampus/butebuilding/buteaccess.html) at Cardiff University.  Entrance is free and open to everyone, but you'll need a ticket for the Open Day, even if you've already got a ticket for the main conference.
 
 The rest of the conference will be held at [Cardiff City Hall](http://www.cardiffcityhall.com/find-us).
 

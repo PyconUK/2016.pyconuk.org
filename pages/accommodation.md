@@ -7,7 +7,7 @@ callout_big_1: Where to stay in Cardiff
 ### Recommended partner hotels
 
 The hotels listed in this section have given us preferential rates or terms or both. Their allocation of rooms for
-PyCon UK attendees is likely to be exhausted well before the conference, so **you are stongly advised to book as early
+PyCon UK attendees is likely to be exhausted well before the conference, so **you are strongly advised to book as early
 as you can**.
 
 Note that depending upon availability you may well be able to find cheaper rates than these, but on
