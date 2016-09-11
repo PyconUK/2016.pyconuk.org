@@ -1,4 +1,4 @@
-title: Handling reports of harrassment
+title: Handling reports of harassment
 ---
 
 ## Guidelines for responding to reports of harassment

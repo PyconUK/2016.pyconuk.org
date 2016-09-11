@@ -54,7 +54,7 @@ If a participant engages in behavior that violates this code of conduct, the
 conference organisers may take any action they deem appropriate, including
 warning the offender or expulsion from the conference with no refund.
 
-### Reporting Harrassment
+### Reporting Harassment
 
 If you are being harassed, notice that someone else is being harassed, or have
 any other concerns, you should contact a member of the conference committee.

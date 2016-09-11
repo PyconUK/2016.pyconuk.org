@@ -26,7 +26,7 @@ teacher**, towards the cost of supply cover at school so that you can attend. Ch
  * Get physical with computing on a Raspberry Pi and control real world objects with Python code. A session brought to you by Picademy Manager [James Robinson](https://twitter.com/legojames), Content and Curriculum Manager [Marc Scott](https://twitter.com/Coding2Learn) and Community Manager [Ben Nuttall](https://twitter.com/ben_nuttall) from the [Raspberry Pi Foundation](http://raspberrypi.org/education).
  * Do you have BBC micro:bits? Learn how to make the most of them using MicroPython with ex-teacher turned developer and all round good-guy [Nicholas Tollervey](http://ntoll.org/).
 
-### Networking opportunties:
+### Networking opportunities:
 
  * "Adopt a Developer" because PyCon UK professional development is not just for one day. Building long-term relationships between teachers and developers to support your journey with Python is for life!
  * A TeachMeet. Your chance to share what you've been doing in your classroom with others.

@@ -23,7 +23,7 @@ Dessert will be *Pecan Pie served with a Merlyn Cream and Welsh Gold Ice Cream*.
 
 A vegan option is available (although we're not sure what it is yet!).  If you have other requirements, [let us know](/contact/) and we will try to handle it.
 
-Alchohol is not included in the ticket price, but there will be a bar.
+Alcohol is not included in the ticket price, but there will be a bar.
 
 ## Tickets
 

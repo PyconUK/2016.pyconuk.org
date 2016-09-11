@@ -15,7 +15,7 @@ In order to encourage you, here are five speakers we've chosen as a preview in a
 ### Cat Lamin, *Why do kids need to code and how can we help?*
 
 [Cat](https://teachprimarycomputing.wordpress.com) is a maths and computing teacher, with huge enthusiasm for programming and technology, and an awareness of some of
-the problems in comupting education: "There is a huge disparity between expectations for teaching computing and what
+the problems in computing education: "There is a huge disparity between expectations for teaching computing and what
 teachers actually know how to do".
 
 ### Thomas Campbell, *Using Python for National Cipher Challenge*

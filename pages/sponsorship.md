@@ -49,7 +49,7 @@ There are three available levels of sponsorship:
 ## Corporate Social Responsibility
 
 We know that some sponsors support the conference as part of a Corporate Social
-Responsibility initiaive, and we will work with you to produce a CSR report if
+Responsibility initiative, and we will work with you to produce a CSR report if
 this is required.
 
 

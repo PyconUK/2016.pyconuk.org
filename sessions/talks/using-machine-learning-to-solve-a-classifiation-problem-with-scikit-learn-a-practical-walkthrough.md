@@ -1,4 +1,4 @@
-title: 'Using Machine Learning to solve a classifiation problem with scikit-learn - a practical walkthrough'
+title: 'Using Machine Learning to solve a classification problem with scikit-learn - a practical walkthrough'
 subtitle:
 speaker: ian-ozsvald
 ---

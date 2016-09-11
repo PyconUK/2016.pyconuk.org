@@ -9,7 +9,7 @@ you can purchase an upgrade.
 
 Within the limits of our ticketing system,
 the simplest way for us to allow you to do this has been to create a special ticket with a "pay what you want" price field.
-Of course, you shoudn't actually pay us what you want!
+Of course, you shouldn't actually pay us what you want!
 You should calculate the difference between the price of your original ticket and the price of your new ticket.
 
 Once you've purchased your upgrade, you'll be asked for your original ticket reference number.
