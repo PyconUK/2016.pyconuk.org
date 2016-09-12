@@ -3,6 +3,7 @@
 #
 #   python manage.py parseschedule
 
+chair: Vincent Knight
 date: Sunday 18th
 room: Room D
 session: talks/queueing-and-python-pip-install-ciw

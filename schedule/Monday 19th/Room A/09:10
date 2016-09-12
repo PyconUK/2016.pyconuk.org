@@ -3,6 +3,7 @@
 #
 #   python manage.py parseschedule
 
+chair: None
 date: Monday 19th
 room: Room A
 session: workshops/property-based-testing-with-hypothesis

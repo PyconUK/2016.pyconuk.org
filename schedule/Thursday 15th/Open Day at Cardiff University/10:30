@@ -3,6 +3,7 @@
 #
 #   python manage.py parseschedule
 
+chair: None
 date: Thursday 15th
 room: Open Day at Cardiff University
 session: talks/a-raspberrypi-super-computer

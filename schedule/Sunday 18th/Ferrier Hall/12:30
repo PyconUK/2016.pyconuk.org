@@ -3,6 +3,7 @@
 #
 #   python manage.py parseschedule
 
+chair: TBC
 date: Sunday 18th
 room: Ferrier Hall
 session: talks/why-dev-random-is-a-horrible-idea-and-other-problems-you-didnt-know-you-had-yet

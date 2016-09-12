@@ -3,6 +3,7 @@
 #
 #   python manage.py parseschedule
 
+chair: TBC
 date: Friday 16th
 room: Assembly Room
 session: talks/tech-interviews-that-dont-suck
