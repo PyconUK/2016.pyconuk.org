@@ -21,7 +21,7 @@ class Command(BaseCommand):
                     for time in schedule[date][room]:
                         print('      {}'.format(time))
                         if schedule[date][room][time]:
-                            session = schedule[date][room][time]
+                            session = schedule[date][room][chair][time]
                             print('      {}'.format(session))
 
                             fields = {
