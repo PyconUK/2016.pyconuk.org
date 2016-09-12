@@ -3,6 +3,7 @@
 #
 #   python manage.py parseschedule
 
+chair: None
 date: Friday 16th
 room: Ferrier Hall
 time: 08:00

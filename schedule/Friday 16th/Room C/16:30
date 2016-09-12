@@ -3,6 +3,7 @@
 #
 #   python manage.py parseschedule
 
+chair: None
 date: Friday 16th
 room: Room C
 session: workshops/creative-learning-and-computational-thinking-across-the-curriculum

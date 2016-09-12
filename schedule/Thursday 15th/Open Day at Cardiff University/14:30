@@ -3,6 +3,7 @@
 #
 #   python manage.py parseschedule
 
+chair: None
 date: Thursday 15th
 room: Open Day at Cardiff University
 session: talks/taking-the-robot-out-of-mr-robot-or-why-tech-sucks-how-you-can-help-to-make-it-better

@@ -3,6 +3,7 @@
 #
 #   python manage.py parseschedule
 
+chair: Vincent Knight
 date: Saturday 17th
 room: Assembly Room
 session: talks/using-python-for-national-cipher-challenge

@@ -3,6 +3,7 @@
 #
 #   python manage.py parseschedule
 
+chair: TBC
 date: Sunday 18th
 room: Assembly Room
 session: talks/from-qa-to-ux-learning-how-to-accommodate-developers

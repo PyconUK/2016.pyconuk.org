@@ -3,6 +3,7 @@
 #
 #   python manage.py parseschedule
 
+chair: TBC
 date: Saturday 17th
 room: Assembly Room
 session: talks/developing-cs-education-how-can-you-help

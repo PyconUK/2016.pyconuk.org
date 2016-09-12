@@ -3,6 +3,7 @@
 #
 #   python manage.py parseschedule
 
+chair: Owen Campbell
 date: Saturday 17th
 room: Assembly Room
 time: '15:30'

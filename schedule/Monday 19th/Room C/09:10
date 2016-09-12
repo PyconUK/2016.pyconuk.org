@@ -3,6 +3,7 @@
 #
 #   python manage.py parseschedule
 
+chair: None
 date: Monday 19th
 room: Room C
 session: workshops/getting-started-with-aws-elastic-beanstalk

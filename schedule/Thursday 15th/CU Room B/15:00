@@ -3,6 +3,7 @@
 #
 #   python manage.py parseschedule
 
+chair: None
 date: Thursday 15th
 room: CU Room B
 session: workshops/natural-language-processing-in-10-lines-of-code

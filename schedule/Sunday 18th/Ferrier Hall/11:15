@@ -3,6 +3,7 @@
 #
 #   python manage.py parseschedule
 
+chair: TBC
 date: Sunday 18th
 room: Ferrier Hall
 session: talks/an-adventure-in-exploitation-with-python

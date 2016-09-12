@@ -3,6 +3,7 @@
 #
 #   python manage.py parseschedule
 
+chair: TBC
 date: Saturday 17th
 room: Room C
 session: talks/the-breakup-monolith-to-microservices

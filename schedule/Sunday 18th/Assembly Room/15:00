@@ -3,6 +3,7 @@
 #
 #   python manage.py parseschedule
 
+chair: TBC
 date: Sunday 18th
 room: Assembly Room
 session: talks/type-checking-whose-responsibility-is-it

@@ -86,5 +86,7 @@ class ScheduleSlot(ModelWithoutContent):
     date = models.CharField(max_length=40)
     room = models.CharField(max_length=40)
     time = models.CharField(max_length=40)
+    chair = models.CharField(max_length=255, null=True)
+
 
     dump_dir_path = 'schedule'

@@ -3,6 +3,7 @@
 #
 #   python manage.py parseschedule
 
+chair: Owen Campbell
 date: Friday 16th
 room: Room D
 session: talks/python-in-medicine-ventilator-data

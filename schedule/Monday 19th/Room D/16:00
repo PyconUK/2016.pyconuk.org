@@ -3,6 +3,7 @@
 #
 #   python manage.py parseschedule
 
+chair: None
 date: Monday 19th
 room: Room D
 time: '16:00'

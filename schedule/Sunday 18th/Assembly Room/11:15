@@ -3,6 +3,7 @@
 #
 #   python manage.py parseschedule
 
+chair: TBC
 date: Sunday 18th
 room: Assembly Room
 session: talks/developing-a-zero-boilerplate-library-for-raspberry-pi-gpio

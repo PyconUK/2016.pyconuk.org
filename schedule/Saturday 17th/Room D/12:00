@@ -3,6 +3,7 @@
 #
 #   python manage.py parseschedule
 
+chair: TBC
 date: Saturday 17th
 room: Room D
 session: talks/fast-python-dont-bother
