@@ -16,7 +16,7 @@
 
 Thursday 15th:
   Open Day at Cardiff University:
-    - None::
+    - None:
         '08:00': Registration
         '09:15': Introduction
 
@@ -35,7 +35,7 @@ Thursday 15th:
         '15:30': talks/where-am-i-what-am-i-doing-here-motion-detection-and-sensor-fusion-on-wearables-and-microbit-with-python
         '16:00': Close
   CU Room A:
-    - None::
+    - None:
         '08:00': Registration
         '09:15': ''
         '09:30': workshops/django-vs-flask-vs-pyramid-which-to-chose
@@ -52,7 +52,7 @@ Thursday 15th:
         '15:30': Building a Raspberry Pi supercomputer in a suitcase
         '16:00': Close
   CU Room B:
-    - None::
+    - None:
         '08:00': Registration
         '09:15': ''
         '09:30': ''
@@ -69,7 +69,7 @@ Thursday 15th:
         '15:30': workshops/natural-language-processing-in-10-lines-of-code
         '16:00': Close
   CU Room C:
-    - None::
+    - None:
         '08:00': Registration
         '09:15': ''
         '09:30': Django Girls
