@@ -15,8 +15,8 @@
 # Take a look at pycon.views.schedule_view to see how this data is used.
 
 Thursday 15th:
-  Open Day at Cardiff University:
-    None:
+  Open Day at Cardiff University
+    None
         '08:00': Registration
         '09:15': Introduction
 
@@ -34,8 +34,8 @@ Thursday 15th:
         '15:00': talks/is-my-robot-butler-going-to-steal-my-job
         '15:30': talks/where-am-i-what-am-i-doing-here-motion-detection-and-sensor-fusion-on-wearables-and-microbit-with-python
         '16:00': Close
-  CU Room A:
-    None:
+  CU Room A
+    None
         '08:00': Registration
         '09:15': ''
         '09:30': workshops/django-vs-flask-vs-pyramid-which-to-chose
@@ -51,8 +51,8 @@ Thursday 15th:
         '15:00': Building a Raspberry Pi supercomputer in a suitcase
         '15:30': Building a Raspberry Pi supercomputer in a suitcase
         '16:00': Close
-  CU Room B:
-    None:
+  CU Room B
+    None
         '08:00': Registration
         '09:15': ''
         '09:30': ''
@@ -68,8 +68,8 @@ Thursday 15th:
         '15:00': workshops/natural-language-processing-in-10-lines-of-code
         '15:30': workshops/natural-language-processing-in-10-lines-of-code
         '16:00': Close
-  CU Room C:
-    None:
+  CU Room C
+    None
         '08:00': Registration
         '09:15': ''
         '09:30': Django Girls
@@ -86,64 +86,64 @@ Thursday 15th:
         '15:30': Django Girls
         '16:00': Close
 Friday 16th:
-  Assembly Room:
-    None:
+  Assembly Room
+    None
         '08:00': Registration
-    TBC:
+    TBC
         '09:00': Introduction
         '09:10': 'Keynote: Brandon Rhodes'
         '10:00': Sponsored talk
         '10:15': talks/transforming-the-governments-digital-marketplace-from-portal-to-platform
-    None:
+    None
         '10:45': Break
-    TBC:
+    TBC
         '11:15': talks/django-rest-framework-schemas-hypermedia-client-libraries
         '12:00': talks/django-cms-in-the-real-time-web-how-to-mix-cms-websockets-rest-for-a-fully-real-time-experience
         '12:30': talks/lessons-learned-from-php
-    None:
+    None
         '13:00': Lunch
-    TBC:
+    TBC
         '14:30': talks/5-mistakes-you-will-make-building-a-python-software-house
         '15:00': talks/life-as-the-sourcerers-apprentice
         '15:30': talks/tech-interviews-that-dont-suck
-    None:
+    None
         '16:00': Break
-    TBC:
+    TBC
         '16:30': talks/timezones-a-tale-of-more-than-two-cities
         '17:00': talks/python-locales-and-writing-systems
-    None:
+    None
         '17:30': Lightning talks
         '18:15': Close
-  Room D:
-    None:
+  Room D
+    None
         '08:00': Registration
         '09:00': ''
         '09:10': ''
         '10:00': ''
-    TBC:
+    TBC
         '10:15': talks/distributed-systems-from-scratch-lessons-learned-the-hard-way
-    None:
+    None
         '10:45': Break
-    TBC:
+    TBC
         '11:15': talks/python-in-medicine-ventilator-data
         '12:00': talks/cerberus-data-validation-for-humans
         '12:30': talks/neurodiversity-in-technology
-    None:
+    None
         '13:00': Lunch
-    TBC:
+    TBC
         '14:30': talks/chat-bots-what-is-ai
         '15:00': ''
         '15:30': talks/some-challenges-in-automatic-english-text-correction
-    None:
+    None
         '16:00': Break
-    TBC:
+    TBC
         '16:30': talks/taking-control-of-your-bluetooth-devices
         '17:00': talks/pygame-zero
-    None:
+    None
         '17:30': ''
         '18:15': Close
-  Ferrier Hall:
-    None:
+  Ferrier Hall
+    None
         '08:00': Registration
         '09:00': ''
         '09:10': Intro to Python Rik Cross & Tracy Gardner
@@ -162,8 +162,8 @@ Friday 16th:
         '17:00': PyCon UK CS Teachmeet
         '17:30': ''
         '18:15': Close
-  Room C:
-    None:
+  Room C
+    None
         '08:00': Registration
         '09:00': ''
         '09:10': 'Intro to PGZero: Making Graphical Games Using Python Dave Ames'
@@ -183,177 +183,177 @@ Friday 16th:
         '17:30': ''
         '18:15': Close
 Saturday 17th:
-  Assembly Room:
-    None:
+  Assembly Room
+    None
         '08:00': Registration
-    TBC:
+    TBC
         '09:00': Introduction
         '09:10': keynotes/folklore-and-fantasy-in-the-information-age
         '10:00': Sponsored talk
         '10:15': talks/i-love-being-pythonic-you
-    None:
+    None
         '10:45': Break
-    Vincent Knight:
+    Vincent Knight
         '11:15': talks/the-state-of-pypy-
         '12:00': talks/declarative-user-interfaces-in-python-using-enaml
         '12:30': talks/using-python-for-national-cipher-challenge
-    None:
+    None
         '13:00': Lunch
-    TBC:
+    TBC
         '14:30': talks/high-school-pythonistas-what-pynam-did-next
         '15:00': talks/python-in-my-science-classroom
         '15:30': Show and Tell
-    None:
+    None
         '16:00': Break
-    TBC:
+    TBC
         '16:30': talks/why-do-kids-need-to-code-and-how-can-we-help
         '17:00': talks/developing-cs-education-how-can-you-help
-    None:
+    None
         '17:30': Lightning talks
         '18:15': Close
-  Room D:
-    None:
+  Room D
+    None
         '08:00': Registration
         '09:00': ''
         '09:10': ''
         '10:00': ''
-    TBC:
+    TBC
         '10:15': talks/introducing-metaclasses
-    None:
+    None
         '10:45': Break
-    TBC:
+    TBC
         '11:15': talks/how-to-automate-your-data-cleanup-with-python
         '12:00': talks/fast-python-dont-bother
         '12:30': talks/the-art-of-doing-nothing-using-profiling-to-speed-up-your-code
-    None:
+    None
         '13:00': Lunch
-    TBC:
+    TBC
         '14:30': talks/python-library-development
         '15:00': talks/so-you-want-to-maintain-a-python-legacy-code-base
         '15:30': talks/avoiding-the-left-pad-problem-how-to-secure-your-pip-install-process
-    None:
+    None
         '16:00': Break
-    TBC:
+    TBC
         '16:30': talks/an-introduction-to-web-scraping-using-python
         '17:00': talks/getting-started-with-requests-http-library
-    None:
+    None
         '17:30': ''
         '18:15': Close
-  Room C:
-    None:
+  Room C
+    None
         '08:00': Registration
         '09:00': ''
         '09:10': ''
         '10:00': ''
-    TBC:
+    TBC
         '10:15': talks/a-data-processing-toolbox-for-agile-scientific-research
-    None:
+    None
         '10:45': Break
-    TBC:
+    TBC
         '11:15': talks/an-introduction-to-deep-learning-with-tensorflow
         '12:00': talks/building-a-python-cake-testing-the-layers-of-your-application
         '12:30': talks/test-driven-data-analysis
-    None:
+    None
         '13:00': Lunch
-    TBC:
+    TBC
         '14:30': talks/using-machine-learning-to-solve-a-classifiation-problem-with-scikit-learn-a-practical-walkthrough
         '15:00': talks/the-csd-python-api-helping-the-worlds-structural-chemists-innovate
         '15:30': talks/recipy-completely-effortless-provenance-for-python
-    None:
+    None
         '16:00': Break
-    TBC:
+    TBC
         '16:30': talks/my-journey-from-wxpython-to-pyqt
         '17:00': talks/the-breakup-monolith-to-microservices
-    None:
+    None
         '17:30': ''
         '18:15': Close
 Sunday 18th:
-  Assembly Room:
-    None:
+  Assembly Room
+    None
         '08:00': Registration
-    TBC:
+    TBC
         '09:00': Introduction
         '09:10': 'Keynote: Bashar Al-Abdulhadi'
         '10:00': Sponsored talk
         '10:15': talks/cpython-internals-review-hacking-into-the-interpreter
-    None:
+    None
         '10:45': Break
-    TBC:
+    TBC
         '11:15': talks/developing-a-zero-boilerplate-library-for-raspberry-pi-gpio
         '12:00': talks/pinet-a-project-that-was-never-intended-to-be
         '12:30': talks/from-qa-to-ux-learning-how-to-accommodate-developers
-    None:
+    None
         '13:00': Lunch (Jobs Fair in Marble Hall)
-    TBC:
+    TBC
         '14:30': talks/typing
         '15:00': talks/type-checking-whose-responsibility-is-it
         '15:30': talks/python-and-static-types-lets-use-mypy
-    None:
+    None
         '16:00': Break
-    TBC:
+    TBC
         '16:30': talks/form-follows-functions
         '17:00': talks/ancient-greek-philosophy-medieval-mental-models-and-21st-century-technology
-    None:
+    None
         '17:30': Lightning talks
         '18:15': Close
-  Ferrier Hall:
-    None:
+  Ferrier Hall
+    None
         '08:00': Registration
         '09:00': ''
         '09:10': ''
         '10:00': ''
-    TBC:
+    TBC
         '10:15': talks/behind-the-scenes-writing-tutorials
-    None:
+    None
         '10:45': Break
-    TBC:
+    TBC
         '11:15': talks/an-adventure-in-exploitation-with-python
         '12:00': talks/creating-a-reproducible-more-secure-python-application
         '12:30': talks/why-dev-random-is-a-horrible-idea-and-other-problems-you-didnt-know-you-had-yet
-    None:
+    None
         '13:00': Lunch (Jobs Fair in Marble Hall)
-    TBC:
+    TBC
         '14:30': talks/an-introduction-to-property-based-testing
         '15:00': talks/lessons-learned-from-organizing-scipy-latin-america-2016
         '15:30': talks/cleaner-unit-testing-with-the-arrange-act-assert-pattern
-    None:
+    None
         '16:00': Break
-    TBC:
+    TBC
         '16:30': talks/build-your-microservices-with-zeromq
         '17:00': talks/rewriting-without-rewriting-porting-an-atc-radar-display-to-pythonqt-without-starting-from-scratch
-    None:
+    None
         '17:30': ''
         '18:15': Close
-  Room D:
-    None:
+  Room D
+    None
         '08:00': Registration
         '09:00': ''
         '09:10': ''
         '10:00': ''
-    TBC:
+    TBC
         '10:15': talks/assessing-performance-of-support-vector-machine-kernels-to-detect-interactions-in-genotyped-data
-    None:
+    None
         '10:45': Break
-    TBC:
+    TBC
         '11:15': talks/simulating-a-cpu-with-python-or-surprising-programs-you-might-have-thought-were-better-written-in-c
         '12:00': talks/attempting-to-win-at-blackjack
         '12:30': talks/easy-solutions-to-hard-problems
-    None:
+    None
         '13:00': Lunch (Jobs Fair in Marble Hall)
-    Vincent Knight:
+    Vincent Knight
         '14:30': talks/queueing-and-python-pip-install-ciw
         '15:00': talks/eulers-key-to-cryptography
         '15:30': talks/addition-well-that-escalated-quickly
-    None:
+    None
         '16:00': Break
-    Vincent Knight:
+    Vincent Knight
         '16:30': talks/prisoners-cooperation-and-spatial-structure
         '17:00': talks/symbolic-computation-with-python-using-sympy
-    None:
+    None
         '17:30': ''
         '18:15': Close
-  Room C:
-    None:
+  Room C
+    None
         '08:00': Registration
         '09:00': ''
         '09:10': ''
@@ -372,8 +372,8 @@ Sunday 18th:
         '17:00': workshops/users-are-not-the-only-people
         '17:30': ''
         '18:15': Close
-  Room A:
-    None:
+  Room A
+    None
         '08:00': Registration
         '09:00': ''
         '09:10': ''
@@ -393,8 +393,8 @@ Sunday 18th:
         '17:30': ''
         '18:15': Close
 Monday 19th:
-  Assembly Room:
-    None:
+  Assembly Room
+    None
         '09:00': Introduction
         '09:10': Sprints
         '10:45': Break
@@ -404,8 +404,8 @@ Monday 19th:
         '16:00': Break
         '16:30': Sprints
         '18:00': Close
-  Room D:
-    None:
+  Room D
+    None
         '09:00': Introduction
         '09:10': workshops/django-cms-application-a-comprehensive-approach
         '10:45': Break
@@ -415,8 +415,8 @@ Monday 19th:
         '16:00': Break
         '16:30': ''
         '18:00': Close
-  Room C:
-    None:
+  Room C
+    None
         '09:00': Introduction
         '09:10': workshops/getting-started-with-aws-elastic-beanstalk
         '10:45': Break
@@ -426,8 +426,8 @@ Monday 19th:
         '16:00': Break
         '16:30':
         '18:00': Close
-  Room A:
-    None:
+  Room A
+    None
         '09:00': Introduction
         '09:10': workshops/property-based-testing-with-hypothesis
         '10:45': Break
@@ -437,8 +437,8 @@ Monday 19th:
         '16:00': Break
         '16:30': ''
         '18:00': Close
-  Room B:
-    None:
+  Room B
+    None
         '09:00': Introduction
         '09:10': workshops/natural-language-processing-with-python
         '10:45': Break
@@ -448,8 +448,8 @@ Monday 19th:
         '16:00': Break
         '16:30': ''
         '18:00': Close
-  Room I:
-    None:
+  Room I
+    None
         '09:00': Introduction
         '09:10': Trans*Code
         '10:45': Break
