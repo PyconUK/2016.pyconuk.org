@@ -7,4 +7,7 @@ Firstly we'll provide an overview on NLP using NLTK, the Natural Language Toolki
 
 We'll then move on to some notions of word frequency analysis, like TF and IDF. All these concepts are going to be applied in the context of a text classification system. Using scikit-learn, we'll understand how to build a classifier, and how to use it to categorise documents according to pre-defined labels. We'll briefly discuss how to assess the quality of our model, and how we can tune it to achieve better predictions.
 
-The audience of this tutorial should be somehow comfortable with Python. Some prior basic notions of machine learning can be beneficial, but the theoretical aspects are kept to the bare minimum: the aim of this tutorial is to be practical and approachable. Attendees are encouraged to bring their own laptop with Python 3, NLTK and scikit-learn pre-installed (instructions for conda and pip/virtualenv will be provided).
+There are no particular requirements to attend this tutorial, so Python beginners are welcome. Some prior basic notions of machine learning can be beneficial, but the theoretical aspects are kept to the bare minimum: the aim of this tutorial is to be practical and approachable. Attendees are encouraged to bring their own laptop with Python 3, NLTK and scikit-learn pre-installed (instructions for pip/virtualenv will be provided, but please feel free to set up the environment in advance).
+
+Link to [tutorial material on GitHub](https://github.com/bonzanini/nlp-tutorial "Tutorial repo").
+
