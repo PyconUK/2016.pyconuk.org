@@ -29,6 +29,7 @@ class Command(BaseCommand):
                                     'date': date,
                                     'time': time,
                                     'room': room,
+                                    'chair': chair
                                 }
 
                                 if session.startswith('talks/') or session.startswith('workshops/') or session.startswith('keynotes/'):
