@@ -1,13 +1,15 @@
-# This YAML file contains a schedule for the Thursday, Friday, Saturday, and
-# Sunday of the conference, excluding the childrens' day activities.
+# This YAML file contains a schedule for the Thursday, Friday, Saturday,
+# Sunday and Monday of the conference, excluding the childrens' day activities.
 #
 # The parseschedule management command turns the data in this schedule into
 # serialized ScheduleSlot objects in the schedule directory.  You will need to
 # run that command every time you make changes to this file.
 #
-# The structure of the serialized object is a triply-nested dictionary.  The
-# innermost values are either strings representing titles of sessions, or the
-# keys of Session objects.
+# The structure of the serialized object is:
+# day:
+#   room:
+#     - session_chair:
+#         time: session
 #
 # If a session is held in several rooms and/or over several time slots, the
 # session must be present in each time slot in the YAML below.
