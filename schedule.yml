@@ -19,12 +19,10 @@ Thursday 15th:
     - None:
         '08:00': Registration
         '09:15': Introduction
-
         '09:30': talks/if-only-everything-was-radioactive-randomness-and-computing
         '10:00': talks/1001-ways-of-python
         '10:30': talks/a-raspberrypi-super-computer
         '11:00': Break
-
         '11:30': talks/micro-python-iot-and-the-3-device
         '12:00': talks/python-cat-flaps-creating-smart-devices-with-python
         '12:30': talks/building-a-ui-for-a-braille-e-book-reader
