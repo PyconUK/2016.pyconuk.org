@@ -179,7 +179,7 @@ Friday 16th:
         '15:30': Education focused sprints - be adopted by a teacher to help solve their problems
         '16:00': Break
         '16:30': workshops/creative-learning-and-computational-thinking-across-the-curriculum
-        '17:00': workshops/adventures-in-python-with-send-students
+        '17:00': ''
         '17:30': ''
         '18:15': Close
 Saturday 17th:
@@ -275,7 +275,7 @@ Sunday 18th:
         '09:00': Introduction
         '09:10': keynotes/an-arabish-lesson-introducing-django-to-the-foreign-world
         '10:00': Sponsored talk
-        '10:15': talks/cpython-internals-review-hacking-into-the-interpreter
+        '10:15': ''
     - None:
         '10:45': Break
     - Nicholas Tollervey:
