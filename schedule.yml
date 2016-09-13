@@ -130,7 +130,7 @@ Friday 16th:
         '12:30': talks/neurodiversity-in-technology
     - None:
         '13:00': Lunch
-    - James Campbell:
+    - Cory Benfield:
         '14:30': talks/chat-bots-what-is-ai
         '15:00': ''
         '15:30': talks/some-challenges-in-automatic-english-text-correction
@@ -205,7 +205,7 @@ Saturday 17th:
         '15:30': Show and Tell
     - None:
         '16:00': Break
-    - TBC:
+    - Cory Benfield:
         '16:30': talks/why-do-kids-need-to-code-and-how-can-we-help
         '17:00': talks/developing-cs-education-how-can-you-help
     - None:
@@ -217,7 +217,7 @@ Saturday 17th:
         '09:00': ''
         '09:10': ''
         '10:00': ''
-    - TBC:
+    - Tom Viner:
         '10:15': talks/introducing-metaclasses
     - None:
         '10:45': Break
@@ -231,12 +231,12 @@ Saturday 17th:
         '14:30': talks/python-library-development
         '15:00': talks/so-you-want-to-maintain-a-python-legacy-code-base
         '15:30': talks/avoiding-the-left-pad-problem-how-to-secure-your-pip-install-process
-    - None:
+    - Chris Dent:
         '16:00': Break
     - TBC:
         '16:30': talks/an-introduction-to-web-scraping-using-python
         '17:00': talks/getting-started-with-requests-http-library
-    - None:
+    - Chris Dent:
         '17:30': ''
         '18:15': Close
   Room C:
@@ -245,11 +245,11 @@ Saturday 17th:
         '09:00': ''
         '09:10': ''
         '10:00': ''
-    - TBC:
+    - Graham Markall:
         '10:15': talks/a-data-processing-toolbox-for-agile-scientific-research
     - None:
         '10:45': Break
-    - TBC:
+    - Kristian Glass:
         '11:15': talks/an-introduction-to-deep-learning-with-tensorflow
         '12:00': talks/building-a-python-cake-testing-the-layers-of-your-application
         '12:30': talks/test-driven-data-analysis
@@ -261,7 +261,7 @@ Saturday 17th:
         '15:30': talks/recipy-completely-effortless-provenance-for-python
     - None:
         '16:00': Break
-    - TBC:
+    - Sarah Mount:
         '16:30': talks/my-journey-from-wxpython-to-pyqt
         '17:00': talks/the-breakup-monolith-to-microservices
     - None:
@@ -284,13 +284,13 @@ Sunday 18th:
         '12:30': talks/from-qa-to-ux-learning-how-to-accommodate-developers
     - None:
         '13:00': Lunch (Jobs Fair in Marble Hall)
-    - TBC:
+    - Kristian Glass:
         '14:30': talks/typing
         '15:00': talks/type-checking-whose-responsibility-is-it
         '15:30': talks/python-and-static-types-lets-use-mypy
     - None:
         '16:00': Break
-    - TBC:
+    - Cory Benfield:
         '16:30': talks/form-follows-functions
         '17:00': talks/ancient-greek-philosophy-medieval-mental-models-and-21st-century-technology
     - None:
@@ -302,23 +302,23 @@ Sunday 18th:
         '09:00': ''
         '09:10': ''
         '10:00': ''
-    - TBC:
+    - Graham Markall:
         '10:15': talks/behind-the-scenes-writing-tutorials
     - None:
         '10:45': Break
-    - TBC:
+    - Tom Viner:
         '11:15': talks/an-adventure-in-exploitation-with-python
         '12:00': talks/creating-a-reproducible-more-secure-python-application
         '12:30': talks/why-dev-random-is-a-horrible-idea-and-other-problems-you-didnt-know-you-had-yet
     - None:
         '13:00': Lunch (Jobs Fair in Marble Hall)
-    - TBC:
+    - Nicholas Tollervey:
         '14:30': talks/an-introduction-to-property-based-testing
         '15:00': talks/lessons-learned-from-organizing-scipy-latin-america-2016
         '15:30': talks/cleaner-unit-testing-with-the-arrange-act-assert-pattern
     - None:
         '16:00': Break
-    - TBC:
+    - Neil Stoker:
         '16:30': talks/build-your-microservices-with-zeromq
         '17:00': talks/rewriting-without-rewriting-porting-an-atc-radar-display-to-pythonqt-without-starting-from-scratch
     - None:
@@ -334,7 +334,7 @@ Sunday 18th:
         '10:15': talks/assessing-performance-of-support-vector-machine-kernels-to-detect-interactions-in-genotyped-data
     - None:
         '10:45': Break
-    - TBC:
+    - Neil Stoker:
         '11:15': talks/simulating-a-cpu-with-python-or-surprising-programs-you-might-have-thought-were-better-written-in-c
         '12:00': talks/attempting-to-win-at-blackjack
         '12:30': talks/easy-solutions-to-hard-problems
