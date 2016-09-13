@@ -3,7 +3,7 @@
 #
 #   python manage.py parseschedule
 
-chair: TBC
+chair: Tom Christie
 date: Friday 16th
 room: Assembly Room
 session: talks/python-locales-and-writing-systems

@@ -3,7 +3,7 @@
 #
 #   python manage.py parseschedule
 
-chair: TBC
+chair: Neil Stoker
 date: Sunday 18th
 room: Ferrier Hall
 session: talks/build-your-microservices-with-zeromq

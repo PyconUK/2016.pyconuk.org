@@ -3,7 +3,7 @@
 #
 #   python manage.py parseschedule
 
-chair: TBC
+chair: Cory Benfield
 date: Friday 16th
 room: Room D
 session: talks/some-challenges-in-automatic-english-text-correction

@@ -3,7 +3,7 @@
 #
 #   python manage.py parseschedule
 
-chair: TBC
+chair: Nicholas Tollervey
 date: Sunday 18th
 room: Ferrier Hall
 session: talks/lessons-learned-from-organizing-scipy-latin-america-2016

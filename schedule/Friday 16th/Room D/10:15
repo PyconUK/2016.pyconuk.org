@@ -3,7 +3,7 @@
 #
 #   python manage.py parseschedule
 
-chair: TBC
+chair: Tom Christie
 date: Friday 16th
 room: Room D
 session: talks/distributed-systems-from-scratch-lessons-learned-the-hard-way

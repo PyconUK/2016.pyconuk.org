@@ -3,7 +3,7 @@
 #
 #   python manage.py parseschedule
 
-chair: TBC
+chair: Tom Viner
 date: Saturday 17th
 room: Room D
 session: talks/introducing-metaclasses

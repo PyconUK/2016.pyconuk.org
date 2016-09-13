@@ -3,7 +3,7 @@
 #
 #   python manage.py parseschedule
 
-chair: TBC
+chair: Sarah Mount
 date: Sunday 18th
 room: Room D
 session: talks/assessing-performance-of-support-vector-machine-kernels-to-detect-interactions-in-genotyped-data

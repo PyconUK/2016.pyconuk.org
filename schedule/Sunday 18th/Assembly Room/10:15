@@ -3,7 +3,7 @@
 #
 #   python manage.py parseschedule
 
-chair: TBC
+chair: Peter Inglesby
 date: Sunday 18th
 room: Assembly Room
 session: talks/cpython-internals-review-hacking-into-the-interpreter
