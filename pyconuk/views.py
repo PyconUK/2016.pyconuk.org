@@ -284,6 +284,7 @@ def unlinked_pages_view(request):
         '/slack/',
         '/speakers/',
         '/sponsors/',
+        '/session-chairing/',
     ]
 
     for redirection in Redirection.objects.order_by('key'):
