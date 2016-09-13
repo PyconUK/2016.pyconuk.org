@@ -91,7 +91,7 @@ Friday 16th:
         '08:00': Registration
     - Peter Inglesby:
         '09:00': Introduction
-        '09:10': 'Keynote: Brandon Rhodes'
+        '09:10': keynotes/python-and-the-glories-of-the-unix-tradition
         '10:00': Sponsored talk
         '10:15': talks/transforming-the-governments-digital-marketplace-from-portal-to-platform
     - None:
@@ -273,7 +273,7 @@ Sunday 18th:
         '08:00': Registration
     - Peter Inglesby:
         '09:00': Introduction
-        '09:10': 'Keynote: Bashar Al-Abdulhadi'
+        '09:10': keynotes/an-arabish-lesson-introducing-django-to-the-foreign-world
         '10:00': Sponsored talk
         '10:15': talks/cpython-internals-review-hacking-into-the-interpreter
     - None:

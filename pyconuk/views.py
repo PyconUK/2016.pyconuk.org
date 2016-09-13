@@ -233,12 +233,14 @@ def sessions_view(request):
     sessions = Session.objects.order_by('title')
     workshops = [s for s in sessions if s.session_type() == 'workshops']
     talks = [s for s in sessions if s.session_type() == 'talks']
+    keynotes = [s for s in sessions if s.session_type() == 'keynotes']
 
     template = 'sessions.html'
 
     context = {
         'workshops': workshops,
         'talks': talks,
+        'keynotes': keynotes,
         'title': 'Sessions'
     }
 

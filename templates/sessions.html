@@ -19,6 +19,14 @@
         <li><a href="{% url 'session' session.session_type session.slug %}">{{ session.title }}</a></li>
         {% endfor %}
       </ul>
+
+      <h1>Keynotes</h1>
+
+      <ul>
+        {% for session in keynotes %}
+        <li><a href="{% url 'session' session.session_type session.slug %}">{{ session.title }}</a></li>
+        {% endfor %}
+      </ul>
     </div>
 </article>
 {% endblock %}
