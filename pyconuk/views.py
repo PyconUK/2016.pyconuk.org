@@ -90,6 +90,40 @@ def schedule_view(request):
     return render(request, template, context)
 
 
+def session_chairs_view(request):
+    template = 'session_chairs.html'
+
+    dates = [
+        'Thursday 15th',
+        'Friday 16th',
+        'Saturday 17th',
+        'Sunday 18th',
+        'Monday 19th',
+    ]
+
+    rooms_in_order = [
+        'Open Day at Cardiff University',
+        'CU Room A',
+        'CU Room B',
+        'CU Room C',
+        'Assembly Room',
+        'Room I',
+        'Room D',
+        'Ferrier Hall',
+        'Room C',
+        'Room A',
+        'Room B',
+    ]
+    schedules = [load_schedule_context(date, rooms_in_order) for date in dates]
+
+    context = {
+        'schedules': schedules,
+        'title': 'Session Chairs',
+    }
+
+    return render(request, template, context)
+
+
 def open_day_view(request):
     template = 'open_day.html'
 
@@ -286,6 +320,7 @@ def unlinked_pages_view(request):
         '/speakers/',
         '/sponsors/',
         '/session-chairing/',
+        '/session-chairs/',
     ]
 
     for redirection in Redirection.objects.order_by('key'):
