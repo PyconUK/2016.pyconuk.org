@@ -42,33 +42,16 @@ Thursday 15th:
         '10:00': workshops/django-vs-flask-vs-pyramid-which-to-chose
         '10:30': workshops/django-vs-flask-vs-pyramid-which-to-chose
         '11:00': Break
-        '11:30': ''
-        '12:00': ''
-        '12:30': ''
-        '13:00': Lunch
-        '14:00': Building a Raspberry Pi supercomputer in a suitcase
-        '14:30': Building a Raspberry Pi supercomputer in a suitcase
-        '15:00': Building a Raspberry Pi supercomputer in a suitcase
-        '15:30': Building a Raspberry Pi supercomputer in a suitcase
-        '16:00': Close
-  CU Room B:
-    - None:
-        '08:00': Registration
-        '09:15': ''
-        '09:30': ''
-        '10:00': ''
-        '10:30': ''
-        '11:00': Break
-        '11:30': workshops/how-to-land-the-right-job-for-you
-        '12:00': workshops/how-to-land-the-right-job-for-you
-        '12:30': workshops/how-to-land-the-right-job-for-you
+        '11:30': Building a Raspberry Pi supercomputer in a suitcase
+        '12:00': Building a Raspberry Pi supercomputer in a suitcase
+        '12:30': Building a Raspberry Pi supercomputer in a suitcase
         '13:00': Lunch
         '14:00': workshops/natural-language-processing-in-10-lines-of-code
         '14:30': workshops/natural-language-processing-in-10-lines-of-code
         '15:00': workshops/natural-language-processing-in-10-lines-of-code
         '15:30': workshops/natural-language-processing-in-10-lines-of-code
         '16:00': Close
-  CU Room C:
+  CU Room B:
     - None:
         '08:00': Registration
         '09:15': ''
