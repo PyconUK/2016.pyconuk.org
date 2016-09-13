@@ -275,7 +275,7 @@ Sunday 18th:
         '09:00': Introduction
         '09:10': keynotes/an-arabish-lesson-introducing-django-to-the-foreign-world
         '10:00': Sponsored talk
-        '10:15': ''
+        '10:15': talks/behind-the-scenes-writing-tutorials
     - None:
         '10:45': Break
     - Nicholas Tollervey:
@@ -303,7 +303,7 @@ Sunday 18th:
         '09:10': ''
         '10:00': ''
     - Graham Markall:
-        '10:15': talks/behind-the-scenes-writing-tutorials
+        '10:15': ''
     - None:
         '10:45': Break
     - Tom Viner:

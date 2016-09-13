@@ -3,8 +3,8 @@
 #
 #   python manage.py parseschedule
 
-chair: Graham Markall
+chair: Peter Inglesby
 date: Sunday 18th
-room: Ferrier Hall
+room: Assembly Room
 session: talks/behind-the-scenes-writing-tutorials
 time: '10:15'
