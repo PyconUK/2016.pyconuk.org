@@ -3,7 +3,7 @@
 #
 #   python manage.py parseschedule
 
-chair: TBC
+chair: Tony Ibbs
 date: Saturday 17th
 room: Room D
 session: talks/how-to-automate-your-data-cleanup-with-python

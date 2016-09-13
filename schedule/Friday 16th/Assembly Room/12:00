@@ -3,7 +3,7 @@
 #
 #   python manage.py parseschedule
 
-chair: TBC
+chair: Marc Tamlyn
 date: Friday 16th
 room: Assembly Room
 session: talks/django-cms-in-the-real-time-web-how-to-mix-cms-websockets-rest-for-a-fully-real-time-experience

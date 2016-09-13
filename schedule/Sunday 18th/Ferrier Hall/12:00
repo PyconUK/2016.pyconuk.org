@@ -3,7 +3,7 @@
 #
 #   python manage.py parseschedule
 
-chair: TBC
+chair: Tom Viner
 date: Sunday 18th
 room: Ferrier Hall
 session: talks/creating-a-reproducible-more-secure-python-application

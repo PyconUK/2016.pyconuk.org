@@ -3,7 +3,7 @@
 #
 #   python manage.py parseschedule
 
-chair: TBC
+chair: Sarah Mount
 date: Saturday 17th
 room: Room C
 session: talks/my-journey-from-wxpython-to-pyqt

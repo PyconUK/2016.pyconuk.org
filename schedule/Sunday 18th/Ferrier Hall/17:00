@@ -3,7 +3,7 @@
 #
 #   python manage.py parseschedule
 
-chair: TBC
+chair: Neil Stoker
 date: Sunday 18th
 room: Ferrier Hall
 session: talks/rewriting-without-rewriting-porting-an-atc-radar-display-to-pythonqt-without-starting-from-scratch

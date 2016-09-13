@@ -3,7 +3,7 @@
 #
 #   python manage.py parseschedule
 
-chair: TBC
+chair: Nicholas Tollervey
 date: Sunday 18th
 room: Ferrier Hall
 session: talks/an-introduction-to-property-based-testing

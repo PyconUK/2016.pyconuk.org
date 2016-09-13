@@ -3,7 +3,7 @@
 #
 #   python manage.py parseschedule
 
-chair: TBC
+chair: Tony Ibbs
 date: Friday 16th
 room: Assembly Room
 session: talks/life-as-the-sourcerers-apprentice
