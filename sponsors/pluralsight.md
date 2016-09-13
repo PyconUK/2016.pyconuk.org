@@ -1,7 +1,7 @@
-name: PluralSight
+name: Pluralsight
 tier: bronze
 website: https://www.pluralsight.com/
-twitter_handle: 
+twitter_handle: pluralsight
 logo_filename: pluralsight.png
 ---
 Founded in 2004, Pluralsight is the global leader in online learning
