@@ -96,7 +96,7 @@ Friday 16th:
         '10:15': talks/transforming-the-governments-digital-marketplace-from-portal-to-platform
     - None:
         '10:45': Break
-    - TBC:
+    - Marc Tamlyn:
         '11:15': talks/django-rest-framework-schemas-hypermedia-client-libraries
         '12:00': talks/django-cms-in-the-real-time-web-how-to-mix-cms-websockets-rest-for-a-fully-real-time-experience
         '12:30': talks/lessons-learned-from-php
@@ -130,13 +130,13 @@ Friday 16th:
         '12:30': talks/neurodiversity-in-technology
     - None:
         '13:00': Lunch
-    - TBC:
+    - James Campbell:
         '14:30': talks/chat-bots-what-is-ai
         '15:00': ''
         '15:30': talks/some-challenges-in-automatic-english-text-correction
     - None:
         '16:00': Break
-    - TBC:
+    - James Campbell:
         '16:30': talks/taking-control-of-your-bluetooth-devices
         '17:00': talks/pygame-zero
     - None:
@@ -255,7 +255,7 @@ Saturday 17th:
         '12:30': talks/test-driven-data-analysis
     - None:
         '13:00': Lunch
-    - TBC:
+    - James Campbell:
         '14:30': talks/using-machine-learning-to-solve-a-classifiation-problem-with-scikit-learn-a-practical-walkthrough
         '15:00': talks/the-csd-python-api-helping-the-worlds-structural-chemists-innovate
         '15:30': talks/recipy-completely-effortless-provenance-for-python
@@ -278,7 +278,7 @@ Sunday 18th:
         '10:15': talks/cpython-internals-review-hacking-into-the-interpreter
     - None:
         '10:45': Break
-    - TBC:
+    - Nicholas Tollervey:
         '11:15': talks/developing-a-zero-boilerplate-library-for-raspberry-pi-gpio
         '12:00': talks/pinet-a-project-that-was-never-intended-to-be
         '12:30': talks/from-qa-to-ux-learning-how-to-accommodate-developers
@@ -330,7 +330,7 @@ Sunday 18th:
         '09:00': ''
         '09:10': ''
         '10:00': ''
-    - TBC:
+    - Sarah Mount:
         '10:15': talks/assessing-performance-of-support-vector-machine-kernels-to-detect-interactions-in-genotyped-data
     - None:
         '10:45': Break
