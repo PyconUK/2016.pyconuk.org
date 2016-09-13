@@ -22,15 +22,18 @@ def load_schedule_context(date, rooms_in_order):
                 text = session.title
             url = reverse('session', args=[session.session_type(), session.slug()])
             speaker = session.speaker.name
+            chair = slot.chair
         else:
             text = slot.title
             url = None
             speaker = None
+            chair = None
 
         slots_by_room_and_time[(slot.room, slot.time)] = {
             'text': text,
             'url': url,
             'speaker': speaker,
+            'chair': chair,
         }
 
     slots_table = [
