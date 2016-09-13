@@ -30,7 +30,7 @@ def page_view(request, key='index'):
         ['oreilly', 'hpe'],
         ['potato', 'jetbrains'],
         ['smarkets', 'stx-next'],
-        ['pluralsight'],
+        ['blanc', 'pluralsight'],
         ['rpf', 'psf'],
     ]
 
