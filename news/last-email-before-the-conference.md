@@ -21,7 +21,7 @@ We're expecting 500 people on Friday, most of whom won't have been at Thursday's
 
 ### Evening dinners
 
-There are a few tickets left for the [conference dinner](http://2016.pyconuk.org/conference-dinner/) on Friday, and the dinners at [the Clink](http://2016.pyconuk.org/the-clink/) on Thursday, Saturday, and Sunday.  Don't leave it too late to book!
+There are a few tickets left for the [conference dinner](http://2016.pyconuk.org/conference-dinner/) on Friday, and the dinners at [the Clink](http://2016.pyconuk.org/the-clink/) on Thursday, Saturday, and Sunday.  Don't leave it too late to book!  They will sell out.
 
 ### And finally...
 
