@@ -229,7 +229,7 @@ Saturday 17th:
         '13:00': Lunch
     - Chris Dent:
         '14:30': talks/python-library-development
-        '15:00': talks/so-you-want-to-maintain-a-python-legacy-code-base
+        '15:00': talks/10-years-7-deployments-and-a-lesson
         '15:30': talks/avoiding-the-left-pad-problem-how-to-secure-your-pip-install-process
     - None:
         '16:00': Break
