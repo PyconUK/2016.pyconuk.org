@@ -17,7 +17,7 @@
 # Take a look at pycon.views.schedule_view to see how this data is used.
 
 Thursday 15th:
-  Open Day at Cardiff University:
+  "Main Lecture Hall (1.61)":
     - None:
         '08:00': Registration
         '09:15': Introduction
@@ -34,7 +34,7 @@ Thursday 15th:
         '15:00': talks/is-my-robot-butler-going-to-steal-my-job
         '15:30': talks/where-am-i-what-am-i-doing-here-motion-detection-and-sensor-fusion-on-wearables-and-microbit-with-python
         '16:00': Close
-  CU Room A:
+  "Room 1.40":
     - None:
         '08:00': Registration
         '09:15': ''
@@ -51,22 +51,39 @@ Thursday 15th:
         '15:00': workshops/natural-language-processing-in-10-lines-of-code
         '15:30': workshops/natural-language-processing-in-10-lines-of-code
         '16:00': Close
-  CU Room B:
+  "Room 1.50":
     - None:
         '08:00': Registration
         '09:15': ''
-        '09:30': Django Girls
-        '10:00': Django Girls
-        '10:30': Django Girls
+        '09:30': '<a href="/code-clinic/">Code Clinic</a>'
+        '10:00': '<a href="/code-clinic/">Code Clinic</a>'
+        '10:30': '<a href="/code-clinic/">Code Clinic</a>'
         '11:00': Break
-        '11:30': Django Girls
-        '12:00': Django Girls
-        '12:30': Django Girls
+        '11:30': '<a href="/code-clinic/">Code Clinic</a>'
+        '12:00': '<a href="/code-clinic/">Code Clinic</a>'
+        '12:30': '<a href="/code-clinic/">Code Clinic</a>'
         '13:00': Lunch
-        '14:00': Django Girls
-        '14:30': Django Girls
-        '15:00': Django Girls
-        '15:30': Django Girls
+        '14:00': '<a href="/code-clinic/">Code Clinic</a>'
+        '14:30': '<a href="/code-clinic/">Code Clinic</a>'
+        '15:00': '<a href="/code-clinic/">Code Clinic</a>'
+        '15:30': '<a href="/code-clinic/">Code Clinic</a>'
+        '16:00': Close
+  "Room 0.53":
+    - None:
+        '08:00': Registration
+        '09:15': ''
+        '09:30': '<a href="/djangogirls/">Django Girls</a>'
+        '10:00': '<a href="/djangogirls/">Django Girls</a>'
+        '10:30': '<a href="/djangogirls/">Django Girls</a>'
+        '11:00': Break
+        '11:30': '<a href="/djangogirls/">Django Girls</a>'
+        '12:00': '<a href="/djangogirls/">Django Girls</a>'
+        '12:30': '<a href="/djangogirls/">Django Girls</a>'
+        '13:00': Lunch
+        '14:00': '<a href="/djangogirls/">Django Girls</a>'
+        '14:30': '<a href="/djangogirls/">Django Girls</a>'
+        '15:00': '<a href="/djangogirls/">Django Girls</a>'
+        '15:30': '<a href="/djangogirls/">Django Girls</a>'
         '16:00': Close
 Friday 16th:
   Assembly Room:

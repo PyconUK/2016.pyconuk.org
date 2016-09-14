@@ -46,7 +46,7 @@
               {% if cell.value.url %}
               <a href="{{ cell.value.url }}">{{ cell.value.text }}</a>
               {% else %}
-              {{ cell.value.text }}
+              {{ cell.value.text|safe }}
               {% endif %}
             </td>
             {% else %}
