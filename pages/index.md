@@ -15,7 +15,7 @@ from around the world. This year, the conference is in Cardiff, from Thursday
 
 * **Thursday**: [Open Day, with introductory workshops, talks and more](/open-day/)
 * **Friday to Sunday**: [a packed programme of talks and other sessions](/programme/)
-* **Monday**: [sprints and more advanced workshops](/code-day/)
+* **Monday**: [sprints](/what-are-sprints/) and more [advanced workshops](/programme/#monday)
 
 We'll be putting on a programme of talks, workshops, and other events aimed at
 the whole Python community, from web developers to hardware engineers, from
