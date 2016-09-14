@@ -29,7 +29,7 @@ Thursday 15th:
         '12:00': talks/python-cat-flaps-creating-smart-devices-with-python
         '12:30': talks/python-in-education
         '13:00': Lunch
-        '14:00': talks/so-you-want-to-be-a-programmer
+        '14:00': talks/10-years-7-deployments-and-a-lesson
         '14:30': talks/taking-the-robot-out-of-mr-robot-or-why-tech-sucks-how-you-can-help-to-make-it-better
         '15:00': talks/a-p45-from-c3po
         '15:30': talks/where-am-i-what-am-i-doing-here-motion-detection-and-sensor-fusion-on-wearables-and-microbit-with-python
@@ -229,7 +229,7 @@ Saturday 17th:
         '13:00': Lunch
     - Chris Dent:
         '14:30': talks/python-library-development
-        '15:00': talks/10-years-7-deployments-and-a-lesson
+        '15:00': talks/so-you-want-to-maintain-a-python-legacy-code-base
         '15:30': talks/avoiding-the-left-pad-problem-how-to-secure-your-pip-install-process
     - None:
         '16:00': Break
