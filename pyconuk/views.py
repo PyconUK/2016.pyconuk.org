@@ -68,9 +68,10 @@ def schedule_view(request):
     ]
 
     rooms_in_order = [
-        'Open Day at Cardiff University',
-        'CU Room A',
-        'CU Room B',
+        'Main Lecture Hall (1.61)',
+        'Room 1.40',
+        'Room 1.50',
+        'Room 0.53',
         'Assembly Room',
         'Room I',
         'Room D',
@@ -101,10 +102,10 @@ def session_chairs_view(request):
     ]
 
     rooms_in_order = [
-        'Open Day at Cardiff University',
-        'CU Room A',
-        'CU Room B',
-        'CU Room C',
+        'Main Lecture Hall (1.61)',
+        'Room 1.40',
+        'Room 1.50',
+        'Room 0.53',
         'Assembly Room',
         'Room I',
         'Room D',
@@ -128,10 +129,10 @@ def open_day_view(request):
 
     date = 'Thursday 15th'
     rooms_in_order = [
-        'Open Day at Cardiff University',
-        'CU Room A',
-        'CU Room B',
-        'CU Room C',
+        'Main Lecture Hall (1.61)',
+        'Room 1.40',
+        'Room 1.50',
+        'Room 0.53',
     ]
 
     context = {
