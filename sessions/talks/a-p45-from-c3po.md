@@ -1,4 +1,4 @@
-title: 'Is my robot butler going to steal my job?'
+title: 'A P45 from C-3PO?'
 subtitle:
 speaker: emma-gordon
 ---
