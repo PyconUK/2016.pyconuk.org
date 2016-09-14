@@ -51,7 +51,7 @@ Thursday 15th:
         '15:00': workshops/natural-language-processing-in-10-lines-of-code
         '15:30': workshops/natural-language-processing-in-10-lines-of-code
         '16:00': Close
-  "Room 1.50":
+  "Room 0.53":
     - None:
         '08:00': Registration
         '09:15': ''
@@ -68,7 +68,7 @@ Thursday 15th:
         '15:00': '<a href="/code-clinic/">Code Clinic</a>'
         '15:30': '<a href="/code-clinic/">Code Clinic</a>'
         '16:00': Close
-  "Room 0.53":
+  "Room 1.50":
     - None:
         '08:00': Registration
         '09:15': ''
