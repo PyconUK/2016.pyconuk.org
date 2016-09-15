@@ -19,6 +19,7 @@ urlpatterns = [
     url(r'^sponsors/$', views.sponsors_view, name='sponsors'),
     url(r'^$', views.page_view, name='index'),
     url(r'^unlinked-pages/$', views.unlinked_pages_view, name='unlinked_pages'),
+    url(r'^calendar/$', views.ical_schedule_view, name="ical_schedule"),
     url(r'^(?P<key>.*?)/$', views.page_view, name='page'),
     url(r'^static/(?P<path>.*)$', views.serve_static),
 ] + static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
