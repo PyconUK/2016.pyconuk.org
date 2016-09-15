@@ -69,9 +69,9 @@ def schedule_view(request):
 
     rooms_in_order = [
         'Main Lecture Hall (1.61)',
-        'Room 1.40',
+        'Room 2.32',
         'Room 1.50',
-        'Room 0.53',
+        'Coffee Shop',
         'Assembly Room',
         'Room I',
         'Room D',
