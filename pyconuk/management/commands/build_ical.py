@@ -111,5 +111,5 @@ class Command(BaseCommand):
                     event.add("dtstamp").value = now
                     print("\t\tStart: {}, End {}".format(start_time, end_time))
 
-        with open('out.ics', 'w') as f:
+        with open('schedule.ics', 'w') as f:
             f.write(cal.serialize())
