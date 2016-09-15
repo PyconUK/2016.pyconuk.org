@@ -5,6 +5,6 @@
 
 chair: None
 date: Thursday 15th
-room: Room 0.53
-time: '14:30'
-title: <a href="/code-clinic/">Code Clinic</a>
+room: Room 2.32
+session: workshops/django-vs-flask-vs-pyramid-which-to-chose
+time: '10:30'

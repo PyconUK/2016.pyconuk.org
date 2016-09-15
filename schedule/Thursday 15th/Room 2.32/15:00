@@ -5,6 +5,6 @@
 
 chair: None
 date: Thursday 15th
-room: Room 0.53
-time: '12:00'
-title: <a href="/code-clinic/">Code Clinic</a>
+room: Room 2.32
+session: workshops/natural-language-processing-in-10-lines-of-code
+time: '15:00'

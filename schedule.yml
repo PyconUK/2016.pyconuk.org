@@ -34,7 +34,7 @@ Thursday 15th:
         '15:00': talks/a-p45-from-c3po
         '15:30': talks/where-am-i-what-am-i-doing-here-motion-detection-and-sensor-fusion-on-wearables-and-microbit-with-python
         '16:00': Close
-  "Room 1.40":
+  "Room 2.32":
     - None:
         '08:00': Registration
         '09:15': ''
@@ -51,7 +51,7 @@ Thursday 15th:
         '15:00': workshops/natural-language-processing-in-10-lines-of-code
         '15:30': workshops/natural-language-processing-in-10-lines-of-code
         '16:00': Close
-  "Room 0.53":
+  "Coffee Shop":
     - None:
         '08:00': Registration
         '09:15': ''
