@@ -9,6 +9,7 @@ from django.views import static
 
 from ..models import NewsItem, Page, Redirection, Session, Speaker, Sponsor
 from ..utils import load_schedule_context
+
 from .ical import ical_schedule_view
 
 
