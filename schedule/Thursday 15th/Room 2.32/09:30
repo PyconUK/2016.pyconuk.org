@@ -5,6 +5,6 @@
 
 chair: None
 date: Thursday 15th
-room: Main Lecture Hall (1.61)
-session: talks/10-years-7-deployments-and-a-lesson
-time: '14:00'
+room: Room 2.32
+session: workshops/django-vs-flask-vs-pyramid-which-to-chose
+time: 09:30

@@ -29,12 +29,12 @@ Thursday 15th:
         '12:00': talks/python-cat-flaps-creating-smart-devices-with-python
         '12:30': talks/python-in-education
         '13:00': Lunch
-        '14:00': talks/so-you-want-to-be-a-programmer
+        '14:00': talks/10-years-7-deployments-and-a-lesson
         '14:30': talks/taking-the-robot-out-of-mr-robot-or-why-tech-sucks-how-you-can-help-to-make-it-better
-        '15:00': talks/is-my-robot-butler-going-to-steal-my-job
+        '15:00': talks/a-p45-from-c3po
         '15:30': talks/where-am-i-what-am-i-doing-here-motion-detection-and-sensor-fusion-on-wearables-and-microbit-with-python
         '16:00': Close
-  "Room 1.40":
+  "Room 2.32":
     - None:
         '08:00': Registration
         '09:15': ''
@@ -51,7 +51,7 @@ Thursday 15th:
         '15:00': workshops/natural-language-processing-in-10-lines-of-code
         '15:30': workshops/natural-language-processing-in-10-lines-of-code
         '16:00': Close
-  "Room 1.50":
+  "Coffee Shop":
     - None:
         '08:00': Registration
         '09:15': ''
@@ -68,7 +68,7 @@ Thursday 15th:
         '15:00': '<a href="/code-clinic/">Code Clinic</a>'
         '15:30': '<a href="/code-clinic/">Code Clinic</a>'
         '16:00': Close
-  "Room 0.53":
+  "Room 1.50":
     - None:
         '08:00': Registration
         '09:15': ''
