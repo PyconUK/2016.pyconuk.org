@@ -7,8 +7,9 @@ from django.shortcuts import get_object_or_404, render
 from django.utils.six.moves.urllib.parse import unquote
 from django.views import static
 
-from .models import NewsItem, Page, Redirection, Session, Speaker, Sponsor
-from .utils import load_schedule_context
+from ..models import NewsItem, Page, Redirection, Session, Speaker, Sponsor
+from ..utils import load_schedule_context
+from .ical import ical_schedule_view
 
 
 def page_view(request, key='index'):
@@ -323,6 +324,7 @@ def unlinked_pages_view(request):
         '/sponsors/',
         '/session-chairing/',
         '/session-chairs/',
+        '/calendar/',
     ]
 
     for redirection in Redirection.objects.order_by('key'):

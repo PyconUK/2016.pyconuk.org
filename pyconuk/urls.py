@@ -21,4 +21,5 @@ urlpatterns = [
     url(r'^unlinked-pages/$', views.unlinked_pages_view, name='unlinked_pages'),
     url(r'^(?P<key>.*?)/$', views.page_view, name='page'),
     url(r'^static/(?P<path>.*)$', views.serve_static),
+    url(r'^calendar/$', views.ical_schedule_view),
 ] + static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
