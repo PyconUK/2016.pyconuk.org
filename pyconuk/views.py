@@ -323,6 +323,7 @@ def unlinked_pages_view(request):
         '/sponsors/',
         '/session-chairing/',
         '/session-chairs/',
+        '/microbit/',
     ]
 
     for redirection in Redirection.objects.order_by('key'):
