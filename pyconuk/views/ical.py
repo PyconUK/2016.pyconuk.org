@@ -69,16 +69,13 @@ def ical_schedule_view(request):
             # that each session runs until the next. Some sessions are
             # empty, which means we can ignore them: one session each day
             # is called 'Close', which we can also ignore.
-            print("Writing sessions for {} {}".format(date, room))
             for i, (start_time, session_name) in enumerate(sessions):
                 # Empty session, no entry.
                 if not session_name:
-                    print("\tNo session at {}".format(start_time))
                     continue
 
                 # End of the day
                 if session_name == "Close":
-                    print("\tEnd of day at {}".format(start_time))
                     break
 
                 # We have an event! The "end" date of this event is simply
@@ -97,17 +94,14 @@ def ical_schedule_view(request):
                         title, speaker_name
                     )
                     event.add("description").value = abstract
-                    print("\tName: {} - {}".format(title, speaker_name))
                 else:
                     # This is a break, or something similar: we don't need
                     # to look it up in any way.
                     event.add("summary").value = session_name
-                    print("\tName: {}".format(session_name))
 
                 event.add("location").value = room
                 event.add("dtstart").value = add_tz(start_time)
                 event.add("dtend").value = add_tz(end_time)
                 event.add("dtstamp").value = now
-                print("\t\tStart: {}, End {}".format(start_time, end_time))
 
     return HttpResponse(cal.serialize(), content_type="text/calendar")
