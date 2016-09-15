@@ -74,6 +74,11 @@ def ical_schedule_view(request):
                 if not session_name:
                     continue
 
+                # Remove two sessions that have hyperlinked names: they're in
+                # the open day, so they're basically already over.
+                if session_name.startswith('<'):
+                    continue
+
                 # End of the day
                 if session_name == "Close":
                     break
