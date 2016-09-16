@@ -396,13 +396,13 @@ Monday 19th:
   Assembly Room:
     - None:
         '09:00': Introduction
-        '09:10': Sprints
+        '09:10': '<a href="/sprints/">Sprints</a>'
         '10:45': Break
-        '11:15': Sprints
+        '11:15': '<a href="/sprints/">Sprints</a>'
         '13:00': Lunch
-        '14:30': Sprints
+        '14:30': '<a href="/sprints/">Sprints</a>'
         '16:00': Break
-        '16:30': Sprints
+        '16:30': '<a href="/sprints/">Sprints</a>'
         '18:00': Close
   Room D:
     - None:
