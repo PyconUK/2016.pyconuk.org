@@ -3,8 +3,8 @@
 #
 #   python manage.py parseschedule
 
-chair: Cory Benfield
-date: Friday 16th
-room: Room D
+chair: Graham Markall
+date: Sunday 18th
+room: Ferrier Hall
 session: talks/some-challenges-in-automatic-english-text-correction
-time: '15:30'
+time: '10:15'
