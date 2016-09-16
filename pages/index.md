@@ -24,37 +24,25 @@ for teachers, and an [expanded research programme](/research/) aimed at
 researchers from the humanities, arts and scientists.  The [children's
 day](/children/) returns too.
 
-## Diversity, accessibility, inclusion
-
-We want this to be the best PyCon UK ever, and a key part of that is our commitment to [diversity, accessibility and
-inclusion](/diversity-accessibility-inclusion/).
-
-## Tickets
-
-Through the generosity of our sponsors, we're able to make the conference more
-affordable than in recent years, with individual [tickets](/tickets/) only £96.
-For the first time, we're also offering a [Financial Aid
-Programme](/financial-aid/).
-
-## Sponsorship
-
-PyCon UK cannot happen without sponsors.  If you or your company are interested
-in supporting the conference — perhaps you're recruiting, or sell to
-developers, or want to give something back to the community — take a look at
-our [sponsorship options](/sponsorship/).
-
-## Code of Conduct
-
-We're committed to ensuring the conference is welcoming, enjoyable, and safe
-for everyone, and so we expect all attendees to agree to our [Code of
-Conduct](/code-of-conduct/).
-
 ## Useful information
 
 * [How to get to Cardiff](/venue/)
 * [Accommodation in Cardiff](/accommodation/)
 * [Our day for teachers](/teachers/)
 * [Our day for children](/children/)
+* [Conference dinner](/conference-dinner/)
+* [Evenings at the Clink](/the-clink/)
+
+## Diversity, accessibility, inclusion
+
+We want this to be the best PyCon UK ever, and a key part of that is our commitment to [diversity, accessibility and
+inclusion](/diversity-accessibility-inclusion/).
+
+## Code of Conduct
+
+We're committed to ensuring the conference is welcoming, enjoyable, and safe
+for everyone, and so we expect all attendees to agree to our [Code of
+Conduct](/code-of-conduct/).
 
 
 If you've got any questions, [get in touch](/contact/).
