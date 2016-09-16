@@ -1,4 +1,4 @@
-title: 'An introduction to property-based testing'
+title: 'An introduction to property-based testing and Hypothesis'
 subtitle:
 speaker: alex-chan
 ---
