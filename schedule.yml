@@ -201,7 +201,7 @@ Saturday 17th:
         '13:00': Lunch
     - Owen Campbell:
         '14:30': talks/high-school-pythonistas-what-pynam-did-next
-        '15:00': talks/python-in-my-science-classroom
+        '15:00': talks/using-machine-learning-to-solve-a-classifiation-problem-with-scikit-learn-a-practical-walkthrough
         '15:30': Show and Tell
     - None:
         '16:00': Break
@@ -256,7 +256,7 @@ Saturday 17th:
     - None:
         '13:00': Lunch
     - James Campbell:
-        '14:30': talks/using-machine-learning-to-solve-a-classifiation-problem-with-scikit-learn-a-practical-walkthrough
+        '14:30': ''
         '15:00': talks/the-csd-python-api-helping-the-worlds-structural-chemists-innovate
         '15:30': talks/recipy-completely-effortless-provenance-for-python
     - None:
@@ -343,11 +343,11 @@ Sunday 18th:
     - Vincent Knight:
         '14:30': talks/queueing-and-python-pip-install-ciw
         '15:00': talks/eulers-key-to-cryptography
-        '15:30': talks/addition-well-that-escalated-quickly
+        '15:30': talks/prisoners-cooperation-and-spatial-structure
     - None:
         '16:00': Break
     - Vincent Knight:
-        '16:30': talks/prisoners-cooperation-and-spatial-structure
+        '16:30': talks/addition-well-that-escalated-quickly
         '17:00': talks/symbolic-computation-with-python-using-sympy
     - None:
         '17:30': ''
