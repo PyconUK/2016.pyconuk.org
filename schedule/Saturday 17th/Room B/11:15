@@ -3,8 +3,8 @@
 #
 #   python manage.py parseschedule
 
-chair: None
+chair: Kristian Glass
 date: Saturday 17th
-room: Room C
-time: '18:15'
-title: Close
+room: Room B
+session: talks/an-introduction-to-deep-learning-with-tensorflow
+time: '11:15'

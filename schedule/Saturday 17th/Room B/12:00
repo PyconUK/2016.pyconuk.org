@@ -3,8 +3,8 @@
 #
 #   python manage.py parseschedule
 
-chair: None
+chair: Kristian Glass
 date: Saturday 17th
-room: Room C
-time: '13:00'
-title: Lunch
+room: Room B
+session: talks/building-a-python-cake-testing-the-layers-of-your-application
+time: '12:00'

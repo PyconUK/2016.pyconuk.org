@@ -3,8 +3,8 @@
 #
 #   python manage.py parseschedule
 
-chair: Graham Markall
+chair: Kristian Glass
 date: Saturday 17th
-room: Room C
-session: talks/a-data-processing-toolbox-for-agile-scientific-research
-time: '10:15'
+room: Room B
+session: talks/test-driven-data-analysis
+time: '12:30'
