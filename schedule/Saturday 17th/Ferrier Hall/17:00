@@ -3,8 +3,8 @@
 #
 #   python manage.py parseschedule
 
-chair: None
+chair: Chris Dent
 date: Saturday 17th
-room: Room D
-time: 08:00
-title: Registration
+room: Ferrier Hall
+session: talks/getting-started-with-requests-http-library
+time: '17:00'

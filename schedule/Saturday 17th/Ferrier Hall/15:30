@@ -3,8 +3,8 @@
 #
 #   python manage.py parseschedule
 
-chair: Tony Ibbs
+chair: Chris Dent
 date: Saturday 17th
-room: Room D
-session: talks/fast-python-dont-bother
-time: '12:00'
+room: Ferrier Hall
+session: talks/avoiding-the-left-pad-problem-how-to-secure-your-pip-install-process
+time: '15:30'

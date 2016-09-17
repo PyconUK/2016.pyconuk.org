@@ -3,8 +3,8 @@
 #
 #   python manage.py parseschedule
 
-chair: Tom Viner
+chair: Neil Stoker
 date: Sunday 18th
 room: Ferrier Hall
-session: talks/an-adventure-in-exploitation-with-python
+session: talks/simulating-a-cpu-with-python-or-surprising-programs-you-might-have-thought-were-better-written-in-c
 time: '11:15'

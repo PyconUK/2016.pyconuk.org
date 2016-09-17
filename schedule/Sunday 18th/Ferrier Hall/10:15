@@ -3,8 +3,8 @@
 #
 #   python manage.py parseschedule
 
-chair: Graham Markall
+chair: Sarah Mount
 date: Sunday 18th
 room: Ferrier Hall
-session: talks/some-challenges-in-automatic-english-text-correction
+session: talks/assessing-performance-of-support-vector-machine-kernels-to-detect-interactions-in-genotyped-data
 time: '10:15'

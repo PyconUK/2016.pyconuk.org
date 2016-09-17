@@ -3,8 +3,8 @@
 #
 #   python manage.py parseschedule
 
-chair: Neil Stoker
+chair: Vincent Knight
 date: Sunday 18th
 room: Ferrier Hall
-session: talks/build-your-microservices-with-zeromq
+session: talks/prisoners-cooperation-and-spatial-structure
 time: '16:30'
