@@ -3,8 +3,8 @@
 #
 #   python manage.py parseschedule
 
-chair: Sarah Mount
+chair: None
 date: Saturday 17th
-room: Room C
-session: talks/the-breakup-monolith-to-microservices
-time: '17:00'
+room: Room B
+time: '10:45'
+title: Break

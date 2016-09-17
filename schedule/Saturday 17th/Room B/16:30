@@ -3,8 +3,8 @@
 #
 #   python manage.py parseschedule
 
-chair: James Campbell
+chair: Sarah Mount
 date: Saturday 17th
-room: Room C
-session: talks/recipy-completely-effortless-provenance-for-python
-time: '15:30'
+room: Room B
+session: talks/my-journey-from-wxpython-to-pyqt
+time: '16:30'

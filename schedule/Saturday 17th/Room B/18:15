@@ -3,8 +3,8 @@
 #
 #   python manage.py parseschedule
 
-chair: James Campbell
+chair: None
 date: Saturday 17th
-room: Room C
-session: talks/the-csd-python-api-helping-the-worlds-structural-chemists-innovate
-time: '15:00'
+room: Room B
+time: '18:15'
+title: Close

@@ -3,8 +3,8 @@
 #
 #   python manage.py parseschedule
 
-chair: Kristian Glass
+chair: James Campbell
 date: Saturday 17th
-room: Room C
-session: talks/building-a-python-cake-testing-the-layers-of-your-application
-time: '12:00'
+room: Room B
+session: talks/the-csd-python-api-helping-the-worlds-structural-chemists-innovate
+time: '15:00'

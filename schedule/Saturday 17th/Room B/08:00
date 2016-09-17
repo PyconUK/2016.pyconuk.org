@@ -3,8 +3,8 @@
 #
 #   python manage.py parseschedule
 
-chair: Sarah Mount
+chair: None
 date: Saturday 17th
-room: Room C
-session: talks/my-journey-from-wxpython-to-pyqt
-time: '16:30'
+room: Room B
+time: 08:00
+title: Registration
