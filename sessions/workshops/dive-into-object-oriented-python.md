@@ -18,3 +18,12 @@ You can use this code to get a working Jupyter Notebook environment:
     virtualenv venv3 -p python3
     source venv3/bin/activate
     pip install jupyter
+
+This repository contains the code that will be used during the workshop
+
+<https://github.com/lgiordani/oopy>
+
+The `PyConUK2016/code` directory contains the Python2 and Python3 code formatted in a way that allows to copy and paste it in a Python console.
+
+The `PyConUK2016/notebooks` diretory contains Jupyter notebooks for Python3 only.
+
