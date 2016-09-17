@@ -3,8 +3,8 @@
 #
 #   python manage.py parseschedule
 
-chair: Vincent Knight
+chair: Neil Stoker
 date: Sunday 18th
 room: Room D
-session: talks/symbolic-computation-with-python-using-sympy
+session: talks/rewriting-without-rewriting-porting-an-atc-radar-display-to-pythonqt-without-starting-from-scratch
 time: '17:00'

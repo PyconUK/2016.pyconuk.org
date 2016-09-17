@@ -3,8 +3,8 @@
 #
 #   python manage.py parseschedule
 
-chair: Nicholas Tollervey
+chair: Vincent Knight
 date: Sunday 18th
 room: Ferrier Hall
-session: talks/an-introduction-to-property-based-testing
+session: talks/queueing-and-python-pip-install-ciw
 time: '14:30'

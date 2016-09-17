@@ -3,8 +3,8 @@
 #
 #   python manage.py parseschedule
 
-chair: Tom Viner
+chair: Neil Stoker
 date: Sunday 18th
 room: Ferrier Hall
-session: talks/creating-a-reproducible-more-secure-python-application
+session: talks/attempting-to-win-at-blackjack
 time: '12:00'

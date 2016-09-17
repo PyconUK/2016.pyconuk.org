@@ -3,8 +3,8 @@
 #
 #   python manage.py parseschedule
 
-chair: Nicholas Tollervey
+chair: Vincent Knight
 date: Sunday 18th
 room: Ferrier Hall
-session: talks/lessons-learned-from-organizing-scipy-latin-america-2016
+session: talks/eulers-key-to-cryptography
 time: '15:00'

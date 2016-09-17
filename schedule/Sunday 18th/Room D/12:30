@@ -3,8 +3,8 @@
 #
 #   python manage.py parseschedule
 
-chair: Neil Stoker
+chair: Tom Viner
 date: Sunday 18th
 room: Room D
-session: talks/easy-solutions-to-hard-problems
+session: talks/why-dev-random-is-a-horrible-idea-and-other-problems-you-didnt-know-you-had-yet
 time: '12:30'

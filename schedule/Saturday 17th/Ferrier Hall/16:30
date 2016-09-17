@@ -3,8 +3,8 @@
 #
 #   python manage.py parseschedule
 
-chair: Tom Viner
+chair: Chris Dent
 date: Saturday 17th
-room: Room D
-session: talks/introducing-metaclasses
-time: '10:15'
+room: Ferrier Hall
+session: talks/an-introduction-to-web-scraping-using-python
+time: '16:30'

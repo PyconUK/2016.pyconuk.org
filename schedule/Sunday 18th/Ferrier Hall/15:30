@@ -3,8 +3,8 @@
 #
 #   python manage.py parseschedule
 
-chair: Nicholas Tollervey
+chair: Vincent Knight
 date: Sunday 18th
 room: Ferrier Hall
-session: talks/cleaner-unit-testing-with-the-arrange-act-assert-pattern
+session: talks/addition-well-that-escalated-quickly
 time: '15:30'

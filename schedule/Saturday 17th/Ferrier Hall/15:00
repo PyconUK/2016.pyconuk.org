@@ -3,8 +3,8 @@
 #
 #   python manage.py parseschedule
 
-chair: None
+chair: Chris Dent
 date: Saturday 17th
-room: Room D
-time: '18:15'
-title: Close
+room: Ferrier Hall
+session: talks/so-you-want-to-maintain-a-python-legacy-code-base
+time: '15:00'

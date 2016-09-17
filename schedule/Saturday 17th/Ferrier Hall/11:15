@@ -3,8 +3,8 @@
 #
 #   python manage.py parseschedule
 
-chair: None
+chair: Tony Ibbs
 date: Saturday 17th
-room: Room D
-time: '13:00'
-title: Lunch
+room: Ferrier Hall
+session: talks/how-to-automate-your-data-cleanup-with-python
+time: '11:15'

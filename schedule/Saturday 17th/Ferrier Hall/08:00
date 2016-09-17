@@ -3,8 +3,8 @@
 #
 #   python manage.py parseschedule
 
-chair: Chris Dent
+chair: None
 date: Saturday 17th
-room: Room D
-session: talks/python-library-development
-time: '14:30'
+room: Ferrier Hall
+time: 08:00
+title: Registration
