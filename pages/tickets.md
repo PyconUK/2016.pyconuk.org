@@ -2,6 +2,14 @@ title: Tickets
 tito_required: yes
 ---
 
+## Sold Out
+
+Unfortunately, PyCon UK 2016 is entirely sold out! We are still selling tickets
+for some of the conference meals, but we have no tickets available for the
+conference itself.
+
+## Buying Tickets
+
 The main conference runs from Friday 16th to Monday 19th September, with tickets costing:
 
  * £96 if you are paying for your own ticket;
