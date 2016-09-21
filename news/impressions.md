@@ -24,3 +24,4 @@ If you don't know how to do that, just send us the link and we'll do it for you.
 * Tim Golden: [Rambling Thoughts on PyCon UK 2016](http://ramblings.timgolden.me.uk/2016/09/20/rambling-thoughts-on-pycon-uk-2016/)
 * Andrew Robinson: [PyCon UK 2016 - A conference, cat-flaps and education](http://www.openlx.org.uk/blog/pycon-uk)
 * Laura Sach: [Exciting adventures at PyCon UK](https://codeboom.wordpress.com/2016/09/17/exciting-adventures-at-pycon-uk/)
+* Carl Newton: [Five lessons in five days at PyCon UK 2016](https://blog.socitm.net/2016/09/20/five-lessons-in-five-days-at-pycon-uk-2016/)
