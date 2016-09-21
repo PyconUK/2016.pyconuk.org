@@ -22,3 +22,5 @@ If you don't know how to do that, just send us the link and we'll do it for you.
   briefcase](https://www.russel.org.uk/posts/2016/201609201420_pyconuksprint_sia
   bc.html) project
 * Tim Golden: [Rambling Thoughts on PyCon UK 2016](http://ramblings.timgolden.me.uk/2016/09/20/rambling-thoughts-on-pycon-uk-2016/)
+* Andrew Robinson: [PyCon UK 2016 - A conference, cat-flaps and education](http://www.openlx.org.uk/blog/pycon-uk)
+* Laura Sach: [Exciting adventures at Pycon UK](https://codeboom.wordpress.com/2016/09/17/exciting-adventures-at-pycon-uk/)
