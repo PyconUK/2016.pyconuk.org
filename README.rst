@@ -16,6 +16,8 @@ Development
 
 This site uses django-amber_. To install django-amber and other dependencies, run ``pip install -r requirements.txt``.  django-amber is only known to work with Python 3.5.
 
+You must also install [less](https://www.npmjs.com/package/less), and ensure that `lessc` is available in your PATH.
+
 django-amber builds the site by assembling several components:
 
 * Pages are found in ``pages/``.  News articles are in ``news/``.  Other types of content may be added later.  Pages may be HTML or Markdown_, and contain some YAML metadata.  Look at existing pages for examples.
