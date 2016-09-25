@@ -46,9 +46,9 @@ During the conference, the following items were handed in as lost property:
 If you think these are yours, [get in touch](http://2016.pyconuk.org/contact/).
 
 
-### Mailing list
+### Newsletter
 
-We're going to start a monthly mailing list to keep the UK Python community up to date with what's happening around the country.  We will add all conference attendees to the mailing list, unless you opt out.  Please [let us know](http://2016.pyconuk.org/contact/) by the end of September if you would like to opt out.
+We're going to start sending out a monthly newsletter to keep the UK Python community up to date with what's happening around the country.  We'll send this newsletter to all conference attendees, unless you opt out.  Please [let us know](http://2016.pyconuk.org/contact/) by the end of September if you would like to opt out.
 
 If you run a local user group, we'd like to publicise your events!  Please [drop us a line](http://2016.pyconuk.org/contact/) if you're running something that you'd like to share with the community.
 
