@@ -28,3 +28,4 @@ If you don't know how to do that, just send us the link and we'll do it for you.
 * [an article from the django CMS weblog](https://www.django-cms.org/en/blog/2016/09/22/pycon-uk-2016/)
 * Miguel Martinez: [My first PyCon](https://miguelmalvarez.com/2016/09/22/my-first-pycon/)
 * YPlan: [PyCon UK 2016 - Cardiff](https://tech.yplanapp.com/2016/09/20/pycon-uk-2016-cardiff/)
+* Ian Ozsvald: [Machine Learning Intro at PyCon UK 2016](http://ianozsvald.com/2016/09/23/practical-ml-for-engineers-talk-at-pyconuk-last-weekend/)
