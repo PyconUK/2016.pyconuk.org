@@ -27,3 +27,4 @@ If you don't know how to do that, just send us the link and we'll do it for you.
 * Carl Newton: [Five lessons in five days at PyCon UK 2016](https://blog.socitm.net/2016/09/20/five-lessons-in-five-days-at-pycon-uk-2016/)
 * [an article from the django CMS weblog](https://www.django-cms.org/en/blog/2016/09/22/pycon-uk-2016/)
 * Miguel Martinez: [My first PyCon](https://miguelmalvarez.com/2016/09/22/my-first-pycon/)
+* YPlan: [PyCon UK 2016 - Cardiff](https://tech.yplanapp.com/2016/09/20/pycon-uk-2016-cardiff/)
