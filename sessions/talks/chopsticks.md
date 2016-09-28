@@ -1,6 +1,7 @@
 title: 'Scripting across hosts with Chopsticks'
 subtitle: 'Pythonic orchestration over SSH'
 speaker: daniel-pope
+video: https://www.youtube.com/watch?v=0B3axZrKUQE
 ---
 Chopsticks lets your import and run Python code on remote Unix hosts over SSH.
 It works with no code deployment and no preinstalled software other than Python

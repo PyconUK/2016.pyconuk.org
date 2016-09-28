@@ -1,6 +1,7 @@
 title: 'Folklore and fantasy in the information age'
 subtitle:
 speaker: gail-ollis
+video: https://www.youtube.com/watch?v=IyIEH8XeBko
 ---
 Software development is not easy.
 

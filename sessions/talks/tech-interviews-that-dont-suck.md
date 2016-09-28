@@ -1,6 +1,7 @@
 title: "Tech interviews that don't suck"
 subtitle:
 speaker: marc-tamlyn
+video: https://www.youtube.com/watch?v=mNXzhPnwfnA
 ---
 For many interviewees and interviewers, hiring engineers is a difficult and stressful process. It's widely regarded that inverting a binary tree on a whiteboard is not a great approach to finding the best people to work with, but what is?
 

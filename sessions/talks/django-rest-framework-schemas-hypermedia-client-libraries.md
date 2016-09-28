@@ -1,6 +1,7 @@
 title: 'Django REST framework: Schemas, Hypermedia & Client libraries.'
 subtitle:
 speaker: tom-christie
+video: https://www.youtube.com/watch?v=FjmiGh7OqVg
 ---
 An introduction into using the very latest features of Django REST framework.
 

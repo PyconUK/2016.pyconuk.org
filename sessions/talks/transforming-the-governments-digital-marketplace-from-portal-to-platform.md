@@ -1,6 +1,7 @@
 title: 'Transforming the government’s Digital Marketplace from portal to platform'
 subtitle:
 speaker: kevin-keenoy
+video: https://www.youtube.com/watch?v=vdTw2Vqk4t0
 ---
 The public sector can use the Digital Marketplace (https://www.digitalmarketplace.service.gov.uk/) to find people and technology for digital projects. Over £1,000,000,000 has been spent on cloud services by government through the G-Cloud framework since it launched in 2012, over half of that spend being with SMEs rather than big systems integrators. 
 
