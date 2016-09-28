@@ -1,6 +1,7 @@
 title: 'I love being Pythonic, you?'
 subtitle:
 speaker: busra-koken
+video: https://www.youtube.com/watch?v=h4kQ_69_Vy0
 ---
 Python seems like an executable pseudo code. It has unique strengths and charms that can be hard to grasp. Programmers familiar with other languages may try to write Python as if it’s C++, Java, or whatever they know best. It’s important for everyone to know—the Pythonic—way to do the most common things in Python. Python philosophy suggests to be explicit, to choose simple over complex, and to maximise readability.
 

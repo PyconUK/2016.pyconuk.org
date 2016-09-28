@@ -1,6 +1,7 @@
 title: 'PiNet - A project that was never intended to be...'
 subtitle:
 speaker: andrew-mulholland
+video: https://www.youtube.com/watch?v=bmwCXJikR_M
 ---
 A deep dive into a project that was never intended to be.
 3 years ago, I threw up a simple script to help a single school setup network booting/logins with Raspberry Pis, up onto Github. Since then, the open source project has grown to 4000+ lines of Python/Bash and is used right across the world, from a prison in Kenya to hundreds of schools across Europe and North America.

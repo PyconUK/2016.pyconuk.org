@@ -1,6 +1,7 @@
 title: 'An Introduction to web scraping using Python'
 subtitle:
 speaker: manoj-pandey
+video: https://www.youtube.com/watch?v=h2YR55IFKpU
 ---
 Web scraping is a technique for gathering data or information on web pages. You could revisit your favorite web site every time it updates for new information. Or you could write a web scraper to have it do it for you!
 

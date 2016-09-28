@@ -1,6 +1,7 @@
 title: 'A RaspberryPi super computer in a briefcase'
 subtitle:
 speaker: russel-winder
+video: https://www.youtube.com/watch?v=EUA4GIiYg5w
 ---
 [Russel Winder](https://www.russel.org.uk/stories/short-biography.html) will be leading a project at PyCon UK 2016 to
 develop a new open-source supercomputer, based on Raspberry Pis in clusters.

@@ -1,6 +1,7 @@
 title: 'Declarative user interfaces in Python using ENAML'
 subtitle:
 speaker: tom-stordy-allison
+video: https://www.youtube.com/watch?v=G5ZYUGL7uTo
 ---
 Enaml is an open source library for building rich user interfaces utilizing a
 declarative extension to the Python language grammar. The Enaml DSL is a strict

@@ -1,6 +1,7 @@
-title: 'The state of PyPy '
+title: 'The state of PyPy'
 subtitle:
 speaker: ronan-lamy
+video: https://www.youtube.com/watch?v=VN2s5rr1tnQ
 ---
 PyPy is a fast and highly-compatible alternative implementation of Python. Its just-in-time compiler, backed by a state-of-the art garbage collector, allow it to run pure-Python(2) code on average 7 times faster than CPython 2.7, the reference implementation.
 

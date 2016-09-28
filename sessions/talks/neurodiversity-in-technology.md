@@ -1,6 +1,7 @@
 title: 'Neurodiversity in Technology'
 subtitle:
 speaker: john-chandler
+video: https://www.youtube.com/watch?v=OYORwXqi0vg
 ---
 We rightly talk a lot about diversity in technology these days. One area that seems to be neglected is to do with neurodiversity: the acknowledgement of neurological diversity as a result of Autism Spectrum, ADHD, Dyspraxia, Dyslexia, Dyscalculia, Tourette Syndrome, and more.
 

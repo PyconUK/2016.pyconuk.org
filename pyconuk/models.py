@@ -30,6 +30,8 @@ class Session(ModelWithContent):
     speaker = models.ForeignKey(Speaker, null=True)
     title = models.CharField(max_length=255)
     subtitle = models.CharField(max_length=255, null=True)
+    video = models.CharField(max_length=255, null=True)
+    slides = models.CharField(max_length=255, null=True)
 
     dump_dir_path = 'sessions'
 

@@ -1,6 +1,7 @@
 title: 'Queueing and Python: pip install ciw'
 subtitle:
 speaker: geraint-palmer
+video: https://www.youtube.com/watch?v=0_sIus0mPSM
 ---
 Queueing systems dominate our day-to-day life: for example supermarkets, airports, traffic systems, and call centres, naming only a few obvious examples. A better understanding of these queues can help businesses and service providers optimise these systems, improving efficiency, profit and satisfaction levels. Sometimes some unintuitive behaviour can arise, and so modelling and investigating queues mathematically has become very popular and important. One prominent method of doing so is by using computer simulation.
 
