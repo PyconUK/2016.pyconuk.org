@@ -2,6 +2,7 @@ title: 'Cerberus - Data Validation for Humans'
 subtitle:
 speaker: nicola-iarocci
 video: https://www.youtube.com/watch?v=6zDWPC2dh2A
+slides: https://speakerdeck.com/nicola/cerberus
 ---
 Soon or later in their career, every programmer has to deal with data validation. Be it a web, desktop or mobile application, you just cannot avoid data validation. A robust, powerful yet easy-to-use data validation library can be a valuable tool in your toolset.
 

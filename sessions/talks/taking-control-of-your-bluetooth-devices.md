@@ -2,6 +2,7 @@ title: 'Taking control of your Bluetooth devices'
 subtitle:
 speaker: helen-sherwood-taylor
 video: https://www.youtube.com/watch?v=F39xhYWHDKA
+slides: http://slides.com/helenst/ble/
 ---
 Bluetooth Low Energy (BTLE) is a part of the Bluetooth standard aimed at bringing wireless technology to low power devices, and it's getting into everything - lightbulbs, robots, personal health and fitness devices and plenty more. However, these devices don't always come with a nice developer friendly API - often all you get is a phone app.
 
