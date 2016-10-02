@@ -1,6 +1,7 @@
 title: 'Assessing performance of Support Vector Machine kernels to detect interactions in genotyped data'
 subtitle:
 speaker: tim-vivian-griffiths
+video: https://www.youtube.com/watch?v=-X0nidqFIFY
 ---
 Machine learning methods can present new possibilities for research topics looking at identifying genetic aetiologies of disease. However in complex disorders, such as those seen in psychiatric conditions, this can be especially hard given the loosely defined phenotype classifications of the diseases.
 

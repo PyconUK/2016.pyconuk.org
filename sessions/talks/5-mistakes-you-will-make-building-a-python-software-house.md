@@ -1,6 +1,7 @@
 title: '5 mistakes you will make building a Python Software House'
 subtitle:
 speaker: maciej-dziergwa
+video: https://www.youtube.com/watch?v=rPNz1-H4j5M
 ---
 In 2005 I became keen on programming in Python, but at the time there were no job opportunities for Python developers in Poland.
 

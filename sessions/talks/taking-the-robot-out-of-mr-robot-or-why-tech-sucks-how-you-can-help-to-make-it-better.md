@@ -1,6 +1,7 @@
 title: "Taking the robot out of Mr. Robot or: Why tech sucks & how you can help to make it better"
 subtitle:
 speaker: kerstin-kollmann
+video: https://www.youtube.com/watch?v=omZr-cBxSuU
 ---
 Not everything about the tech industry is as "cool" as it is sometimes made out
 to be – by the media, representations in fiction or indeed members of the tech

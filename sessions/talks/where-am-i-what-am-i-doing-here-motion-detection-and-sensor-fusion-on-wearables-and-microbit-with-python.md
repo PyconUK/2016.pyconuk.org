@@ -1,6 +1,7 @@
 title: '"Where am I? What am I doing here?" -- Motion detection and sensor fusion on wearables and Micro:Bit with Python'
 subtitle:
 speaker: stephen-simmons
+video: https://www.youtube.com/watch?v=MP1HWaylg-Q
 ---
 Accelerometers, gyroscopes and magnetometers are suddenly everywhere -- in phones, wearables, and even in the BBC micro:bit. They are cheap, ultra-low power, and often can be read remotely using Bluetooth Low Energy. In this talk, learn how Python can help you: 
 - collect raw multi-axis data in real time; 

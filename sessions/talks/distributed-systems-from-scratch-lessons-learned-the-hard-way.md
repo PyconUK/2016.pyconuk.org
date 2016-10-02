@@ -1,6 +1,7 @@
 title: 'Distributed systems from scratch: lessons learned the hard way!'
 subtitle:
 speaker: becky-lewis
+video: https://www.youtube.com/watch?v=bJPn1_pv7vk
 ---
 The software industry as a whole is moving further towards integrating smaller systems together rather than building monoliths. This can be trickier than it appears, especially when the system needs to grow and evolve.
 

@@ -226,6 +226,8 @@ def session_view(request, session_type, slug):
         'day': session.day,
         'time': session.time,
         'room': session.room,
+        'video': session.video,
+        'slides': session.slides,
     }
 
     return render(request, template, context)

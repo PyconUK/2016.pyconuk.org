@@ -1,6 +1,7 @@
 title: 'Ancient Greek Philosophy, Medieval Mental Models and 21st Century Technology'
 subtitle:
 speaker: owen-campbell
+video: https://www.youtube.com/watch?v=jadPL3YG4o4
 ---
 I'll talk about how the use of paper systems led to a simplification of the ideas developed by Aristotle over two thousand years ago and how the thinking that we encode into our software today is still limited by that simplification.
 

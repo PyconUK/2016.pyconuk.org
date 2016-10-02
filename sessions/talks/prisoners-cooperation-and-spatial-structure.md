@@ -1,6 +1,7 @@
 title: 'Prisoners, Cooperation and Spatial Structure'
 subtitle:
 speaker: nikoleta-evdokia-glynatsi
+video: https://www.youtube.com/watch?v=itoHwAksfTI
 ---
 The talk will be a brief introduction to Game Theory: the Prisoner's Dilemma,
 the tournaments that have been carried out since 1980 and the Axelrod library.

@@ -1,6 +1,7 @@
 title: 'Easy solutions to hard problems'
 subtitle:
 speaker: david-r-maciver
+video: https://www.youtube.com/watch?v=OkusHEBOhmQ
 ---
 A lot of interesting problems are computationally hard: Travelling salesmen, colouring graphs, packing knapsack. These are all what's called "NP-hard", which most people usually hear as meaning "intractable".
 

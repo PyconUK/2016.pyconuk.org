@@ -1,6 +1,8 @@
 title: 'So you "want" to maintain a Python legacy code base?'
 subtitle:
 speaker: cesar-cardenas-desales
+video: https://www.youtube.com/watch?v=Oa5YwR_k-ok
+slides: http://www.slideshare.net/CesarCardenasDesales/software-maintenance-pyconuk-2016
 ---
 While many programmers will agree that implementing new Software is the most entertaining part of our jobs, the truth is that the vast majority of developers spend a great amount of time performing maintenance, which in an world that praises innovation "is a dirty job that somebody's gotta do".
 

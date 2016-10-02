@@ -1,6 +1,7 @@
 title: 'The Art of Doing Nothing – Using profiling to speed up your code'
 subtitle:
 speaker: charlie-clark
+video: https://www.youtube.com/watch?v=eSGA4oZnlmk
 ---
 We're lucky with Python that we can concentrate on getting the job done and often don't have to worry about how fast our code runs. Those of us without computer science degrees really know how to appreciate this. And 9 times out of 10 you probably don't need to worry at all about the speed: if the program takes 10 minutes to run but saves you hours of work then it's a job well done. But then there is that 10th time…
 

@@ -1,6 +1,7 @@
 title: '1001 ways of Python'
 subtitle:
 speaker: ana-paula-carvalho
+video: https://www.youtube.com/watch?v=LNzio5GR-MY
 ---
 Python is very ubiquitous due to its simplicity, versatility and enormous library collections. These features make Python the go-to language in many domains ranging from science to business used by skilled computer scientists and people with little to no coding experience.
 

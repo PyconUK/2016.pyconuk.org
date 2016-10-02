@@ -17,6 +17,15 @@
         {{ content|safe }}
         {% endif %}
       </div>
+
+      {% if video or slides %}
+        <p>
+        {% if video %}<a href="{{ video }}">Link to video</a>{% endif %}
+        {% if video and slides %}|{% endif %}
+        {% if slides %}<a href="{{ slides }}">Link to slides</a>{% endif %}
+        </p>
+      {% endif %}
+      
     </div>
   </div>
 </article>

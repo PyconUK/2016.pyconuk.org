@@ -1,6 +1,7 @@
 title: 'Python in Medicine: ventilator data'
 subtitle:
 speaker: gusztav-belteki
+video: https://www.youtube.com/watch?v=_7GSBHs8jFM
 ---
 Modern mechanical ventilators are computer-controlled devices which automatically adapt their functions in order to meet the patient's needs to achieve synchrony with the patient's own breathing efforts. During this process the ventilator device measures various physical parameters (pressures, flows, volumes) at a high sampling frequency (e.g. 100 Hz). I am downloading data from the ventilators over long periods (several days) as comma separated values (.csv) text files. These produces large datasets, that is, time series data with >10 million time stamps. I have been using Python and its add-on packages (IPython notebook, numpy, pandas, matplotlib and scipy) to handle, analyse, interpret and visualise these data. I have developed data analysis pipelines that create various reports about the mechanical ventilation and ventilation-patient interaction. 
 

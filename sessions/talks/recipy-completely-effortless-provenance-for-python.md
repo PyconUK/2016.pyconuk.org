@@ -1,6 +1,7 @@
 title: 'recipy: completely effortless provenance for Python'
 subtitle:
 speaker: robin-wilson
+slides: https://speakerdeck.com/robintw/recipy-completely-effortless-provenance-for-python
 ---
 Imagine the situation: You’ve written some wonderful Python code which produces a beautiful output: a graph, some wonderful data, a lovely musical composition, or whatever. You save that output, naturally enough, as awesome_output.png. You run the code a couple of times, each time making minor modifications. You come back to it the next week/month/year. Do you know how you created that output? What input data? What version of your code? If you’re anything like me then the answer will often, frustratingly, be “no”.
 
