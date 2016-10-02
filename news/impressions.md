@@ -32,3 +32,4 @@ If you don't know how to do that, just send us the link and we'll do it for you.
 * Samathy Barratt: [PyCon UK 2017 — objectively the best conference you could possibly go to](https://medium.com/@int32_Samathy/pyconuk-2017-objectively-the-best-conference-you-could-possibly-go-too-9db43d0ffcce#.i2vboxliz)
 * Chris Dent: My rough notes from [PyCon UK 2016](https://anticdent.org/pyconuk-2016.html)
 * Olivia Guest: [PyCon UK 2016](https://www.software.ac.uk/blog/2016-09-29-pycon-uk-2016) for the Software Sustainability Institute
+* Sammy Earles: [PyCon UK](https://www.dxw.com/2016/09/pycon-uk/) for Dextreous Digital
