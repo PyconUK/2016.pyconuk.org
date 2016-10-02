@@ -1,6 +1,7 @@
 title: 'Addition: well, that escalated quickly!'
 subtitle:
 speaker: zara-siddique
+video: https://www.youtube.com/watch?v=sA9z0p_cOvk
 ---
 I'm interested in *optimal addition chains*. These first seemed to me like an adding game with only one rule: you can only use numbers you’ve used before, and you have to start at 1.
 

@@ -1,6 +1,7 @@
 title: 'Symbolic Computation with Python using SymPy'
 subtitle:
 speaker: sartaj-singh
+video: https://www.youtube.com/watch?v=f4cXX0wa9VM
 ---
 This workshop aims to introduce attendees to SymPy, a computer aided algebra system (CAS) written in Python. We will show basics of constructing and manipulating mathematical expressions in SymPy, the most common issues and differences from other computer algebra systems, and how to deal with them.
 

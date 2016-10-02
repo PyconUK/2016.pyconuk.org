@@ -1,6 +1,7 @@
 title: 'Form Follows Functions'
 subtitle:
 speaker: ed-singleton
+video: https://www.youtube.com/watch?v=Kzd1BBuGgdQ
 ---
 A revolution in materials lead to a revolution in architecture, and a complete rethink of how we design buildings.
 
