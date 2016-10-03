@@ -33,4 +33,4 @@ If you don't know how to do that, just send us the link and we'll do it for you.
 * Chris Dent: My rough notes from [PyCon UK 2016](https://anticdent.org/pyconuk-2016.html)
 * Olivia Guest: [PyCon UK 2016](https://www.software.ac.uk/blog/2016-09-29-pycon-uk-2016) for the Software Sustainability Institute
 * Sammy Earles: [PyCon UK](https://www.dxw.com/2016/09/pycon-uk/) for Dextreous Digital
-* Stewart Watkiss: [PyconUK 2016 – Sending secret messages with a micro:bit](http://www.watkissonline.co.uk/wordpress/?p=7960) Children's day
+* Stewart Watkiss: [PyCon UK 2016 – Sending secret messages with a micro:bit](http://www.watkissonline.co.uk/wordpress/?p=7960) Children's day
