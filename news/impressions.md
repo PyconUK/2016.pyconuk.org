@@ -35,3 +35,4 @@ If you don't know how to do that, just send us the link and we'll do it for you.
 * Sammy Earles: [PyCon UK](https://www.dxw.com/2016/09/pycon-uk/) for Dextreous Digital
 * Stewart Watkiss: [PyCon UK 2016 – Sending secret messages with a micro:bit](http://www.watkissonline.co.uk/wordpress/?p=7960) Children's day
 * Rae Knowler: [A recap of PyCon UK 2016](https://blog.liip.ch/archive/2016/10/03/recap-pycon-uk-2016.html)
+* Zvonimir Bošnjak: [Amphinicy @ Cardiff PyCon UK](http://www.amphinicy.com/blog/view/amphinicy_cardiff_pyconuk/)
