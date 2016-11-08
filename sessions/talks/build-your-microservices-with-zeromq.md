@@ -1,6 +1,7 @@
 title: 'Build your Microservices with ZeroMQ'
 subtitle:
 speaker: floris-bruynooghe
+video: https://www.youtube.com/watch?v=q412GQIV_WI
 ---
 Microservices is the popular term for the trend to build backend
 architectures as a number of smaller independent processes.  As an

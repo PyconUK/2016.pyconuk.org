@@ -2,6 +2,7 @@ title: 'An introduction to property-based testing and Hypothesis'
 subtitle:
 speaker: alex-chan
 video: https://www.youtube.com/watch?v=fhFXg2f9D2A
+video: https://www.youtube.com/watch?v=w_uZAQlmcQ8
 ---
 Testing is a cornerstone of modern software development.  It provides us with a safety net against bugs and regressions – without testing, it would be impossible to write large-scale applications.
 

@@ -1,6 +1,7 @@
 title: "Why /dev/random is a horrible idea and other problems you didn't know you had yet"
 subtitle:
 speaker: cory-benfield
+video: https://www.youtube.com/watch?v=4E7uQD3lpus
 ---
 Having access to randomness turns out to be remarkably important in computing. Whether you’re a scientist working on a simulation, someone trying to send secret messages, or just a person who wants to play a randomly generated video game level, having access to some kind of non-determinism is vital. But computers, as we all know, are thoroughly deterministic entities. So how can we get randomness?
 

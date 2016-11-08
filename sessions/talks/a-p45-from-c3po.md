@@ -1,6 +1,7 @@
 title: 'A P45 from C-3PO?'
 subtitle:
 speaker: emma-gordon
+video: https://www.youtube.com/watch?v=KvEO47UDatw
 ---
 We're heading into a future of delivery drones, driverless cars and 3D-printed "hoverboards" ...
 
