@@ -2,6 +2,7 @@ title: 'Test-Driven Data Analysis'
 subtitle:
 speaker: nick-radcliffe
 slides: http://www.tdda.info/pdf/tdda-pycon-cardiff-2016-slides.pdf
+video: https://www.youtube.com/watch?v=FIw_7aUuY50
 ---
 Test-driven data analysis (TDDA) seeks to take some of the ideas and practices from test-driven development and apply them, with appropriate modifications, to avoid some of the common pitfalls in data analysis. While some of the ideas carry over straightforwardly, both the way data analysis is typically developed and the nature of data analysis tasks mean that mainstream TDD ideas need to be modified and extended to be fully effective in the context of data analysis.
 

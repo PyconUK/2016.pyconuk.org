@@ -2,6 +2,7 @@ title: 'Creating a reproducible more secure python application'
 subtitle:
 speaker: tessa-alexander
 slides: https://docs.google.com/presentation/d/13JQwCzIGjSYPYclkgtwBtU9Z0OQxW2yt4KB-mSwsU4E/edit#slide=id.p
+video: https://www.youtube.com/watch?v=N10FFI_hF8s
 ---
 Introduce the python environment wrapper and packing tools; virtualenv & pip.
 

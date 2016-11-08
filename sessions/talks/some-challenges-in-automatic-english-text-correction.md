@@ -1,6 +1,7 @@
 title: 'Some challenges in automatic English text correction'
 subtitle:
 speaker: tatiana-al-chueyr-martins
+video: https://www.youtube.com/watch?v=XhFU1rkWEGg
 ---
 Some applications in the market assist users to correct different writing mistakes, including spelling and grammar errors. However, very rarely these tools are used by school teachers. For most of them, it is still time consuming and tedious to correct (beginners) student essays.
 

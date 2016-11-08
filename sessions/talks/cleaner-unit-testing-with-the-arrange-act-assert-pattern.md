@@ -1,6 +1,7 @@
 title: 'Cleaner unit testing with the Arrange Act Assert pattern'
 subtitle:
 speaker: james-cooke
+video: https://www.youtube.com/watch?v=GGw5T1mw9vU
 ---
 My name is James and I've been using the Arrange Act Assert pattern as part of
 my daily Test Driven Development practice for a number of years over multiple
