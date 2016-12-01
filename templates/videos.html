@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+
+{% block content %}
+<article class="main-article">
+  <div class="content">
+    <div class="column_content">
+      <h1>Videos from the conference</h1>
+
+      <p>We were able to film many of the talks from this year's conference, and the videos are now all available on YouTube.<p>
+
+      <ul>
+        {% for session in sessions %}
+        <li><a href="{% url 'session' session.session_type session.slug %}">{{ session.title }}</a> ({{ session.speaker.name }})</li>
+        {% endfor %}
+      </ul>
+    </div>
+</article>
+{% endblock %}
+

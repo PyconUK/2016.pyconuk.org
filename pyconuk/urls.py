@@ -17,6 +17,7 @@ urlpatterns = [
     url(r'^speakers/$', views.speakers_view, name='speakers'),
     url(r'^sponsors/(?P<key>[\w-]+)/$', views.sponsor_view, name='sponsor'),
     url(r'^sponsors/$', views.sponsors_view, name='sponsors'),
+    url(r'^videos/$', views.videos_view, name='videos'),
     url(r'^$', views.page_view, name='index'),
     url(r'^unlinked-pages/$', views.unlinked_pages_view, name='unlinked_pages'),
     url(r'^calendar/$', views.ical_schedule_view, name="ical_schedule"),
