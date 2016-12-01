@@ -341,3 +341,16 @@ def unlinked_pages_view(request):
     }
 
     return render(request, template, context)
+
+
+def videos_view(request):
+    sessions = Session.objects.order_by('speaker__name').filter(video__isnull=False)
+
+    template = 'videos.html'
+
+    context = {
+        'sessions': sessions,
+        'title': 'Videos from the conference'
+    }
+
+    return render(request, template, context)
