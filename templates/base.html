@@ -32,23 +32,21 @@
     </head>
 
     <body class="home">
-        <header class="head noPrint">
+        <nav class="masthead noprint">
+            <label id="toggle" for="menu-toggle"></label>
+            <input type="checkbox" id="menu-toggle" name="menu-toggle" />
+            <ul>
+                <li><a href="/programme/">Programme</a></li>
+                <li><a href="/news/">News</a></li>
+                <li><a href="/cfp/">Proposals</a></li>
+                <li><a href="/sponsorship/">Sponsor</a></li>
+                <li><a href="/venue/">Venue</a></li>
+                <li><a href="/code-of-conduct/">Conduct</a></li>
+                <li><a href="/contact/">Contact</a></li>
+                <li><a class="cta" href="/tickets/">Tickets</a></li>
+        </nav>
+        <header class="head noprint">
             <h1><a href="/"><span>PYCON UK</span></a></h1>
-
-            <input type="checkbox" name="primary-nav" class="hidden" id="primary-nav" />
-            <label for="primary-nav"></label>
-            <a href="/tickets/" class="btn small">Tickets</a>
-            <nav>
-                <ul class="primary pull-right">
-                    <li><a href="/programme/">Programme</a></li>
-                    <li><a href="/news/">News</a></li>
-                    <li><a href="/cfp/">Proposals</a></li>
-                    <li><a href="/sponsorship/">Sponsor</a></li>
-                    <li><a href="/venue/">Venue</a></li>
-                    <li><a href="/code-of-conduct/">Code of Conduct</a></li>
-                    <li><a href="/contact/">Contact</a></li>
-                </ul>
-            </nav>
         </header>
 
         {% block content %}{% endblock %}
