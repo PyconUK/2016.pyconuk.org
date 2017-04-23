@@ -1,4 +1,5 @@
 {% extends "base.html" %}
+{% load humanize %}
 
 {% block content %}
 <div class="header red">
@@ -8,20 +9,21 @@
 </div>
 
 <article class="main-article">
-  <div id="schedule-content">
     <div id="schedule">
-      <p class="noPrint">
-        Jump to:
-        {% for schedule in schedules %}
-        <a href="#{{ schedule.day }}">{{ schedule.date }}</a> {% if not forloop.last %}|{% endif %}
-        {% endfor %}
-      </p>
+      <table class="six noPrint v-centered">
+        <tr>
+          <td>Jump&nbsp;to:</td>
+          {% for schedule in schedules %}
+          <td><a href="#{{ schedule.day }}">{{ schedule.date }}</a></td>
+          {% endfor %}
+        </tr>
+      </table>
       <label for="show-speakers" class="noPrint">Show Speakers:</label>
       <input id="show-speakers" class="noPrint" type="checkbox">
       {% for schedule in schedules %}
       <div id="{{ schedule.day }}" class="pageBreak">
         <h1>{{ schedule.date }}</h1>
-        <table>
+        <table class="{{ schedule.rooms|length|add:1|apnumber }}">
           <tr>
             <th></th>
             {% for room in schedule.rooms %}
@@ -33,7 +35,11 @@
             <td>{{ row.0.value }}</td>
             {% for cell in row|slice:"1:" %}
             {% if cell.value %}
-            <td colspan={{ cell.width }} rowspan={{ cell.height }}>
+            <td colspan="{{ cell.width }}" rowspan="{{ cell.height }}"
+                {% if cell.value.text in 'Registration Introduction Break Lunch Close'|slice:' ' %}
+                class="section"
+                {% endif %}
+                >
               {% if cell.value.url %}
               <a href="{{ cell.value.url }}">{{ cell.value.text }}</a>
               {% else %}
@@ -53,6 +59,5 @@
       </div>
       {% endfor %}
     </div>
-  </div>
 </article>
 {% endblock %}
