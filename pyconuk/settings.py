@@ -46,6 +46,7 @@ INSTALLED_APPS = [
     # don't use them directly.
     'django.contrib.auth',
     'django.contrib.contenttypes',
+    'django.contrib.humanize',
 
     'django.contrib.staticfiles',
 ]

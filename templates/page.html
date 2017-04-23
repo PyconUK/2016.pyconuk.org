@@ -47,25 +47,30 @@
 
       <hr />
 
-      {% if show_sponsors %}
-      <div class="sponsors-list">
-        <h3>The conference wouldn't happen without the support of our sponsors:</h3>
-        <table>
-          {% for row in sponsor_table %}
-          <tr>
-            {% for sponsor in row %}
-            <td colspan="{% if row|length == 1 %}2{% else %}1{% endif %}" class="{% if row|length == 1 %}wide-logo{% else %}logo{% endif %}">
-              <a href="{% if sponsor.content %}/sponsors/{{ sponsor.key }}/{% else %}#{% endif %}">
-                <img src="/static/img/logos/{{ sponsor.logo_filename }}" />
-              </a>
-            </td>
-            {% endfor %}
-          </tr>
-          {% endfor %}
-        </table>
-      </div>
-      {% endif %}
     </div>
   </div>
 </article>
+
+{% if show_sponsors %}
+<article class="main-article sponsors">
+  <h1>Sponsors</h1>
+  <section>
+    {% for sponsor in sponsors %}
+    {% widthratio sponsor.logo.width 3 1 as width %}
+    {% widthratio 6000 sponsor.logo.height 1 as padding %}
+    <div style="width:{{ width }}px;flex-grow:{{ width }}">
+        <i style="padding-bottom:{{ padding }}%"></i>
+        {% if sponsor.content %}
+        <a href="/sponsors/{{ sponsor.key }}/">
+        {% endif %}
+        <img src="/static/img/logos/{{ sponsor.logo_filename }}" alt="{{ sponsor.name }}">
+        {% if sponsor.content %}
+        </a>
+        {% endif %}
+    </div>
+    {% endfor %}
+  </section>
+</article>
+{% endif %}
+
 {% endblock %}

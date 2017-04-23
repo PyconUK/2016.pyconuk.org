@@ -2,6 +2,7 @@ django-amber==0.5.0
 django-markdown-deux
 django_compressor
 http-crawler>=0.1.2
+pillow
 pip-tools
 pytz==2016.6.1
 vobject==0.9.3
