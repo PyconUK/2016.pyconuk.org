@@ -4,19 +4,31 @@
 
 {% block content %}
 <div class="jumbotron">
-  <div id="glitter_column_billboard_top">
-    <div class="glitter_page_blocktype_poster glitter_page_block_first glitter_page_block glitter_page_block_odd glitter_page_block_last">
-      <div class="image-holder">
-        <img src="/static/img/home.png" class="bg-img">
-      </div>
-      <div class="poster-callout">
-        <h1>{{ callout_big_1 }}</h1>
-        {% if callout_big_2 %}
-        <br/><h1>{{ callout_big_2 }}</h1>
-        {% endif %}
-        {% if callout_small %}
-        <br/><h4>{{ callout_small }}</h4>
-        {% endif %}
+  <div class="callout">
+    <h1>PyCon UK is your community-led <br />volunteer-run conference</h1>
+    <h4>Thursday 26th to Monday 30th October 2017<br />Cardiff City Hall</h4>
+    <a class="cta" href="#">Register now</a>
+  </div>
+  <div class="image-holder">
+    <img src="/static/img/city_hall.png" class="bg-img">
+    <img src="/static/img/python.svg" class="flying-python 1" />
+    <div class="pyconuk">
+      <div class="circle">
+        <div class="python blue slueth right">
+          <div class="deerstalker"></div>
+          <div class="eye"></div>
+          <div class="moustache"></div>
+        </div>
+        <div class="python yellow queen right">
+          <div class="eye"></div>
+          <div class="crown">
+            <img src="/static/img/crown.svg" />
+          </div>
+        </div>
+        <div class="python red swot">
+          <div class="eye"></div>
+          <div class="glasses"></div>
+        </div>
       </div>
     </div>
   </div>
