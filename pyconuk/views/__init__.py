@@ -9,7 +9,7 @@ from django.utils.six.moves.urllib.parse import unquote
 from django.views import static
 
 from ..models import NewsItem, Page, Redirection, Session, Speaker, Sponsor
-from ..utils import load_schedule_context
+from ..utils import load_schedule_context, logo_css
 
 from .ical import ical_schedule_view
 
@@ -43,8 +43,10 @@ def page_view(request, key='index'):
     ]
 
     for sponsor in sponsors:
-        path = 'media/img/logos/%s' % sponsor.logo_filename
-        sponsor.logo = ImageFile(open(path, 'rb'))
+        logo_path = 'media/img/logos/%s' % sponsor.logo_filename
+        with open(logo_path, 'rb') as logo_file:
+            logo = ImageFile(logo_file)
+            sponsor.logo_css = logo_css(logo.width, logo.height)
 
     template = 'page.html'
 

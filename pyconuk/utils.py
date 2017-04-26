@@ -92,6 +92,14 @@ def compute_html_table_dimensions(table):
     return table_with_dimensions
 
 
+def logo_css(width, height):
+    """Compute the width and padding values to layout a sponsor logo.
+    """
+    scaled_width =  int(round(width * 100 / height))
+    padding =       int(round(height / width * 100))
+    return {'scaled_width': scaled_width, 'padding': padding}
+
+
 if __name__ == '__main__':
     table = [
         ['A', 'B', 'B', 'B'],

@@ -56,10 +56,8 @@
   <h1>Sponsors</h1>
   <section>
     {% for sponsor in sponsors %}
-    {% widthratio sponsor.logo.width 3 1 as width %}
-    {% widthratio 6000 sponsor.logo.height 1 as padding %}
-    <div style="width:{{ width }}px;flex-grow:{{ width }}">
-        <i style="padding-bottom:{{ padding }}%"></i>
+    <div style="width:{{ sponsor.logo_css.scaled_width }}px;flex-grow:{{ sponsor.logo_css.scaled_width }}">
+        <i style="padding-bottom:{{ sponsor.logo_css.padding }}%"></i>
         {% if sponsor.content %}
         <a href="/sponsors/{{ sponsor.key }}/">
         {% endif %}
