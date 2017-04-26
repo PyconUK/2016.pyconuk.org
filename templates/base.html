@@ -10,7 +10,9 @@
 
         <title>{{ title }}</title>
 
-        <link href="/static/css/style.css" rel="stylesheet" type="text/css" />
+        {% compress css %}
+        <link href="/static/css/style.less" rel="stylesheet" type="text/less" />
+        {% endcompress %}
 
         <script src="https://use.typekit.net/kla0hed.js"></script>
         <!--[if lt IE 9]>
