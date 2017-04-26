@@ -18,8 +18,6 @@
           {% endfor %}
         </tr>
       </table>
-      <label for="show-speakers" class="noPrint">Show Speakers:</label>
-      <input id="show-speakers" class="noPrint" type="checkbox">
       {% for schedule in schedules %}
       <div id="{{ schedule.day }}" class="pageBreak">
         <h1>{{ schedule.date }}</h1>
