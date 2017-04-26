@@ -34,6 +34,7 @@ def load_schedule_context(date, rooms_in_order):
             'url': url,
             'speaker': speaker,
             'chair': chair,
+            'room': slot.room,
         }
 
     slots_table = [
@@ -51,6 +52,17 @@ def load_schedule_context(date, rooms_in_order):
     }
 
 
+def same_session(session1, session2):
+    if not isinstance(session1, dict) or not isinstance(session2, dict):
+        return bool(session1 == session2)
+    else:
+        return bool(
+            session1['text'] == session2['text']
+            and session1['url'] == session2['url']
+            and session1['speaker'] == session2['speaker']
+            and session1['chair'] == session2['chair']
+        )
+
 def compute_html_table_dimensions(table):
     table_with_dimensions = []
 
@@ -67,19 +79,21 @@ def compute_html_table_dimensions(table):
                 row.append({'value': value, 'width': width, 'height': height})
 
             else:
-                if col_ix == 0 or table[row_ix][col_ix] != table[row_ix][col_ix - 1]:
-                    if row_ix == 0 or table[row_ix][col_ix] != table[row_ix - 1][col_ix]:
+                if col_ix == 0 or not same_session(table[row_ix][col_ix],
+                                                   table[row_ix][col_ix - 1]):
+                    if row_ix == 0 or not same_session(table[row_ix][col_ix],
+                                                       table[row_ix - 1][col_ix]):
                         width = 1
                         height = 1
 
                         while col_ix + width < n_cols:
-                            if table[row_ix][col_ix + width] == value:
+                            if same_session(table[row_ix][col_ix + width], value):
                                 width += 1
                             else:
                                 break
 
                         while row_ix + height < n_rows:
-                            if table[row_ix + height][col_ix] == value:
+                            if same_session(table[row_ix + height][col_ix], value):
                                 height += 1
                             else:
                                 break

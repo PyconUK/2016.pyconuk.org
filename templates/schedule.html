@@ -46,6 +46,9 @@
               {% if cell.value.speaker %}
               <small class="speaker">{{ cell.value.speaker }}</small>
               {% endif %}
+              {% if cell.value.room %}
+              <small class="room">{{ cell.value.room }}</small>
+              {% endif %}
             </td>
             {% else %}
             <td class="empty-cell"></td>
