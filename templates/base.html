@@ -55,23 +55,32 @@
         {% block content %}{% endblock %}
 
         <footer class="foot">
+            <div class="company-information">
+                <ul class="social-icons">
+                    <li><a href="https://twitter.com/PyConUK" class="twitter"></a></li>
+                    <li><a href="https://www.youtube.com/channel/UChA9XP_feY1-1oSy2L7acog" class="youtube"></a></li>
+                </ul>
+                <div class="foot-nav pull-right">
+                    <ul>
+                        <li><a href="https://www.blanc.ltd.uk/">Design by Blanc</a></li>
+                    </ul>
+                </div>
+                <div class="legal pull-left">
+                    <small>&copy; 2017 PyCon UK Society Ltd. All rights reserved.</small>
+                </div>
+            </div>
             <address>
                 <strong>PyCon UK Society Ltd.</strong>
-                <br />
-                <small>Company Number: 10073469<br />
-                c/o Acconomy
-                <br /> Arena Business Centre,
-                <br /> Holyrood Close
-                <br /> Poole
-                <br />BH17 7FJ
-                <br /> United Kingdom</small>
+                <small>Company Number: <a href="http://data.companieshouse.gov.uk/doc/company/10073469">10073469</a>,
+                c/o Acconomy,
+                Arena Business Centre,
+                Holyrood Close,
+                Poole,
+                BH17 7FJ,
+                United Kingdom</small>
             </address>
         </footer>
 
-        <div class="legal">
-            <small>&copy; 2016 PyCon UK Society Ltd. All rights reserved.
-            </small>
-        </div>
         <!-- this is a hack to persuade django-amber to build pages that aren't linked to from anywhere else -->
         <div display="hidden">
           <a href="/unlinked-pages/"></a>

@@ -6,6 +6,7 @@
 @blue: #0071bc;
 @link: @blue;
 @diff: pink;
+@line: #d0d1c6;
 ////////////////////////////////////////////////////////////////////////////////
 // fonts
 
@@ -48,6 +49,38 @@
 
 .font-body() {
   font-family: 'GidoleRegular';
+}
+
+@font-face {
+    font-family: 'icomoon';
+    src:    url('../fonts/icomoon.eot?173rwh');
+    src:    url('../fonts/icomoon.eot?173rwh#iefix') format('embedded-opentype'),
+        url('../fonts/icomoon.ttf?173rwh') format('truetype'),
+        url('../fonts/icomoon.woff?173rwh') format('woff'),
+        url('../fonts/icomoon.svg?173rwh#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.icon {
+    font-family: 'icomoon' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.pull-left { float: left; }
+.pull-right { float: right; }
+
+.remove-list-style {
+    list-style: none;
+    padding: 0;
+    margin: 0;
 }
 
 ////////////////////////////////////////////////////////////////////////////////
@@ -924,19 +957,112 @@ table {
 ////////////////////////////////////////////////////////////////////////////////
 // footer
 .foot {
-  border-top: 16px solid @edge;
-  padding: 1em;
+  background: @edge;
+  color: @back;
   overflow: hidden;
+  text-align: center;
   address {
     margin: -1em -1em -1em 0;
     padding: 1em;
     border-left: 1px solid @edge;
-    float: right;
+    //float: right;
+  }
+  body.home & .subscription-block { border-top: 2px solid @line; }
+  p {
+      margin: 0;
+      display: inline-block;
+  }
+  ul:not(.social-icons) {
+      .remove-list-style;
+      li {
+          display: inline-block;
+          a {
+              display: inline-block;
+              text-decoration: none;
+              color: @back;
+          }
+          &:not(:first-of-type) {
+              margin-left: 2em;
+          }
+      }
+  }
+  p, ul:not(.social-icons) {
+      padding-top: 1.25em;
+      font-size: 0.875em;
+  }
+  .company-information {
+      width: 100%;
+      overflow: hidden;
+      text-align: center;
+      padding: 1.25em 0 1.25em 0;
+      position: relative;
+      @media all and (min-width: (960px)) {
+          .social-icons {
+              position: absolute;
+              top: 1.75em;
+              left: 50%;
+              transform: translateX(-50%);
+          }
+      }
+  }
+  @media all and (max-width: 960px) {
+      .pull-left, .pull-right {
+          float: none;
+          text-align: center;
+      }
+      a { font-weight: bold; }
   }
 }
 
 .legal {
-  background: @edge;
-  color: @back;
   padding: 1em 0 0 0;
+}
+
+.social-icons {
+    .remove-list-style;
+    display: inline-block;
+    li {
+        display: inline-block;
+        float: left;
+        &:first-of-type a {
+            border-top-left-radius: 0.25em;
+            border-bottom-left-radius: 0.25em;
+        }
+        &:last-of-type a {
+            border-top-right-radius: 0.25em;
+            border-bottom-right-radius: 0.25em;
+        }
+        &:not(:first-of-type) {
+            border-left: 2px solid @line;
+        }
+    }
+    a {
+        text-decoration: none;
+        font-size: 1.75em;
+        font-weight: normal;
+        display: block;
+        height: 40px;
+        width: 60px;
+        display: table-cell;
+        vertical-align: middle;
+        &:after {
+            .icon;
+            color: @back;
+        }
+    }
+    a.facebook {
+        &:after { content: "\e900"; }
+    }
+    a.twitter {
+        &:after { content: "\e902"; }
+    }
+    a.instagram {
+        &:after { content: "\e903"; }
+    }
+    a.linkedin {
+        &:after { content: "\e904"; }
+    }
+    a.youtube {
+        &:after { content: "\e905"; }
+    }
 }
