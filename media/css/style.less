@@ -439,9 +439,12 @@ nav {
     right: 1em;
     top: auto;
     font-size: 0.25em;
+    @media all and (max-width: 559.9px) {
+      display: none;
+    }
     @media all and (min-width: 560px) {
       font-size: 0.55em;
-      bottom: 5em;
+      bottom: -5em;
     }
     @media all and (min-width:660px) {
       font-size: 0.65em;
