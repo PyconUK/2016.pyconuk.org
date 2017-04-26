@@ -16,7 +16,7 @@ Development
 
 This site uses django-amber_. To install django-amber and other dependencies, run ``pip install -r requirements.txt``.  django-amber is only known to work with Python 3.5.
 
-You must also install `less <https://www.npmjs.com/package/less>`_, and ensure that `lessc` is available in your PATH.
+You must also install `less <https://www.npmjs.com/package/less>`_, and ensure that `lessc` is available in your PATH. The version of lessc packaged in Ubuntu 16.04 is not sufficient (it's probably too old)
 
 django-amber builds the site by assembling several components:
 
