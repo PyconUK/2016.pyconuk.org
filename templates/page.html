@@ -4,19 +4,31 @@
 
 {% block content %}
 <div class="jumbotron">
-  <div id="glitter_column_billboard_top">
-    <div class="glitter_page_blocktype_poster glitter_page_block_first glitter_page_block glitter_page_block_odd glitter_page_block_last">
-      <div class="image-holder">
-        <img src="/static/img/home.png" class="bg-img">
-      </div>
-      <div class="poster-callout">
-        <h1>{{ callout_big_1 }}</h1>
-        {% if callout_big_2 %}
-        <br/><h1>{{ callout_big_2 }}</h1>
-        {% endif %}
-        {% if callout_small %}
-        <br/><h4>{{ callout_small }}</h4>
-        {% endif %}
+  <div class="callout">
+    <h1>PyCon UK is your community-led <br />volunteer-run conference</h1>
+    <h4>Thursday 26th to Monday 30th October 2017<br />Cardiff City Hall</h4>
+    <a class="cta" href="#">Register now</a>
+  </div>
+  <div class="image-holder">
+    <img src="/static/img/city_hall.png" class="bg-img">
+    <img src="/static/img/python.svg" class="flying-python 1" />
+    <div class="pyconuk">
+      <div class="circle">
+        <div class="python blue slueth right">
+          <div class="deerstalker"></div>
+          <div class="eye"></div>
+          <div class="moustache"></div>
+        </div>
+        <div class="python yellow queen right">
+          <div class="eye"></div>
+          <div class="crown">
+            <img src="/static/img/crown-black.svg" />
+          </div>
+        </div>
+        <div class="python red swot">
+          <div class="eye"></div>
+          <div class="glasses"></div>
+        </div>
       </div>
     </div>
   </div>
@@ -35,25 +47,28 @@
 
       <hr />
 
-      {% if show_sponsors %}
-      <div class="sponsors-list">
-        <h3>The conference wouldn't happen without the support of our sponsors:</h3>
-        <table>
-          {% for row in sponsor_table %}
-          <tr>
-            {% for sponsor in row %}
-            <td colspan="{% if row|length == 1 %}2{% else %}1{% endif %}" class="{% if row|length == 1 %}wide-logo{% else %}logo{% endif %}">
-              <a href="{% if sponsor.content %}/sponsors/{{ sponsor.key }}/{% else %}#{% endif %}">
-                <img src="/static/img/logos/{{ sponsor.logo_filename }}" />
-              </a>
-            </td>
-            {% endfor %}
-          </tr>
-          {% endfor %}
-        </table>
-      </div>
-      {% endif %}
     </div>
   </div>
 </article>
+
+{% if show_sponsors %}
+<article class="main-article sponsors">
+  <h1>Sponsors</h1>
+  <section>
+    {% for sponsor in sponsors %}
+    <div style="width:{{ sponsor.logo_css.scaled_width }}px;flex-grow:{{ sponsor.logo_css.scaled_width }}">
+        <i style="padding-bottom:{{ sponsor.logo_css.padding }}%"></i>
+        {% if sponsor.content %}
+        <a href="/sponsors/{{ sponsor.key }}/">
+        {% endif %}
+        <img src="/static/img/logos/{{ sponsor.logo_filename }}" alt="{{ sponsor.name }}">
+        {% if sponsor.content %}
+        </a>
+        {% endif %}
+    </div>
+    {% endfor %}
+  </section>
+</article>
+{% endif %}
+
 {% endblock %}

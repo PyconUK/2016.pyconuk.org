@@ -2,13 +2,14 @@ import os
 import posixpath
 
 from django.contrib.staticfiles import finders
+from django.core.files.images import ImageFile
 from django.http import Http404
 from django.shortcuts import get_object_or_404, render
 from django.utils.six.moves.urllib.parse import unquote
 from django.views import static
 
 from ..models import NewsItem, Page, Redirection, Session, Speaker, Sponsor
-from ..utils import load_schedule_context
+from ..utils import load_schedule_context, logo_css
 
 from .ical import ical_schedule_view
 
@@ -24,22 +25,28 @@ def page_view(request, key='index'):
 
     assert page.content_format in ['html', 'md'], 'Page content must use HTML or Markdown'
 
-    sponsor_table_keys = [
-        ['bank-of-america'],
-        ['jp-morgan'],
-        ['government-digital-service', 'lyst'],
-        ['pythonanywhere', 'mosaic'],
-        ['oreilly', 'hpe'],
-        ['potato', 'jetbrains'],
-        ['smarkets', 'stx-next'],
-        ['blanc', 'pluralsight'],
-        ['rpf', 'psf'],
+    sponsor_keys = [
+        'bank-of-america',
+        'jp-morgan',
+        'government-digital-service', 'lyst',
+        'pythonanywhere', 'mosaic',
+        'oreilly', 'hpe',
+        'potato', 'jetbrains',
+        'smarkets', 'stx-next',
+        'blanc', 'pluralsight',
+        'rpf', 'psf',
     ]
 
-    sponsor_table = [
-        [Sponsor.objects.get(key=key) for key in row]
-        for row in sponsor_table_keys
+    sponsors = [
+        Sponsor.objects.get(key=key)
+        for key in sponsor_keys
     ]
+
+    for sponsor in sponsors:
+        logo_path = 'media/img/logos/%s' % sponsor.logo_filename
+        with open(logo_path, 'rb') as logo_file:
+            logo = ImageFile(logo_file)
+            sponsor.logo_css = logo_css(logo.width, logo.height)
 
     template = 'page.html'
 
@@ -52,7 +59,7 @@ def page_view(request, key='index'):
         'callout_small': page.callout_small,
         'tito_required': page.tito_required,
         'show_sponsors': page.show_sponsors,
-        'sponsor_table': sponsor_table,
+        'sponsors': sponsors,
     }
 
     return render(request, template, context)

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="110.4" height="109.8" xmlns:xlink="http://www.w3.org/1999/xlink" version="1">
+  <defs>
+    <linearGradient id="a">
+      <stop offset="0" stop-color="#ffe052"/>
+      <stop offset="1" stop-color="#ffc331"/>
+    </linearGradient>
+    <linearGradient id="d" x1="89.1" x2="147.8" y1="111.9" y2="168.1" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+    <linearGradient id="b">
+      <stop offset="0" stop-color="#387eb8"/>
+      <stop offset="1" stop-color="#366994"/>
+    </linearGradient>
+    <linearGradient id="c" x1="55.5" x2="110.1" y1="77.1" y2="131.9" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+  </defs>
+  <g color="#000">
+    <path fill="url(#c)" d="M99.8 67.5c-28 0-26.3 12-26.3 12v12.7h26.8V96H63s-18-2-18 26.3c0 28.2 15.6 27.2 15.6 27.2H70v-13s-.6-15.8 15.3-15.8H112s14.8.3 14.8-14.4V82s2.2-14.5-27-14.5zM85 76c2.7 0 4.8 2 4.8 4.8 0 2.6-2 4.8-4.8 4.8-2.7 0-4.8-2.2-4.8-4.8 0-2.7 2-5 4.8-5z" overflow="visible" transform="translate(-44.938 -67.47)"/>
+    <path fill="url(#d)" d="M100.5 177.3c28 0 26.3-12 26.3-12v-12.7H100v-3.8h37.4s18 2 18-26.3-15.7-27.2-15.7-27.2h-9.3v13S131 124 115 124H88.4s-15-.2-15 14.4v24.3s-2 14.6 27 14.6zm14.8-8.5c-2.7 0-4.8-2-4.8-4.8 0-2.6 2-4.8 4.8-4.8 2.7 0 4.8 2.2 4.8 4.8 0 2.7-2 4.8-4.6 4.8z" overflow="visible" transform="translate(-44.938 -67.47)"/>
+  </g>
+</svg>
